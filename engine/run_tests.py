@@ -2,6 +2,9 @@
 """Data engine: run buyer-intent prompts through AI engines, record who gets named.
 
 Requires PERPLEXITY_API_KEY (GitHub secret). Exits gracefully without it.
+HARD monthly budget cap enforced locally in data/spend.json — the engine
+refuses to run once estimated monthly spend hits MONTHLY_BUDGET_USD.
+
 Output: data/runs/YYYY-MM-DD.json
 """
 import json
@@ -14,9 +17,26 @@ import yaml
 
 ROOT = Path(__file__).parent.parent
 OUT = ROOT / "data" / "runs" / f"{date.today().isoformat()}.json"
+SPEND = ROOT / "data" / "spend.json"
 
-# Cap prompts per run to keep API spend ~$5/mo. Expand over time.
-MAX_PROMPTS_PER_RUN = 12
+# --- Budget guardrails ---
+MONTHLY_BUDGET_USD = 5.00          # hard cap, per user instruction
+COST_PER_REQUEST_USD = 0.006       # conservative: sonar request+search fees+tokens
+MAX_PROMPTS_PER_RUN = 12           # ~360 requests/mo ≈ $2.20 — well under cap
+MAX_OUTPUT_TOKENS = 800            # keeps answers focused and cost predictable
+
+
+def load_spend():
+    if SPEND.exists():
+        s = json.loads(SPEND.read_text())
+        if s.get("month") == date.today().strftime("%Y-%m"):
+            return s
+    return {"month": date.today().strftime("%Y-%m"), "requests": 0, "estimated_usd": 0.0}
+
+
+def save_spend(s):
+    SPEND.parent.mkdir(parents=True, exist_ok=True)
+    SPEND.write_text(json.dumps(s, indent=2))
 
 
 def main():
@@ -24,6 +44,15 @@ def main():
     if not key:
         print("PERPLEXITY_API_KEY not set — skipping (engine idle until key added).")
         return
+
+    spend = load_spend()
+    remaining = MONTHLY_BUDGET_USD - spend["estimated_usd"]
+    allowed = min(MAX_PROMPTS_PER_RUN, int(remaining / COST_PER_REQUEST_USD))
+    if allowed <= 0:
+        print(f"BUDGET CAP REACHED for {spend['month']} "
+              f"(${spend['estimated_usd']:.2f} of ${MONTHLY_BUDGET_USD:.2f}). Engine paused until next month.")
+        return
+    print(f"Budget: ${spend['estimated_usd']:.2f} spent, {allowed} requests allowed today.")
 
     import requests
 
@@ -36,7 +65,7 @@ def main():
     # Rotate deterministically so coverage spreads across days
     day = date.today().toordinal()
     rotated = prompts[day % len(prompts):] + prompts[:day % len(prompts)]
-    batch = rotated[:MAX_PROMPTS_PER_RUN]
+    batch = rotated[:allowed]
 
     results = []
     for p in batch:
@@ -45,7 +74,8 @@ def main():
                 "https://api.perplexity.ai/chat/completions",
                 headers={"Authorization": f"Bearer {key}"},
                 json={
-                    "model": "sonar",
+                    "model": "sonar",  # cheapest tier
+                    "max_tokens": MAX_OUTPUT_TOKENS,
                     "messages": [{"role": "user", "content": p}],
                 },
                 timeout=60,
@@ -58,13 +88,17 @@ def main():
                 "answer": data["choices"][0]["message"]["content"],
                 "citations": data.get("citations", []),
             })
+            spend["requests"] += 1
+            spend["estimated_usd"] = round(spend["requests"] * COST_PER_REQUEST_USD, 3)
             print(f"OK: {p}")
         except Exception as e:
             print(f"FAIL: {p} -> {e}")
 
+    save_spend(spend)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"date": str(date.today()), "results": results}, indent=2))
     print(f"Saved {len(results)} results -> {OUT.relative_to(ROOT)}")
+    print(f"Month spend now: ${spend['estimated_usd']:.2f} / ${MONTHLY_BUDGET_USD:.2f}")
 
 
 if __name__ == "__main__":

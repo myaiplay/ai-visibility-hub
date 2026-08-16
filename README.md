@@ -19,7 +19,7 @@ automatically as secrets are added.
 
 | Secret | Enables | Status |
 |---|---|---|
-| `PERPLEXITY_API_KEY` | nightly data engine + stat pages | pending |
+| `PERPLEXITY_API_KEY` | nightly data engine + stat pages | **active** (hard $5/mo cap in `engine/run_tests.py`) |
 | `X_API_KEY` / `X_API_SECRET` / `X_ACCESS_TOKEN` / `X_ACCESS_SECRET` | daily X posts | pending |
 | `DEVTO_API_KEY` | article cross-posting | pending |
 
