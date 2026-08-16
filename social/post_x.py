@@ -9,11 +9,26 @@ tokens in the repo.
 import json
 import os
 import sys
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 QUEUE = ROOT / "social" / "queue.txt"
 STATE = ROOT / "social" / "x_state.enc"
+SPEND = ROOT / "data" / "x_posts.json"
+
+# --- Hard spend guardrails (X credits are prepaid; these stop us burning them) ---
+MAX_POSTS_PER_MONTH = 31        # 1/day; the money cap is set on X's side (no auto-reload)
+MIN_HOURS_BETWEEN_POSTS = 20    # blocks accidental/manual re-runs draining credits
+
+
+def load_spend():
+    import datetime
+    if SPEND.exists():
+        s = json.loads(SPEND.read_text())
+        if s.get("month") == date.today().strftime("%Y-%m"):
+            return s
+    return {"month": date.today().strftime("%Y-%m"), "posts": 0, "last_post": None}
 
 
 def main():
@@ -49,7 +64,20 @@ def main():
         "refresh_token": tokens["refresh_token"],
     }).encode()))
 
-    # 2. Post next queued item
+    # 2. Spend guardrails
+    import datetime
+    spend = load_spend()
+    if spend["posts"] >= MAX_POSTS_PER_MONTH:
+        print(f"MONTHLY POST CAP REACHED ({spend['posts']}/{MAX_POSTS_PER_MONTH}). Refusing to post.")
+        return
+    if spend.get("last_post"):
+        last = datetime.datetime.fromisoformat(spend["last_post"])
+        hours = (datetime.datetime.now(datetime.timezone.utc) - last).total_seconds() / 3600
+        if hours < MIN_HOURS_BETWEEN_POSTS:
+            print(f"Too soon since last post ({hours:.1f}h < {MIN_HOURS_BETWEEN_POSTS}h). Skipping.")
+            return
+
+    # 3. Post next queued item
     lines = [l.strip() for l in QUEUE.read_text().splitlines() if l.strip()]
     if not lines:
         print("Queue empty.")
@@ -61,8 +89,13 @@ def main():
     if p.status_code in (200, 201):
         tid = p.json()["data"]["id"]
         QUEUE.write_text("\n".join(lines[1:] + [lines[0]]) + "\n")
+        spend["posts"] += 1
+        spend["last_post"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+        SPEND.parent.mkdir(parents=True, exist_ok=True)
+        SPEND.write_text(json.dumps(spend, indent=2))
         print(f"Posted: https://x.com/aicantseeme/status/{tid}")
         print(f"  text: {post[:70]}...")
+        print(f"  month usage: {spend['posts']}/{MAX_POSTS_PER_MONTH} posts")
     else:
         print(f"Post failed ({p.status_code}): {p.text[:200]}")
 
