@@ -1,0 +1,30 @@
+name: Syndicate to Dev.to
+on:
+  push:
+    branches: [main]
+    paths: ['content/articles/**', 'content/index/**']
+  schedule:
+    - cron: '11 5 * * 1'  # weekly catch-all
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  syndicate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Cross-post new articles (skips if no key)
+        env:
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+        run: python engine/syndicate_devto.py
+      - name: Commit syndication state
+        run: |
+          git config user.name "traffic-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "syndicate: dev.to state [skip ci]"
+          git push
