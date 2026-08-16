@@ -20,7 +20,7 @@ automatically as secrets are added.
 | Secret | Enables | Status |
 |---|---|---|
 | `PERPLEXITY_API_KEY` | nightly data engine + stat pages | **active** (hard $5/mo cap in `engine/run_tests.py`) |
-| `X_API_KEY` / `X_API_SECRET` / `X_ACCESS_TOKEN` / `X_ACCESS_SECRET` | daily X posts | pending |
+| `X_CLIENT_ID` / `X_CLIENT_SECRET` / `X_STATE_KEY` | daily X posts via @aicantseeme (OAuth 2.0, rotating tokens in `social/x_state.enc`) | **armed — blocked by X credit wall (402)** |
 | `DEVTO_API_KEY` | article cross-posting | **active** |
 
 ## Rules this machine follows
