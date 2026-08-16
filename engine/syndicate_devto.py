@@ -83,7 +83,7 @@ def main():
             print(f"Posted: {slug} -> {art['url']}")
         else:
             print(f"FAILED: {slug} ({r.status_code}): {r.text[:200]}")
-        time.sleep(3)  # be polite to the API
+        time.sleep(30)  # be polite to the API
 
     STATE.parent.mkdir(parents=True, exist_ok=True)
     STATE.write_text(json.dumps(state, indent=2))
