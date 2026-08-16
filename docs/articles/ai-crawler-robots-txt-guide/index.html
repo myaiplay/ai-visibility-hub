@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>robots.txt for AI crawlers — the complete allow-list guide | AI Visibility Index</title>
+<meta name="description" content="Copy-paste robots.txt configuration for GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, and Google-Extended — plus how to verify AI engines can actually reach your pages.">
+<link rel="canonical" href="https://myaiplay.github.io/ai-visibility-hub/articles/ai-crawler-robots-txt-guide">
+<meta property="og:title" content="robots.txt for AI crawlers — the complete allow-list guide">
+<meta property="og:description" content="Copy-paste robots.txt configuration for GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, and Google-Extended — plus how to verify AI engines can actually reach your pages.">
+<meta property="og:url" content="https://myaiplay.github.io/ai-visibility-hub/articles/ai-crawler-robots-txt-guide">
+<meta property="og:site_name" content="AI Visibility Index">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="robots.txt for AI crawlers — the complete allow-list guide">
+<meta name="twitter:description" content="Copy-paste robots.txt configuration for GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, and Google-Extended — plus how to verify AI engines can actually reach your pages.">
+<style>*{box-sizing:border-box;margin:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;color:#1c1917;line-height:1.7;background:#fafaf9}
+.wrap{max-width:720px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid #e7e5e4;padding:16px 0;background:#fff}
+header .wrap{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+.logo{font-weight:700;color:#1c1917;text-decoration:none;font-size:18px}
+nav a{color:#57534e;text-decoration:none;margin-left:20px;font-size:15px}
+nav a:hover{color:#1c1917}
+.nav-cta{background:#1c1917;color:#fff!important;padding:7px 14px;border-radius:8px}
+main{padding:48px 0 64px}
+h1{font-size:2.2rem;line-height:1.2;letter-spacing:-0.02em;margin-bottom:16px}
+h2{font-size:1.5rem;margin:40px 0 12px}
+h3{font-size:1.2rem;margin:28px 0 10px}
+p,ul,ol{margin-bottom:16px}
+li{margin-bottom:6px}
+a{color:#0e7490}
+code{background:#f5f5f4;padding:2px 6px;border-radius:4px;font-size:0.9em}
+pre{background:#1c1917;color:#e7e5e4;padding:16px;border-radius:10px;overflow-x:auto;margin-bottom:20px}
+pre code{background:none;padding:0;color:inherit}
+.lede{font-size:1.15rem;color:#44403c}
+.answer{background:#ecfeff;border-left:4px solid #0e7490;padding:16px 20px;border-radius:0 10px 10px 0;margin-bottom:24px}
+.cta{background:#fff;border:1px solid #e7e5e4;border-radius:14px;padding:28px;margin-top:48px;text-align:center}
+.btn{display:inline-block;background:#0e7490;color:#fff!important;text-decoration:none;padding:13px 26px;border-radius:10px;font-weight:600;margin-top:8px}
+footer{border-top:1px solid #e7e5e4;padding:28px 0;color:#78716c;font-size:14px;background:#fff}
+.fine{font-size:12px;margin-top:6px}
+.meta{color:#78716c;font-size:14px;margin-bottom:28px}
+table{width:100%;border-collapse:collapse;margin-bottom:20px}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid #e7e5e4}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "AI Visibility Index", "url": "https://myaiplay.github.io/ai-visibility-hub", "sameAs": ["https://aicantfindme.com"], "description": "Independent data hub measuring how AI search engines recommend local businesses."}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "robots.txt for AI crawlers \u2014 the complete allow-list guide", "description": "Copy-paste robots.txt configuration for GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, and Google-Extended \u2014 plus how to verify AI engines can actually reach your pages.", "datePublished": "2026-08-16", "author": {"@type": "Organization", "name": "AI Visibility Index", "url": "https://myaiplay.github.io/ai-visibility-hub"}, "publisher": {"@type": "Organization", "name": "AI Visibility Index", "url": "https://myaiplay.github.io/ai-visibility-hub"}, "mainEntityOfPage": "https://myaiplay.github.io/ai-visibility-hub/articles/ai-crawler-robots-txt-guide"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "The crawlers that matter\n\n\n\nCrawler\nBelongs to\nBlocks what if disallowed\n\n\n\n\nGPTBot\nOpenAI\nChatGPT training data\n\n\nOAI-SearchBot\nOpenAI\nChatGPT search citations\n\n\nChatGPT-User\nOpenAI\nLive browsing when users ask\n\n\nPerplexityBot\nPerplexity\nPerplexity answers and citations\n\n\nClaudeBot\nAnthropic\nClaude's knowledge of your site\n\n\nGoogle-Extended\nGoogle\nGemini/AI training (separate from Search)\n\n\nBingbot\nMicrosoft\nBing index \u2014 feeds ChatGPT search and Copilot\n\n\n\nA subtlety worth knowing: GPTBot and OAI-SearchBot are different gates. Blocking GPTBot keeps you out of future training data; blocking OAI-SearchBot keeps you out of cited answers today. If you want AI search traffic, the second one is the one that matters most.\nCopy-paste allow-list\n# AI search crawlers - allow\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: ChatGPT-User\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\n# Everyone else\nUser-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /admin/\n\nSitemap: https://yoursite.com/sitemap.xml\n\nKeep the Disallow lines for genuine private areas only. Never put Disallow: / under User-agent: * \u2014 it blocks everything, including the AI crawlers you just allowed above (specific rules win, but a global block under * combined with missing specific rules is the classic failure).\nThree common ways sites accidentally block AI\n\nA managed host's default robots.txt. Some website builders ship a restrictive default. Check yours even if you never wrote one.\nA CDN/WAF bot rule. Cloudflare and similar services can challenge bots before robots.txt is even read. If your security settings block \"AI bots\" as a category, robots.txt won't save you.\nA blanket Disallow: / left over from a staging migration. Embarrassingly common.\n\nHow to verify it worked\n\nOpen https://yoursite.com/robots.txt in a browser \u2014 read what the world sees.\nConfirm your site is in Bing's index: search site:yoursite.com on Bing. No results = ChatGPT search can't find you either. (We built a free index check for exactly this.)\nSpot-check with a live prompt: ask ChatGPT \"what does [yoursite.com] do?\" If it can describe your services, crawling is working.\n\nFrequently asked questions\nDoes allowing AI crawlers hurt my Google rankings?", "acceptedAnswer": {"@type": "Answer", "text": "No. robots.txt for AI crawlers is independent of Googlebot and Google Search. Google-Extended only governs AI training usage \u2014 Google states it does not affect Search inclusion or ranking."}}, {"@type": "Question", "name": "Should I block AI crawlers to protect my content?", "acceptedAnswer": {"@type": "Answer", "text": "That's a legitimate choice for some publishers, but it trades away discoverability: engines can't recommend what they can't read. For a local business whose pages exist to win customers, blocking is usually self-sabotage."}}, {"@type": "Question", "name": "Is robots.txt the only thing AI crawlers check?", "acceptedAnswer": {"@type": "Answer", "text": "No. They also need your pages to be server-rendered or otherwise readable without heavy JavaScript, fast enough to fetch, and not behind a login. robots.txt is the gate \u2014 but it's only the gate."}}]}</script>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a class="logo" href="https://myaiplay.github.io/ai-visibility-hub/">AI Visibility Index</a>
+    <nav>
+      <a href="https://myaiplay.github.io/ai-visibility-hub/articles/why-chatgpt-doesnt-recommend-your-business/">Guides</a>
+      <a href="https://myaiplay.github.io/ai-visibility-hub/about/">About</a>
+      <a class="nav-cta" href="https://aicantfindme.com?utm_source=hub&amp;utm_medium=nav&amp;utm_campaign=hub_cta">Get a report</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+<h1 id="robotstxt-for-ai-crawlers-the-complete-allow-list-guide">robots.txt for AI crawlers: the complete allow-list guide</h1>
+<p class="meta">16 August 2026 · AI Visibility Index</p>
+
+<div class="answer">
+<strong>Direct answer:</strong> To let AI search engines read and cite your site, your robots.txt must not block their crawlers. The critical ones are GPTBot and OAI-SearchBot (ChatGPT), PerplexityBot (Perplexity), ClaudeBot (Claude), Google-Extended (Google AI training), plus Bingbot — because ChatGPT's search relies heavily on Bing's index. Add explicit <code>Allow: /</code> rules for each, then verify by fetching your robots.txt in a browser.
+</div>
+
+<p>If an AI crawler can't fetch your pages, the model learns about you from third-party sources — review sites, directories, competitors' comparisons — or from nothing. This is the single most common technical blocker we see, and it takes two minutes to check.</p>
+<h2 id="the-crawlers-that-matter">The crawlers that matter</h2>
+<table>
+<thead>
+<tr>
+<th>Crawler</th>
+<th>Belongs to</th>
+<th>Blocks what if disallowed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GPTBot</td>
+<td>OpenAI</td>
+<td>ChatGPT training data</td>
+</tr>
+<tr>
+<td>OAI-SearchBot</td>
+<td>OpenAI</td>
+<td>ChatGPT search citations</td>
+</tr>
+<tr>
+<td>ChatGPT-User</td>
+<td>OpenAI</td>
+<td>Live browsing when users ask</td>
+</tr>
+<tr>
+<td>PerplexityBot</td>
+<td>Perplexity</td>
+<td>Perplexity answers and citations</td>
+</tr>
+<tr>
+<td>ClaudeBot</td>
+<td>Anthropic</td>
+<td>Claude's knowledge of your site</td>
+</tr>
+<tr>
+<td>Google-Extended</td>
+<td>Google</td>
+<td>Gemini/AI training (separate from Search)</td>
+</tr>
+<tr>
+<td>Bingbot</td>
+<td>Microsoft</td>
+<td>Bing index — feeds ChatGPT search and Copilot</td>
+</tr>
+</tbody>
+</table>
+<p>A subtlety worth knowing: <code>GPTBot</code> and <code>OAI-SearchBot</code> are different gates. Blocking GPTBot keeps you out of future training data; blocking OAI-SearchBot keeps you out of <em>cited answers today</em>. If you want AI search traffic, the second one is the one that matters most.</p>
+<h2 id="copy-paste-allow-list">Copy-paste allow-list</h2>
+<pre><code># AI search crawlers - allow
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Everyone else
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+Sitemap: https://yoursite.com/sitemap.xml
+</code></pre>
+<p>Keep the <code>Disallow</code> lines for genuine private areas only. Never put <code>Disallow: /</code> under <code>User-agent: *</code> — it blocks everything, including the AI crawlers you just allowed above (specific rules win, but a global block under <code>*</code> combined with missing specific rules is the classic failure).</p>
+<h2 id="three-common-ways-sites-accidentally-block-ai">Three common ways sites accidentally block AI</h2>
+<ol>
+<li><strong>A managed host's default robots.txt.</strong> Some website builders ship a restrictive default. Check yours even if you never wrote one.</li>
+<li><strong>A CDN/WAF bot rule.</strong> Cloudflare and similar services can challenge bots before robots.txt is even read. If your security settings block "AI bots" as a category, robots.txt won't save you.</li>
+<li><strong>A blanket <code>Disallow: /</code> left over from a staging migration.</strong> Embarrassingly common.</li>
+</ol>
+<h2 id="how-to-verify-it-worked">How to verify it worked</h2>
+<ol>
+<li>Open <code>https://yoursite.com/robots.txt</code> in a browser — read what the world sees.</li>
+<li>Confirm your site is in Bing's index: search <code>site:yoursite.com</code> on Bing. No results = ChatGPT search can't find you either. (We built a <a href="https://aicantfindme.com/services/index-check?utm_source=hub&amp;utm_medium=article&amp;utm_campaign=hub_cta">free index check</a> for exactly this.)</li>
+<li>Spot-check with a live prompt: ask ChatGPT "what does [yoursite.com] do?" If it can describe your services, crawling is working.</li>
+</ol>
+<h2 id="frequently-asked-questions">Frequently asked questions</h2>
+<h3 id="does-allowing-ai-crawlers-hurt-my-google-rankings">Does allowing AI crawlers hurt my Google rankings?</h3>
+<p>No. robots.txt for AI crawlers is independent of Googlebot and Google Search. Google-Extended only governs AI training usage — Google states it does not affect Search inclusion or ranking.</p>
+<h3 id="should-i-block-ai-crawlers-to-protect-my-content">Should I block AI crawlers to protect my content?</h3>
+<p>That's a legitimate choice for some publishers, but it trades away discoverability: engines can't recommend what they can't read. For a local business whose pages exist to win customers, blocking is usually self-sabotage.</p>
+<h3 id="is-robotstxt-the-only-thing-ai-crawlers-check">Is robots.txt the only thing AI crawlers check?</h3>
+<p>No. They also need your pages to be server-rendered or otherwise readable without heavy JavaScript, fast enough to fetch, and not behind a login. robots.txt is the gate — but it's only the gate.</p>
+<div class="cta">
+  <h3>See who AI names instead of you</h3>
+  <p>One report across ChatGPT, Google AI, and Perplexity. Top 3 blockers with evidence. A 12-step fix plan. No subscription.</p>
+  <a class="btn" href="https://aicantfindme.com?utm_source=hub&amp;utm_medium=article_robots&amp;utm_campaign=hub_cta">Get My Report — $97</a>
+</div>
+</main>
+<footer>
+  <div class="wrap">
+    <p>© 2026 AI Visibility Index — free research by the makers of
+    <a href="https://aicantfindme.com?utm_source=hub&amp;utm_medium=footer&amp;utm_campaign=hub_cta">aicantfindme.com</a></p>
+    <p class="fine">AI answers vary between runs. Findings here are directional, not guaranteed. Not legal or SEO advice.</p>
+  </div>
+</footer>
+</body>
+</html>

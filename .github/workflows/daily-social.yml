@@ -1,0 +1,30 @@
+name: Daily social post
+on:
+  schedule:
+    - cron: '43 21 * * *'  # daily
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt requests-oauthlib
+      - name: Post next queued item (skips if no keys)
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python social/post_x.py
+      - name: Commit rotated queue
+        run: |
+          git config user.name "traffic-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add social/queue.txt
+          git diff --staged --quiet || git commit -m "social: rotate queue [skip ci]"
+          git push

@@ -1,0 +1,11 @@
+# AI Visibility Index
+
+> Independent data hub measuring how AI search engines recommend local businesses. Free research by the makers of aicantfindme.com.
+
+- Site: https://myaiplay.github.io/ai-visibility-hub
+- Main service: https://aicantfindme.com
+
+## Articles
+- [robots.txt for AI crawlers — the complete allow-list guide](https://myaiplay.github.io/ai-visibility-hub/articles/ai-crawler-robots-txt-guide)
+- [What is AI visibility? A plain-English guide for local businesses](https://myaiplay.github.io/ai-visibility-hub/articles/what-is-ai-visibility)
+- [Why ChatGPT doesn't recommend your business (and how to check in 5 minutes)](https://myaiplay.github.io/ai-visibility-hub/articles/why-chatgpt-doesnt-recommend-your-business)

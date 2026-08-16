@@ -1,0 +1,27 @@
+# Buyer-intent prompt sets for the data engine.
+# The engine asks each engine these prompts and records which businesses get named.
+# Add rows to expand coverage. Keep categories buyer-intent ("hire", "best").
+
+categories:
+  - plumber
+  - electrician
+  - dentist
+  - landscaper
+  - house cleaner
+  - personal injury lawyer
+  - roofer
+  - accountant
+
+cities:
+  - Denver, CO
+  - Austin, TX
+  - Seattle, WA
+  - Chicago, IL
+  - Phoenix, AZ
+  - Melbourne, Australia
+  - Sydney, Australia
+  - Brisbane, Australia
+
+templates:
+  - "best {category} in {city}"
+  - "who should I hire for {category} services near {city}?"
