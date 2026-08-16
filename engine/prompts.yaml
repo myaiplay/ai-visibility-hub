@@ -25,3 +25,13 @@ cities:
 templates:
   - "best {category} in {city}"
   - "who should I hire for {category} services near {city}?"
+
+# Self-monitoring: track aicantfindme.com's OWN AI visibility over time.
+# Eat our own cooking — these results feed the weekly report.
+self_prompts:
+  - "best tools to check if ChatGPT recommends my business"
+  - "how to check AI search visibility for my business"
+  - "best AI visibility audit tools"
+  - "why doesn't ChatGPT recommend my business"
+  - "best GEO tools for local businesses"
+  - "how to get my business recommended by Perplexity"

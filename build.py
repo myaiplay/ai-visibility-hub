@@ -126,6 +126,13 @@ def main():
                 f.unlink()
     DOCS.mkdir(exist_ok=True)
 
+    # static files (IndexNow key, etc.)
+    static = ROOT / "static"
+    if static.exists():
+        for f in static.rglob("*"):
+            if f.is_file():
+                (DOCS / f.relative_to(static)).write_bytes(f.read_bytes())
+
     pages = []
     pages.append(render(CONTENT / "index.md", ""))
     for md in sorted(CONTENT.rglob("*.md")):
@@ -154,6 +161,23 @@ def main():
         "User-agent: PerplexityBot\nAllow: /\n\n"
         "User-agent: Google-Extended\nAllow: /\n\n"
         f"Sitemap: {BASE_URL}/sitemap.xml\n"
+    )
+
+    # RSS feed
+    items = []
+    for p in sorted(pages, key=lambda x: x["date"], reverse=True):
+        if p["url"] == BASE_URL:
+            continue
+        items.append(
+            f"  <item><title>{p['title']}</title><link>{p['url']}</link>"
+            f"<guid>{p['url']}</guid><pubDate>{p['date']}T00:00:00Z</pubDate></item>"
+        )
+    (DOCS / "feed.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0"><channel>'
+        f"<title>{SITE_NAME}</title><link>{BASE_URL}</link>"
+        "<description>How AI search engines recommend local businesses — data and guides.</description>\n"
+        + "\n".join(items) + "\n</channel></rss>\n"
     )
 
     # llms.txt

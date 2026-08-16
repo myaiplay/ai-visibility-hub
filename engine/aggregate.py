@@ -57,6 +57,16 @@ def main():
             f"| {i+1} | {n} | {round(c/total*100)}% |"
             for i, (n, c) in enumerate(ranked)
         )
+        dataset_jsonld = json.dumps({
+            "@context": "https://schema.org",
+            "@type": "Dataset",
+            "name": f"AI recommendation frequency: {category} in {city}",
+            "description": f"Recorded AI search test results ({total} runs) showing which businesses AI engines name for {category} in {city}.",
+            "url": f"https://myaiplay.github.io/ai-visibility-hub/index/{slug}/",
+            "creator": {"@type": "Organization", "name": "AI Visibility Index"},
+            "temporalCoverage": "2026-08/..",
+            "license": "https://creativecommons.org/licenses/by/4.0/",
+        })
         (pages_dir / f"{slug}.md").write_text(f"""---
 title: "Who does AI recommend for {category} in {city}?"
 description: "We ran {total} recorded AI search tests for {category} in {city}. These businesses get named most often."
@@ -64,6 +74,10 @@ type: article
 date: 2026-08-16
 utm: index_page
 ---
+
+<script type="application/ld+json">
+{dataset_jsonld}
+</script>
 
 # Who does AI recommend when asked for a {category} in {city}?
 

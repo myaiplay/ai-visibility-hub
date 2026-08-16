@@ -62,6 +62,7 @@ def main():
         for city in cfg["cities"]:
             for t in cfg["templates"]:
                 prompts.append(t.format(category=c, city=city))
+    prompts += cfg.get("self_prompts", [])  # self-monitoring: our own AI visibility
     # Rotate deterministically so coverage spreads across days
     day = date.today().toordinal()
     rotated = prompts[day % len(prompts):] + prompts[:day % len(prompts)]

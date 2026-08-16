@@ -1,12 +1,12 @@
-name: Nightly data engine
+name: Weekly performance report
 on:
   schedule:
-    - cron: '17 3 * * *'  # daily
+    - cron: '22 18 * * 0'  # Sundays
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
-  data:
+  report:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -14,17 +14,16 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - name: Run prompt tests (skips if no key)
+      - name: Build report
         env:
-          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
-        run: python engine/run_tests.py
-      - run: python engine/aggregate.py
-      - run: python build.py
-      - run: python engine/indexnow.py
-      - name: Commit results
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+        run: python engine/report.py
+      - name: Commit report
         run: |
           git config user.name "traffic-agent"
           git config user.email "actions@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "data: nightly engine run [skip ci]"
+          git diff --staged --quiet || git commit -m "report: weekly performance [skip ci]"
           git push

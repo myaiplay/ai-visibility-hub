@@ -16,6 +16,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python engine/aggregate.py
       - run: python build.py
+      - run: python engine/indexnow.py
       - name: Commit built site
         run: |
           git config user.name "traffic-agent"

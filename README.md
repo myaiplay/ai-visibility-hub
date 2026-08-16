@@ -6,10 +6,15 @@ Runs itself via GitHub Actions. Live site: https://myaiplay.github.io/ai-visibil
 ## How it works
 
 ```
-engine/run_tests.py   → nightly: asks AI engines buyer questions, records who gets named
-engine/aggregate.py   → aggregates runs, generates /index/* stat pages (real data only)
-build.py              → renders content/*.md → docs/ (GitHub Pages)
-social/post_x.py      → daily: posts next item from social/queue.txt, rotates
+engine/run_tests.py        → nightly: asks AI engines buyer questions, records who gets named
+engine/aggregate.py        → aggregates runs, generates /index/* stat pages (real data only)
+engine/generate_article.py → Mondays: data article from recorded stats (hallucination-gated)
+engine/syndicate_devto.py  → cross-posts articles to Dev.to (canonical back to hub)
+engine/report.py           → Sundays: performance report → reports/
+engine/indexnow.py         → pings Bing/IndexNow with new URLs after every build
+build.py                   → renders content/*.md → docs/ (GitHub Pages) + RSS + sitemap
+social/post_x.py           → daily X post (31/mo cap, OAuth2 rotating tokens)
+social/post_bsky.py        → daily Bluesky post (free)
 ```
 
 All scripts exit gracefully when their API keys aren't set — channels activate
