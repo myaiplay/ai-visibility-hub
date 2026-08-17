@@ -56,7 +56,10 @@ def main():
         sources += sorted(INDEX_DIR.glob("*.md"))
 
     posted = 0
+    MAX_NEW_PER_RUN = 1  # drip backlog slowly — new accounts get flagged for bursts
     for md in sources:
+        if posted >= MAX_NEW_PER_RUN:
+            break
         slug = md.stem
         if slug in state:
             continue
