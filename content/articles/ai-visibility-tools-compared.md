@@ -1,5 +1,5 @@
 ---
-title: AI visibility tools compared — monitors, diagnostics, and the free DIY route
+title: AI Visibility Tools Compared
 description: The three ways to find out if AI search recommends your business — free manual checks, one-time diagnostic reports, and subscription monitoring platforms — honestly compared.
 type: article
 date: 2026-08-17

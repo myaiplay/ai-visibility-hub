@@ -1,5 +1,5 @@
 ---
-title: robots.txt for AI crawlers — the complete allow-list guide
+title: "robots.txt for AI Crawlers: Full Allow-List"
 description: Copy-paste robots.txt configuration for GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, and Google-Extended — plus how to verify AI engines can actually reach your pages.
 type: article
 date: 2026-08-16

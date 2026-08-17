@@ -1,5 +1,5 @@
 ---
-title: What is llms.txt? The plain-English guide (plus a free generator)
+title: What Is llms.txt? Guide + Free Generator
 description: llms.txt is a proposed standard file that tells AI models what your site is and what matters on it. Here's what it does, what it doesn't, and how to make one.
 type: article
 date: 2026-08-17

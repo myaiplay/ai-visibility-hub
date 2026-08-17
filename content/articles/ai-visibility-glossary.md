@@ -1,5 +1,5 @@
 ---
-title: AI visibility glossary — 18 terms in plain English
+title: "AI Visibility Glossary: 18 Terms in Plain English"
 description: GEO, AEO, entity, OAI-SearchBot, share of model — the vocabulary of AI search explained simply, so you can tell real signal from vendor jargon.
 type: article
 date: 2026-08-17

@@ -1,5 +1,5 @@
 ---
-title: Otterly alternative — one-time diagnosis vs monthly monitoring
+title: "Otterly Alternative: Diagnosis vs Monitoring"
 description: Comparing two approaches to AI visibility — ongoing monitoring platforms like Otterly vs a one-time diagnostic report — and which fits a small business.
 type: article
 date: 2026-08-17

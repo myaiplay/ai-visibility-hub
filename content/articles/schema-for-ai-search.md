@@ -1,5 +1,5 @@
 ---
-title: Schema markup for AI search — the JSON-LD that gets you cited
+title: "Schema Markup for AI Search: JSON-LD Guide"
 description: Structured data tells AI engines exactly what your business is. The specific schema types that matter for AI visibility, with copy-paste examples.
 type: article
 date: 2026-08-17

@@ -1,5 +1,5 @@
 ---
-title: About this hub
+title: About — AI Visibility Index
 description: Who runs the AI Visibility Index, how we test, and why the research is free.
 type: page
 date: 2026-08-16

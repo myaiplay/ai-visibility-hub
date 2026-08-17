@@ -1,5 +1,5 @@
 ---
-title: Why ChatGPT doesn't recommend your business (and how to check in 5 minutes)
+title: Why ChatGPT Doesn't Recommend Your Business
 description: The three reasons AI search skips local businesses — crawler access, weak entity signals, and no citable answer — plus a five-minute self-check.
 type: article
 date: 2026-08-16

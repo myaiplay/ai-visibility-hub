@@ -1,5 +1,5 @@
 ---
-title: What is AI visibility? A plain-English guide for local businesses
+title: What Is AI Visibility? Plain-English Guide
 description: AI visibility is whether ChatGPT, Google AI, and Perplexity name your business when customers ask for recommendations. Here's how it's measured and how it differs from SEO.
 type: article
 date: 2026-08-16

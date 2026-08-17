@@ -1,5 +1,5 @@
 ---
-title: AI Visibility Index — who AI search actually recommends
+title: AI Visibility Index — Who AI Search Recommends
 description: Independent research on how ChatGPT, Google AI, and Perplexity recommend local businesses — and why most are invisible.
 type: page
 date: 2026-08-16

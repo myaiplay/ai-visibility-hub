@@ -1,5 +1,5 @@
 ---
-title: Automation dashboard
+title: Automation Dashboard — AI Visibility Index
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
 date: 2026-08-17

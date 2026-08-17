@@ -1,5 +1,5 @@
 ---
-title: ChatGPT search runs on Bing — what that means for your business
+title: "ChatGPT Search Runs on Bing: Why It Matters"
 description: ChatGPT's search results lean heavily on Bing's index, not Google's. If you're invisible in Bing, you're invisible in ChatGPT. How to check and fix it in minutes.
 type: article
 date: 2026-08-17
