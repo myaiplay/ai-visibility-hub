@@ -19,6 +19,7 @@ jobs:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: python engine/generate_article.py
       - run: python engine/aggregate.py
+      - run: python engine/dashboard.py
       - run: python build.py
       - run: python engine/indexnow.py
       - name: Syndicate to Dev.to (picks up the new article)

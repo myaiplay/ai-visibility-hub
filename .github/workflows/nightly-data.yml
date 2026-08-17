@@ -19,6 +19,13 @@ jobs:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: python engine/run_tests.py
       - run: python engine/aggregate.py
+      - name: Regenerate dashboard (traffic + status)
+        env:
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python engine/dashboard.py
       - run: python build.py
       - run: python engine/indexnow.py
       - name: Commit results
