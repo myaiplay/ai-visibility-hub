@@ -109,5 +109,18 @@ th,td{text-align:left;padding:8px 12px;border-bottom:1px solid #e7e5e4}
     <p class="fine">AI answers vary between runs. Findings here are directional, not guaranteed. Not legal or SEO advice.</p>
   </div>
 </footer>
+<script data-goatcounter="https://aicantseeme.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+document.addEventListener('click', function(e) {
+  var a = e.target.closest && e.target.closest('a[href*="aicantfindme.com"]');
+  if (a && window.goatcounter && window.goatcounter.count) {
+    window.goatcounter.count({
+      path: '/outbound/aicantfindme.com',
+      title: (a.textContent || 'cta').trim().slice(0, 60),
+      event: true
+    });
+  }
+});
+</script>
 </body>
 </html>

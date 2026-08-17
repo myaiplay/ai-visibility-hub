@@ -8,13 +8,13 @@ date: 2026-08-17
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 17 August 2026, 09:54 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 17 August 2026, 10:16 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $0.07 | $5.00/mo |
+| Data engine (Perplexity) | $0.14 | $5.00/mo |
 | X posts | 1 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
@@ -22,8 +22,8 @@ date: 2026-08-17
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 1 |
-| Buyer prompts tested | 12 |
+| Test days recorded | 2 |
+| Buyer prompts tested | 24 |
 | Stat pages live | 0 |
 | Articles syndicated to Dev.to | 2 |
 | Bluesky posts made | 1 (last: 16 Aug, 16:42 UTC) |
@@ -32,10 +32,9 @@ date: 2026-08-17
 
 | Signal | Value |
 |---|---|
-| Bluesky followers | 1 |
-| Repo views (14d) | 0 (0 unique) |
-
-_Hub pageview analytics: add GoatCounter (see README) for per-page views + referrers._
+| Hub pageviews (14d) | 0 |
+| Hub visits (14d) | 0 |
+| Clicks through to aicantfindme.com (14d) | 0 |
 
 ## Next scheduled runs
 

@@ -36,10 +36,47 @@ def next_run(h, m, dow):
     return d
 
 
+def goatcounter_rows():
+    """Hub pageview analytics from GoatCounter (read-only API token)."""
+    tok = os.environ.get("GOATCOUNTER_TOKEN")
+    if not tok:
+        return []
+    import requests
+    h = {"Authorization": f"Bearer {tok}", "Content-Type": "application/json"}
+    start = (date.today() - timedelta(days=14)).isoformat()
+    end = date.today().isoformat()
+    rows = []
+    try:
+        t = requests.get("https://aicantseeme.goatcounter.com/api/v0/stats/total",
+                         headers=h, params={"start": start, "end": end}, timeout=20)
+        if t.status_code == 200:
+            d = t.json()
+            rows.append(("Hub pageviews (14d)", str(d.get("total", 0))))
+            rows.append(("Hub visits (14d)", str(d.get("total_visits", d.get("total", 0)))))
+        p = requests.get("https://aicantseeme.goatcounter.com/api/v0/stats/hits",
+                         headers=h, params={"start": start, "end": end, "limit": 50}, timeout=20)
+        if p.status_code == 200:
+            hits = p.json().get("hits", [])
+            outbound = sum(h_.get("count", 0) for h_ in hits
+                           if h_.get("path", "").startswith("/outbound/"))
+            rows.append(("Clicks through to aicantfindme.com (14d)", str(outbound)))
+            top = [h_ for h_ in hits if not h_.get("path", "").startswith("/outbound/")][:5]
+            for h_ in top:
+                rows.append((f"  top page: {h_.get('path', '?')[:50]}", str(h_.get("count", 0))))
+        r = requests.get("https://aicantseeme.goatcounter.com/api/v0/stats/toprefs",
+                         headers=h, params={"start": start, "end": end, "limit": 5}, timeout=20)
+        if r.status_code == 200:
+            for s in r.json().get("stats", [])[:5]:
+                rows.append((f"  referrer: {s.get('name', '?')[:50]}", str(s.get("count", 0))))
+    except Exception:
+        pass
+    return rows
+
+
 def traffic_section():
     """Pull traffic signals from free APIs we already have keys for."""
     import requests
-    rows = []
+    rows = goatcounter_rows()
 
     # Dev.to article stats
     dkey = os.environ.get("DEVTO_API_KEY")
@@ -86,7 +123,7 @@ def traffic_section():
     if not rows:
         return "_Traffic APIs not reachable from this environment._"
     body = "\n".join(f"| {k} | {v} |" for k, v in rows)
-    return f"| Signal | Value |\n|---|---|\n{body}\n\n_Hub pageview analytics: add GoatCounter (see README) for per-page views + referrers._"
+    return f"| Signal | Value |\n|---|---|\n{body}"
 
 
 def main():

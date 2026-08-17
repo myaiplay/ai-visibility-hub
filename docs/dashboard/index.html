@@ -61,7 +61,7 @@ th,td{text-align:left;padding:8px 12px;border-bottom:1px solid #e7e5e4}
 <main class="wrap">
 <h1 id="automation-dashboard">Automation dashboard</h1>
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 17 August 2026, 09:54 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 17 August 2026, 10:16 UTC · rebuilds nightly</p>
 
 <h2 id="spend-hard-capped">Spend (hard-capped)</h2>
 <table>
@@ -75,7 +75,7 @@ th,td{text-align:left;padding:8px 12px;border-bottom:1px solid #e7e5e4}
 <tbody>
 <tr>
 <td>Data engine (Perplexity)</td>
-<td>$0.07</td>
+<td>$0.14</td>
 <td>$5.00/mo</td>
 </tr>
 <tr>
@@ -101,11 +101,11 @@ th,td{text-align:left;padding:8px 12px;border-bottom:1px solid #e7e5e4}
 <tbody>
 <tr>
 <td>Test days recorded</td>
-<td>1</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Buyer prompts tested</td>
-<td>12</td>
+<td>24</td>
 </tr>
 <tr>
 <td>Stat pages live</td>
@@ -131,16 +131,19 @@ th,td{text-align:left;padding:8px 12px;border-bottom:1px solid #e7e5e4}
 </thead>
 <tbody>
 <tr>
-<td>Bluesky followers</td>
-<td>1</td>
+<td>Hub pageviews (14d)</td>
+<td>0</td>
 </tr>
 <tr>
-<td>Repo views (14d)</td>
-<td>0 (0 unique)</td>
+<td>Hub visits (14d)</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clicks through to aicantfindme.com (14d)</td>
+<td>0</td>
 </tr>
 </tbody>
 </table>
-<p><em>Hub pageview analytics: add GoatCounter (see README) for per-page views + referrers.</em></p>
 <h2 id="next-scheduled-runs">Next scheduled runs</h2>
 <table>
 <thead>
@@ -191,5 +194,18 @@ th,td{text-align:left;padding:8px 12px;border-bottom:1px solid #e7e5e4}
     <p class="fine">AI answers vary between runs. Findings here are directional, not guaranteed. Not legal or SEO advice.</p>
   </div>
 </footer>
+<script data-goatcounter="https://aicantseeme.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+document.addEventListener('click', function(e) {
+  var a = e.target.closest && e.target.closest('a[href*="aicantfindme.com"]');
+  if (a && window.goatcounter && window.goatcounter.count) {
+    window.goatcounter.count({
+      path: '/outbound/aicantfindme.com',
+      title: (a.textContent || 'cta').trim().slice(0, 60),
+      event: true
+    });
+  }
+});
+</script>
 </body>
 </html>
