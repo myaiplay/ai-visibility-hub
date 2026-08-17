@@ -27,4 +27,4 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add -A
           git diff --staged --quiet || git commit -m "syndicate: dev.to state [skip ci]"
-          git push
+          git pull --rebase && git push
