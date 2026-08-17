@@ -11,6 +11,8 @@ engine/aggregate.py        → aggregates runs, generates /index/* stat pages (r
 engine/generate_article.py → Mondays: data article from recorded stats (hallucination-gated)
 engine/syndicate_devto.py  → cross-posts articles to Dev.to (canonical back to hub)
 engine/report.py           → Sundays: performance report → reports/
+engine/dashboard.py        → live status page: /dashboard/ (spend, coverage, traffic)
+engine/ogimage.py          → branded 1200x630 social cards for every page at build time
 engine/indexnow.py         → pings Bing/IndexNow with new URLs after every build
 build.py                   → renders content/*.md → docs/ (GitHub Pages) + RSS + sitemap
 social/post_x.py           → daily X post (31/mo cap, OAuth2 rotating tokens)

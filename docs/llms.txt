@@ -7,5 +7,11 @@
 
 ## Articles
 - [robots.txt for AI crawlers — the complete allow-list guide](https://myaiplay.github.io/ai-visibility-hub/articles/ai-crawler-robots-txt-guide)
+- [AI visibility glossary — 18 terms in plain English](https://myaiplay.github.io/ai-visibility-hub/articles/ai-visibility-glossary)
+- [AI visibility tools compared — monitors, diagnostics, and the free DIY route](https://myaiplay.github.io/ai-visibility-hub/articles/ai-visibility-tools-compared)
+- [ChatGPT search runs on Bing — what that means for your business](https://myaiplay.github.io/ai-visibility-hub/articles/chatgpt-runs-on-bing)
+- [What is llms.txt? The plain-English guide (plus a free generator)](https://myaiplay.github.io/ai-visibility-hub/articles/llms-txt-guide)
+- [Otterly alternative — one-time diagnosis vs monthly monitoring](https://myaiplay.github.io/ai-visibility-hub/articles/otterly-alternative)
+- [Schema markup for AI search — the JSON-LD that gets you cited](https://myaiplay.github.io/ai-visibility-hub/articles/schema-for-ai-search)
 - [What is AI visibility? A plain-English guide for local businesses](https://myaiplay.github.io/ai-visibility-hub/articles/what-is-ai-visibility)
 - [Why ChatGPT doesn't recommend your business (and how to check in 5 minutes)](https://myaiplay.github.io/ai-visibility-hub/articles/why-chatgpt-doesnt-recommend-your-business)

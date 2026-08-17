@@ -22,7 +22,7 @@ SPEND = ROOT / "data" / "spend.json"
 # --- Budget guardrails ---
 MONTHLY_BUDGET_USD = 5.00          # hard cap, per user instruction
 COST_PER_REQUEST_USD = 0.006       # conservative: sonar request+search fees+tokens
-MAX_PROMPTS_PER_RUN = 12           # ~360 requests/mo ≈ $2.20 — well under cap
+MAX_PROMPTS_PER_RUN = 20           # ~600 requests/mo ≈ $3.70 — still under $5 cap
 MAX_OUTPUT_TOKENS = 800            # keeps answers focused and cost predictable
 
 

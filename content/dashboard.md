@@ -8,7 +8,7 @@ date: 2026-08-17
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 17 August 2026, 10:16 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 17 August 2026, 10:38 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
@@ -30,11 +30,7 @@ date: 2026-08-17
 
 ## Traffic
 
-| Signal | Value |
-|---|---|
-| Hub pageviews (14d) | 0 |
-| Hub visits (14d) | 0 |
-| Clicks through to aicantfindme.com (14d) | 0 |
+_Traffic APIs not reachable from this environment._
 
 ## Next scheduled runs
 

@@ -9,6 +9,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+from engine import ogimage
+
 try:
     import markdown
     import yaml
@@ -102,6 +105,11 @@ def render(src: Path, out_rel: str):
         f'<script type="application/ld+json">{json.dumps(b)}</script>' for b in jsonld
     )
 
+    # og image
+    og_name = out_rel.replace("/", "-") if out_rel else "home"
+    ogimage.render(title, og_name)
+    og_url = f"{BASE_URL}/og/{og_name}.png"
+
     page = (
         TEMPLATE.replace("{{title}}", title)
         .replace("{{description}}", desc)
@@ -110,6 +118,7 @@ def render(src: Path, out_rel: str):
         .replace("{{css}}", CSS)
         .replace("{{content}}", html_body + cta_html)
         .replace("{{jsonld}}", jsonld_html)
+        .replace("{{og_image}}", og_url)
         .replace("{{year}}", "2026")
     )
 
