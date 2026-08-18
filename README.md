@@ -29,7 +29,8 @@ automatically as secrets are added.
 | `PERPLEXITY_API_KEY` | nightly data engine + stat pages | **active** (hard $5/mo cap in `engine/run_tests.py`) |
 | `X_CLIENT_ID` / `X_CLIENT_SECRET` / `X_STATE_KEY` | daily X posts via @aicantseeme (OAuth 2.0, rotating tokens in `social/x_state.enc`; 31 posts/mo cap) | **active** (prepaid credits, no auto-reload) |
 | `BSKY_HANDLE` / `BSKY_APP_PASSWORD` | daily Bluesky posts via @aicantseeme | **active** (free) |
-| `DEVTO_API_KEY` | article cross-posting | **active** |
+| `DEVTO_API_KEY` | article cross-posting | ⚠️ account suspended, appeal pending |
+| `HASHNODE_TOKEN` | fallback cross-posting (Hashnode) | pending |
 
 ## Rules this machine follows
 

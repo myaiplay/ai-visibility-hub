@@ -17,10 +17,14 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - name: Cross-post new articles (skips if no key)
+      - name: Cross-post new articles to Dev.to (skips if no key)
         env:
           DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
         run: python engine/syndicate_devto.py
+      - name: Cross-post new articles to Hashnode (skips if no key)
+        env:
+          HASHNODE_TOKEN: ${{ secrets.HASHNODE_TOKEN }}
+        run: python engine/syndicate_hashnode.py
       - name: Commit syndication state
         run: |
           git config user.name "traffic-agent"
