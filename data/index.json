@@ -1,3 +1,456 @@
 {
-  "pairs": []
+  "pairs": [
+    {
+      "category": "dentist",
+      "city": "Austin, TX",
+      "runs": 3,
+      "slug": "dentist-in-austin-tx",
+      "top": [
+        {
+          "name": "Holly Phillip DDS",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Walden Dental",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Toothbar",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "South Austin Dental Associates",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Austin Dental Works",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Celebrate Dental & Braces South Austin",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Dr. Tor Gotun, DDS",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "dentist",
+      "city": "Austin, TX?",
+      "runs": 3,
+      "slug": "dentist-in-austin-tx?",
+      "top": [
+        {
+          "name": "David J. Gordon II, DDS",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Austin Artistic Dental",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "ATX Family Dental",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Waterloo Dental",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "North Austin Dentistry",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Holly Phillip DDS",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Tech Ridge Dental",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Grove Austin Family Dentistry",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Toothbar",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Swish Dental Downtown",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "dentist",
+      "city": "Chicago, IL",
+      "runs": 3,
+      "slug": "dentist-in-chicago-il",
+      "top": [
+        {
+          "name": "William J. Millon DDS",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Chicago Loop Dentistry",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Dr. Jessica Mehta",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Always There Dental Care",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "WebMD",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Zocdoc",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Chicago Style Smiles",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Healthgrades",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "dentist",
+      "city": "Chicago, IL?",
+      "runs": 3,
+      "slug": "dentist-in-chicago-il?",
+      "top": [
+        {
+          "name": "Millennium Park Dental",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "All in One Dentistry",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Chicago Loop Dentistry",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "The Magnificent Smile",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "DiPilla Dentistry of Chicago",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Howard Brown Health Dental",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "DentArt Chicago",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Northwestern Dental Center",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Howard Brown Health",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Chicago Dental Society",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "dentist",
+      "city": "Denver, CO?",
+      "runs": 3,
+      "slug": "dentist-in-denver-co?",
+      "top": [
+        {
+          "name": "Lowry Advanced Dentistry",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "OG Dental Denver",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Pearl Dentistry",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Dental Elements",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Metropolitan Dental Care",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Wynkoop Dentistry",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Cherry Creek Family Dentistry",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Smile Studio Dental",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "ZIP code",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Availability for new patients",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "dentist",
+      "city": "Melbourne, Australia",
+      "runs": 3,
+      "slug": "dentist-in-melbourne-australia",
+      "top": [
+        {
+          "name": "Smile Solutions",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Gorgeous Smiles",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Pacific Smiles Dental Melbourne CBD",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Best Overall",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Core Dental Southbank",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Melbourne Dental Group",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "DENTL East Melbourne",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "CBD convenience",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Word of Mouth",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "dentist",
+      "city": "Phoenix, AZ",
+      "runs": 3,
+      "slug": "dentist-in-phoenix-az",
+      "top": [
+        {
+          "name": "Jerome Riddle, DDS",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Biltmore Dental Center",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "WebMD",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Specialty",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Insurance acceptance",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Healthgrades",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Phoenix Magazine Top Dentist profiles",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Arizona Biltmore Dentistry",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Patient ratings and review volume",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "High-availability options near you",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "dentist",
+      "city": "Phoenix, AZ?",
+      "runs": 3,
+      "slug": "dentist-in-phoenix-az?",
+      "top": [
+        {
+          "name": "Biltmore Dental Center",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Musselman Dentistry",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Downtown Phoenix Dental",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Life Smiles Dental Care",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Arizona Biltmore Dentistry",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "The Biting Edge Family Dentistry",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Phoenician Dentistry",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "North Mountain Dentistry",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Downtown Smiles",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "KG1 PLLC",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "dentist",
+      "city": "Seattle, WA",
+      "runs": 3,
+      "slug": "dentist-in-seattle-wa",
+      "top": [
+        {
+          "name": "Dr. Chris Pickel",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Dr. Spencer Face",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Best Dentistry",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Dr. Anthony A. Santorsola",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "North Seattle Dental",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Top Dentists 2026",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Location and convenience",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Recent patient reviews and appointment availability",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Insurance acceptance",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "dentist",
+      "city": "Seattle, WA?",
+      "runs": 3,
+      "slug": "dentist-in-seattle-wa?",
+      "top": [
+        {
+          "name": "Best Dentistry",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Dental Care Seattle",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Wedgwood Family Dentistry",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Fidler On The Tooth",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Roosevelt Dental",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Seattle, WA 98115",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Top Dentists",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Low-cost or community dental care",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "General family dentistry",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "A highly rated Seattle practice",
+          "mention_rate": 0.33
+        }
+      ]
+    }
+  ]
 }
