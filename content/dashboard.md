@@ -2,48 +2,52 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-08-19
+date: 2026-08-20
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 19 August 2026, 05:06 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 20 August 2026, 05:08 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $0.38 | $5.00/mo |
-| X posts | 3 | 31/mo |
+| Data engine (Perplexity) | $0.50 | $5.00/mo |
+| X posts | 4 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
 ## Coverage
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 4 |
-| Buyer prompts tested | 64 |
-| Stat pages live | 10 |
+| Test days recorded | 5 |
+| Buyer prompts tested | 84 |
+| Stat pages live | 19 |
 | Articles syndicated to Dev.to | 2 |
-| Bluesky posts made | 3 (last: 18 Aug, 15:05 UTC) |
+| Bluesky posts made | 4 (last: 19 Aug, 15:05 UTC) |
 
 ## Traffic
 
 | Signal | Value |
 |---|---|
 | Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub/dashboard | 1 |
+|   top page: /ai-visibility-hub/dashboard | 2 |
+|   top page: /ai-visibility-hub | 1 |
 |   top page: /verify-analytics | 1 |
 |   referrer:  | 2 |
+|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 1 |
+|   referrer: myaiplay.github.io/ai-visibility-hub | 1 |
+| Bluesky followers | 1 |
 
 ## Next scheduled runs
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Thu 20 Aug, 03:17 local |
-| Bluesky post | Wed 19 Aug, 13:37 local |
-| X post | Wed 19 Aug, 21:43 local |
+| Data engine (12 AI tests) | Fri 21 Aug, 03:17 local |
+| Bluesky post | Thu 20 Aug, 13:37 local |
+| X post | Thu 20 Aug, 21:43 local |
 | Dev.to catch-up | Mon 24 Aug, 05:11 local |
 | Weekly data article | Mon 24 Aug, 06:07 local |
 | Weekly report | Sun 23 Aug, 18:22 local |
