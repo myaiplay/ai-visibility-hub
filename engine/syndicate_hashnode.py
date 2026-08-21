@@ -45,9 +45,7 @@ def to_hashnode_markdown(body, slug):
     body = re.sub(r"\]\(/", f"]({BASE}/", body)
     body = body.replace('<p class="lede">', "<p>").replace('<div class="answer">', "<blockquote>").replace("</div>", "</blockquote>", 1)
     return body + (
-        "\n\n---\n\n*Originally published at the "
-        f"[AI Visibility Index]({BASE}/articles/{slug}/). Free research by the makers of "
-        f"[aicantfindme.com]({MAIN}?utm_source=hashnode&utm_medium=article&utm_campaign={slug}).*\n"
+        f"\n\n---\n\n*Originally published at the [AI Visibility Index]({BASE}/articles/{slug}/).*\n"
     )
 
 
@@ -78,6 +76,10 @@ def main():
         if slug in state:
             continue
         meta, body = parse_frontmatter(md.read_text())
+        if meta.get("syndicate") is False:
+            print(f"Skipping (syndicate: false): {slug}")
+            state[slug] = {"skipped": True}
+            continue
         canonical = f"{BASE}/articles/{slug}/"
         try:
             data = gql(token, """

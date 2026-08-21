@@ -4,6 +4,7 @@ description: Comparing two approaches to AI visibility — ongoing monitoring pl
 type: article
 date: 2026-08-17
 utm: article_otterly_alt
+syndicate: false
 ---
 
 # Otterly alternative: one-time diagnosis vs monthly monitoring

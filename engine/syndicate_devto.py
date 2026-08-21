@@ -34,10 +34,7 @@ def to_devto_markdown(body, slug):
     # Strip lede/answer div classes Dev.to doesn't need, keep content
     body = body.replace('<p class="lede">', "<p>").replace('<div class="answer">', "<blockquote>").replace("</div>", "</blockquote>", 1)
     footer = (
-        "\n\n---\n\n*Originally published at the "
-        f"[AI Visibility Index]({BASE}/articles/{slug}/). Free research by the makers of "
-        f"[aicantfindme.com]({MAIN}?utm_source=devto&utm_medium=article&utm_campaign={slug}) — "
-        "find out why AI search isn't recommending your business.*\n"
+        f"\n\n---\n\n*Originally published at the [AI Visibility Index]({BASE}/articles/{slug}/).*\n"
     )
     return body + footer
 
@@ -64,6 +61,10 @@ def main():
         if slug in state:
             continue
         meta, body = parse_frontmatter(md.read_text())
+        if meta.get("syndicate") is False:
+            print(f"Skipping (syndicate: false): {slug}")
+            state[slug] = {"skipped": True}
+            continue
         prefix = "index" if INDEX_DIR in md.parents else "articles"
         canonical = f"{BASE}/{prefix}/{slug}/"
         payload = {

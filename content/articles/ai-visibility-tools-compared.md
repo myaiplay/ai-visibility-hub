@@ -4,6 +4,7 @@ description: The three ways to find out if AI search recommends your business â€
 type: article
 date: 2026-08-17
 utm: article_tools_compared
+syndicate: false
 ---
 
 # AI visibility tools compared: monitors, diagnostics, and the free DIY route
