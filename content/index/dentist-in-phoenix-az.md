@@ -23,10 +23,10 @@ utm: index_page
 | 3 | Arizona Biltmore Dentistry | 60% |
 | 4 | Insurance acceptance | 40% |
 | 5 | Specialty | 40% |
-| 6 | WebMD | 20% |
-| 7 | Phoenix Magazine Top Dentist profiles | 20% |
-| 8 | Patient ratings and review volume | 20% |
-| 9 | Healthgrades | 20% |
+| 6 | Patient ratings and review volume | 20% |
+| 7 | Healthgrades | 20% |
+| 8 | Phoenix Magazine Top Dentist profiles | 20% |
+| 9 | WebMD | 20% |
 | 10 | Phoenix Magazine top dentists | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

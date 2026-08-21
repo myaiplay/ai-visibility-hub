@@ -47,11 +47,11 @@
       "slug": "dentist-in-austin-tx?",
       "top": [
         {
-          "name": "Holly Phillip DDS",
+          "name": "Waterloo Dental",
           "mention_rate": 1.0
         },
         {
-          "name": "Waterloo Dental",
+          "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
@@ -67,7 +67,7 @@
           "mention_rate": 0.8
         },
         {
-          "name": "Austin Artistic Dental",
+          "name": "Tech Ridge Dental",
           "mention_rate": 0.6
         },
         {
@@ -75,7 +75,7 @@
           "mention_rate": 0.6
         },
         {
-          "name": "Tech Ridge Dental",
+          "name": "Austin Artistic Dental",
           "mention_rate": 0.6
         },
         {
@@ -83,7 +83,7 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Austin Dental Works",
+          "name": "Swish Dental Downtown",
           "mention_rate": 0.2
         }
       ]
@@ -95,15 +95,15 @@
       "slug": "dentist-in-brisbane-australia",
       "top": [
         {
+          "name": "Brisbane Dental and Denture Clinic",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Brisbane Dental",
           "mention_rate": 1.0
         },
         {
           "name": "North Brisbane Dental Clinic",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "Brisbane Dental and Denture Clinic",
           "mention_rate": 1.0
         },
         {
@@ -135,11 +135,11 @@
       "slug": "dentist-in-brisbane-australia?",
       "top": [
         {
-          "name": "Brisbane Dental",
+          "name": "Bite Dental",
           "mention_rate": 1.0
         },
         {
-          "name": "Bite Dental",
+          "name": "Brisbane Dental",
           "mention_rate": 1.0
         },
         {
@@ -151,11 +151,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "St Lucia Dental",
+          "name": "Level 6, 141 Queen Street",
           "mention_rate": 0.25
         },
         {
-          "name": "Level 6, 141 Queen Street",
+          "name": "St Lucia Dental",
           "mention_rate": 0.25
         },
         {
@@ -167,11 +167,11 @@
           "mention_rate": 0.25
         },
         {
-          "name": "North Brisbane Dental Clinic",
+          "name": "Brisbane Dental and Denture Clinic",
           "mention_rate": 0.25
         },
         {
-          "name": "Brisbane Dental and Denture Clinic",
+          "name": "North Brisbane Dental Clinic",
           "mention_rate": 0.25
         }
       ]
@@ -187,6 +187,10 @@
           "mention_rate": 0.4
         },
         {
+          "name": "Chicago Loop Dentistry",
+          "mention_rate": 0.2
+        },
+        {
           "name": "Always There Dental Care",
           "mention_rate": 0.2
         },
@@ -195,7 +199,11 @@
           "mention_rate": 0.2
         },
         {
-          "name": "Chicago Loop Dentistry",
+          "name": "Zocdoc",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Healthgrades",
           "mention_rate": 0.2
         },
         {
@@ -204,14 +212,6 @@
         },
         {
           "name": "Chicago Style Smiles",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Healthgrades",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Zocdoc",
           "mention_rate": 0.2
         },
         {
@@ -231,19 +231,19 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Chicago Loop Dentistry",
-          "mention_rate": 0.8
-        },
-        {
           "name": "DiPilla Dentistry of Chicago",
           "mention_rate": 0.8
         },
         {
-          "name": "The Magnificent Smile",
-          "mention_rate": 0.4
+          "name": "Chicago Loop Dentistry",
+          "mention_rate": 0.8
         },
         {
           "name": "All in One Dentistry",
+          "mention_rate": 0.4
+        },
+        {
+          "name": "The Magnificent Smile",
           "mention_rate": 0.4
         },
         {
@@ -259,11 +259,11 @@
           "mention_rate": 0.2
         },
         {
-          "name": "Howard Brown Health",
+          "name": "Northwestern Dental Center",
           "mention_rate": 0.2
         },
         {
-          "name": "Northwestern Dental Center",
+          "name": "Howard Brown Health",
           "mention_rate": 0.2
         }
       ]
@@ -287,11 +287,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Dental Elements",
+          "name": "Metropolitan Dental Care",
           "mention_rate": 0.67
         },
         {
-          "name": "Metropolitan Dental Care",
+          "name": "Dental Elements",
           "mention_rate": 0.67
         },
         {
@@ -303,15 +303,15 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Smile Studio Dental",
-          "mention_rate": 0.33
-        },
-        {
           "name": "ZIP code",
           "mention_rate": 0.33
         },
         {
-          "name": "Insurance acceptance",
+          "name": "Smile Studio Dental",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "OG Dental",
           "mention_rate": 0.33
         }
       ]
@@ -439,7 +439,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "WebMD",
+          "name": "Patient ratings and review volume",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Healthgrades",
           "mention_rate": 0.2
         },
         {
@@ -447,11 +451,7 @@
           "mention_rate": 0.2
         },
         {
-          "name": "Patient ratings and review volume",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Healthgrades",
+          "name": "WebMD",
           "mention_rate": 0.2
         },
         {
@@ -479,7 +479,7 @@
           "mention_rate": 0.6
         },
         {
-          "name": "Downtown Phoenix Dental",
+          "name": "North Mountain Dentistry",
           "mention_rate": 0.4
         },
         {
@@ -487,15 +487,15 @@
           "mention_rate": 0.4
         },
         {
-          "name": "North Mountain Dentistry",
-          "mention_rate": 0.4
-        },
-        {
-          "name": "Phoenician Dentistry",
+          "name": "Downtown Phoenix Dental",
           "mention_rate": 0.4
         },
         {
           "name": "Arizona Biltmore Dentistry",
+          "mention_rate": 0.4
+        },
+        {
+          "name": "Phoenician Dentistry",
           "mention_rate": 0.4
         },
         {
@@ -519,11 +519,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Dr. Anthony A. Santorsola",
+          "name": "Dr. Spencer Face",
           "mention_rate": 1.0
         },
         {
-          "name": "Dr. Spencer Face",
+          "name": "Dr. Anthony A. Santorsola",
           "mention_rate": 1.0
         },
         {
@@ -571,11 +571,11 @@
           "mention_rate": 0.8
         },
         {
-          "name": "Wedgwood Family Dentistry",
+          "name": "Dental Care Seattle",
           "mention_rate": 0.6
         },
         {
-          "name": "Dental Care Seattle",
+          "name": "Wedgwood Family Dentistry",
           "mention_rate": 0.6
         },
         {
@@ -587,11 +587,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Seattle, WA 98115",
+          "name": "Roosevelt Dental",
           "mention_rate": 0.2
         },
         {
-          "name": "Roosevelt Dental",
+          "name": "Seattle, WA 98115",
           "mention_rate": 0.2
         },
         {
@@ -611,20 +611,12 @@
       "slug": "dentist-in-sydney-australia",
       "top": [
         {
-          "name": "Pitt Street Dental Centre",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Quay Dental Clinic",
           "mention_rate": 1.0
         },
         {
-          "name": "Aglow Dental Group",
-          "mention_rate": 0.5
-        },
-        {
-          "name": "Green Apple Dental Care CBD",
-          "mention_rate": 0.5
+          "name": "Pitt Street Dental Centre",
+          "mention_rate": 1.0
         },
         {
           "name": "Darlinghurst Smiles",
@@ -635,15 +627,23 @@
           "mention_rate": 0.5
         },
         {
+          "name": "Aglow Dental Group",
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Green Apple Dental Care CBD",
+          "mention_rate": 0.5
+        },
+        {
+          "name": "General checkups and cleaning",
+          "mention_rate": 0.25
+        },
+        {
           "name": "Macquarie Dental Clinic",
           "mention_rate": 0.25
         },
         {
           "name": "Paramount Dental Sydney",
-          "mention_rate": 0.25
-        },
-        {
-          "name": "General checkups and cleaning",
           "mention_rate": 0.25
         },
         {
@@ -683,11 +683,11 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Sydney",
+          "name": "Dental 99",
           "mention_rate": 0.25
         },
         {
-          "name": "Dental 99",
+          "name": "Sydney",
           "mention_rate": 0.25
         },
         {
@@ -715,11 +715,11 @@
           "mention_rate": 0.75
         },
         {
-          "name": "Top Choice Lawn Care",
+          "name": "ABC Home & Commercial Services",
           "mention_rate": 0.25
         },
         {
-          "name": "ABC Home & Commercial Services",
+          "name": "Top Choice Lawn Care",
           "mention_rate": 0.25
         },
         {
@@ -739,11 +739,11 @@
           "mention_rate": 0.75
         },
         {
-          "name": "Top Choice Lawn Care",
+          "name": "Austin Creative Landscaping",
           "mention_rate": 0.75
         },
         {
-          "name": "Austin Creative Landscaping",
+          "name": "Top Choice Lawn Care",
           "mention_rate": 0.75
         },
         {
@@ -763,7 +763,7 @@
           "mention_rate": 0.5
         },
         {
-          "name": "Southern Love Landscaping",
+          "name": "Best of Texas Landscapes",
           "mention_rate": 0.25
         },
         {
@@ -771,7 +771,7 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Best of Texas Landscapes",
+          "name": "Southern Love Landscaping",
           "mention_rate": 0.25
         }
       ]
@@ -799,11 +799,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "The Fisherman LLC",
+          "name": "LawnStarter",
           "mention_rate": 0.25
         },
         {
-          "name": "LawnStarter",
+          "name": "The Fisherman LLC",
           "mention_rate": 0.25
         },
         {
@@ -831,11 +831,11 @@
       "slug": "landscaper-in-denver-co?",
       "top": [
         {
-          "name": "Lifescape Colorado",
+          "name": "Mile High Landscaping",
           "mention_rate": 1.0
         },
         {
-          "name": "Mile High Landscaping",
+          "name": "Lifescape Colorado",
           "mention_rate": 1.0
         },
         {
@@ -859,15 +859,15 @@
           "mention_rate": 0.5
         },
         {
-          "name": "C&H Landscaping",
-          "mention_rate": 0.25
-        },
-        {
           "name": "Denver landscaper services",
           "mention_rate": 0.25
         },
         {
           "name": "Denver Sprinkler and Landscape",
+          "mention_rate": 0.25
+        },
+        {
+          "name": "C&H Landscaping",
           "mention_rate": 0.25
         }
       ]
@@ -879,11 +879,11 @@
       "slug": "landscaper-in-seattle-wa",
       "top": [
         {
-          "name": "Devonshire Landscapes Inc",
+          "name": "New Life Rockeries & Retaining Walls",
           "mention_rate": 1.0
         },
         {
-          "name": "New Life Rockeries & Retaining Walls",
+          "name": "Devonshire Landscapes Inc",
           "mention_rate": 1.0
         },
         {
@@ -891,11 +891,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "New Life Rockeries",
+          "name": "Seattle Times Best in PNW Nominee",
           "mention_rate": 0.33
         },
         {
-          "name": "Seattle Times Best in PNW Nominee",
+          "name": "New Life Rockeries",
           "mention_rate": 0.33
         }
       ]

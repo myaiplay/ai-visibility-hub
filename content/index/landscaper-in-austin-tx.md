@@ -21,8 +21,8 @@ utm: index_page
 | 1 | Southern Love Landscaping & Design | 100% |
 | 2 | Anderson Landscape | 75% |
 | 3 | Austin Pro Landscape | 75% |
-| 4 | Top Choice Lawn Care | 25% |
-| 5 | ABC Home & Commercial Services | 25% |
+| 4 | ABC Home & Commercial Services | 25% |
+| 5 | Top Choice Lawn Care | 25% |
 | 6 | Maas Verde | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

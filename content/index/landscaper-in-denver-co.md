@@ -22,8 +22,8 @@ utm: index_page
 | 2 | Designs by Sundown | 100% |
 | 3 | Designscapes Colorado | 75% |
 | 4 | C&H Landscaping | 50% |
-| 5 | The Fisherman LLC | 25% |
-| 6 | LawnStarter | 25% |
+| 5 | LawnStarter | 25% |
+| 6 | The Fisherman LLC | 25% |
 | 7 | Little Foot Landscaping | 25% |
 | 8 | Elite Landscape & Outdoor Living | 25% |
 | 9 | General landscaping and outdoor living | 25% |

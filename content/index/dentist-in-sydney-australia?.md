@@ -24,8 +24,8 @@ utm: index_page
 | 4 | Pitt St Dental Centre | 75% |
 | 5 | AHPRA-registered | 50% |
 | 6 | Pitt Street Dental Centre | 25% |
-| 7 | Sydney | 25% |
-| 8 | Dental 99 | 25% |
+| 7 | Dental 99 | 25% |
+| 8 | Sydney | 25% |
 | 9 | Sydney CBD | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

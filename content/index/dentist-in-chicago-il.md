@@ -19,13 +19,13 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | William J. Millon DDS | 40% |
-| 2 | Always There Dental Care | 20% |
-| 3 | Dr. Jessica Mehta | 20% |
-| 4 | Chicago Loop Dentistry | 20% |
-| 5 | WebMD | 20% |
-| 6 | Chicago Style Smiles | 20% |
-| 7 | Healthgrades | 20% |
-| 8 | Zocdoc | 20% |
+| 2 | Chicago Loop Dentistry | 20% |
+| 3 | Always There Dental Care | 20% |
+| 4 | Dr. Jessica Mehta | 20% |
+| 5 | Zocdoc | 20% |
+| 6 | Healthgrades | 20% |
+| 7 | WebMD | 20% |
+| 8 | Chicago Style Smiles | 20% |
 | 9 | William J. Millon, DDS | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

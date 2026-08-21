@@ -18,16 +18,16 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Lifescape Colorado | 100% |
-| 2 | Mile High Landscaping | 100% |
+| 1 | Mile High Landscaping | 100% |
+| 2 | Lifescape Colorado | 100% |
 | 3 | JR Landscapes LLC | 75% |
 | 4 | Designs By Sundown | 50% |
 | 5 | Designs by Sundown | 50% |
 | 6 | Sparrow Grow | 50% |
 | 7 | Elite Landscape & Outdoor Living | 50% |
-| 8 | C&H Landscaping | 25% |
-| 9 | Denver landscaper services | 25% |
-| 10 | Denver Sprinkler and Landscape | 25% |
+| 8 | Denver landscaper services | 25% |
+| 9 | Denver Sprinkler and Landscape | 25% |
+| 10 | C&H Landscaping | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
