@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for dentist in Melbourne, Australia?"
-description: "We ran 4 recorded AI search tests for dentist in Melbourne, Australia. These businesses get named most often."
+description: "We ran 5 recorded AI search tests for dentist in Melbourne, Australia. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Melbourne, Australia", "description": "Recorded AI search test results (4 runs) showing which businesses AI engines name for dentist in Melbourne, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-melbourne-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Melbourne, Australia", "description": "Recorded AI search test results (5 runs) showing which businesses AI engines name for dentist in Melbourne, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-melbourne-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a dentist in Melbourne, Australia?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Melbourne, Australia", "who should I hire for dentist services near Melbourne, Australia?") across 4 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Melbourne, Australia", "who should I hire for dentist services near Melbourne, Australia?") across 5 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Smile Solutions | 100% |
-| 2 | Gorgeous Smiles | 75% |
-| 3 | Pacific Smiles Dental Melbourne CBD | 75% |
-| 4 | DENTL East Melbourne | 25% |
-| 5 | Best Overall | 25% |
-| 6 | Core Dental Southbank | 25% |
-| 7 | Melbourne Dental Group | 25% |
-| 8 | CBD convenience | 25% |
-| 9 | Word of Mouth | 25% |
-| 10 | Location | 25% |
+| 2 | Pacific Smiles Dental Melbourne CBD | 80% |
+| 3 | Gorgeous Smiles | 60% |
+| 4 | Best Overall | 20% |
+| 5 | Melbourne Dental Group | 20% |
+| 6 | DENTL East Melbourne | 20% |
+| 7 | Core Dental Southbank | 20% |
+| 8 | CBD convenience | 20% |
+| 9 | Word of Mouth | 20% |
+| 10 | Location | 20% |
 
-*Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
