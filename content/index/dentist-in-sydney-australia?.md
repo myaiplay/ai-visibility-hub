@@ -18,14 +18,14 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Paramount Dental Sydney | 100% |
-| 2 | Spa Dental Sydney CBD | 100% |
-| 3 | Quay Dental Clinic | 100% |
+| 1 | Spa Dental Sydney CBD | 100% |
+| 2 | Quay Dental Clinic | 100% |
+| 3 | Paramount Dental Sydney | 100% |
 | 4 | Pitt St Dental Centre | 75% |
 | 5 | AHPRA-registered | 50% |
 | 6 | Pitt Street Dental Centre | 25% |
-| 7 | Dental 99 | 25% |
-| 8 | Sydney | 25% |
+| 7 | Sydney | 25% |
+| 8 | Dental 99 | 25% |
 | 9 | Sydney CBD | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

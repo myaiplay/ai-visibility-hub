@@ -19,15 +19,15 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Millennium Park Dental | 100% |
-| 2 | DiPilla Dentistry of Chicago | 80% |
-| 3 | Chicago Loop Dentistry | 80% |
+| 2 | Chicago Loop Dentistry | 80% |
+| 3 | DiPilla Dentistry of Chicago | 80% |
 | 4 | All in One Dentistry | 40% |
 | 5 | The Magnificent Smile | 40% |
-| 6 | Bite Club | 40% |
-| 7 | Howard Brown Health Dental | 40% |
-| 8 | DentArt Chicago | 20% |
+| 6 | Howard Brown Health Dental | 40% |
+| 7 | Bite Club | 40% |
+| 8 | Howard Brown Health | 20% |
 | 9 | Northwestern Dental Center | 20% |
-| 10 | Howard Brown Health | 20% |
+| 10 | DentArt Chicago | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

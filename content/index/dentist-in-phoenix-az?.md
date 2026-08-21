@@ -23,9 +23,9 @@ utm: index_page
 | 3 | The Biting Edge Family Dentistry | 60% |
 | 4 | North Mountain Dentistry | 40% |
 | 5 | Life Smiles Dental Care | 40% |
-| 6 | Downtown Phoenix Dental | 40% |
-| 7 | Arizona Biltmore Dentistry | 40% |
-| 8 | Phoenician Dentistry | 40% |
+| 6 | Phoenician Dentistry | 40% |
+| 7 | Downtown Phoenix Dental | 40% |
+| 8 | Arizona Biltmore Dentistry | 40% |
 | 9 | Downtown Smiles | 40% |
 | 10 | KG1 PLLC | 20% |
 

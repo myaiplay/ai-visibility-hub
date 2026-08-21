@@ -18,12 +18,12 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Bite Dental | 100% |
-| 2 | Brisbane Dental | 100% |
+| 1 | Brisbane Dental | 100% |
+| 2 | Bite Dental | 100% |
 | 3 | Pure Dentistry | 75% |
 | 4 | Brisbane Smiles | 50% |
-| 5 | Level 6, 141 Queen Street | 25% |
-| 6 | St Lucia Dental | 25% |
+| 5 | St Lucia Dental | 25% |
+| 6 | Level 6, 141 Queen Street | 25% |
 | 7 | National Dental Care Brisbane CBD | 25% |
 | 8 | Queen Street Dental | 25% |
 | 9 | Brisbane Dental and Denture Clinic | 25% |

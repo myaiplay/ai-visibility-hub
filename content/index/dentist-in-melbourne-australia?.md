@@ -19,15 +19,15 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | MC Dental | 100% |
-| 2 | Smile Solutions | 100% |
-| 3 | Melbourne Dental Clinic | 100% |
+| 2 | Melbourne Dental Clinic | 100% |
+| 3 | Smile Solutions | 100% |
 | 4 | Royal Dental Hospital of Melbourne | 75% |
 | 5 | Collins Street Dental | 50% |
-| 6 | The Royal Dental Hospital of Melbourne | 25% |
-| 7 | Australian Dentists Clinic | 25% |
+| 6 | Australian Dentists Clinic | 25% |
+| 7 | The Royal Dental Hospital of Melbourne | 25% |
 | 8 | Word of Mouth | 25% |
-| 9 | Service needed | 25% |
-| 10 | Location | 25% |
+| 9 | Location | 25% |
+| 10 | Reviews and credentials | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

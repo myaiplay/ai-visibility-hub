@@ -18,15 +18,15 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Anderson Landscapes | 75% |
-| 2 | Austin Creative Landscaping | 75% |
+| 1 | Austin Creative Landscaping | 75% |
+| 2 | Anderson Landscapes | 75% |
 | 3 | Top Choice Lawn Care | 75% |
 | 4 | Southern Love Landscaping & Design | 75% |
 | 5 | Ground & Garden | 50% |
 | 6 | ABC Home & Commercial Services | 50% |
 | 7 | Maas Verde | 50% |
-| 8 | Best of Texas Landscapes | 25% |
-| 9 | The Natural Gardener referral list | 25% |
+| 8 | The Natural Gardener referral list | 25% |
+| 9 | Best of Texas Landscapes | 25% |
 | 10 | Southern Love Landscaping | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
