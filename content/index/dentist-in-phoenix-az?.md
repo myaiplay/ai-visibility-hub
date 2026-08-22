@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for dentist in Phoenix, AZ??"
-description: "We ran 5 recorded AI search tests for dentist in Phoenix, AZ?. These businesses get named most often."
+description: "We ran 6 recorded AI search tests for dentist in Phoenix, AZ?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Phoenix, AZ?", "description": "Recorded AI search test results (5 runs) showing which businesses AI engines name for dentist in Phoenix, AZ?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-phoenix-az?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Phoenix, AZ?", "description": "Recorded AI search test results (6 runs) showing which businesses AI engines name for dentist in Phoenix, AZ?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-phoenix-az?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a dentist in Phoenix, AZ??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Phoenix, AZ?", "who should I hire for dentist services near Phoenix, AZ??") across 5 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Phoenix, AZ?", "who should I hire for dentist services near Phoenix, AZ??") across 6 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Biltmore Dental Center | 100% |
-| 2 | Musselman Dentistry | 80% |
-| 3 | The Biting Edge Family Dentistry | 60% |
-| 4 | North Mountain Dentistry | 40% |
-| 5 | Life Smiles Dental Care | 40% |
-| 6 | Phoenician Dentistry | 40% |
-| 7 | Downtown Phoenix Dental | 40% |
-| 8 | Arizona Biltmore Dentistry | 40% |
-| 9 | Downtown Smiles | 40% |
-| 10 | KG1 PLLC | 20% |
+| 2 | Musselman Dentistry | 83% |
+| 3 | The Biting Edge Family Dentistry | 67% |
+| 4 | Downtown Phoenix Dental | 50% |
+| 5 | North Mountain Dentistry | 50% |
+| 6 | Phoenician Dentistry | 33% |
+| 7 | Life Smiles Dental Care | 33% |
+| 8 | Arizona Biltmore Dentistry | 33% |
+| 9 | Downtown Smiles | 33% |
+| 10 | Dr. Kevin Ortale, DDS | 33% |
 
-*Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

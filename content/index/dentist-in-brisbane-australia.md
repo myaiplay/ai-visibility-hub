@@ -1,33 +1,35 @@
 ---
 title: "Who does AI recommend for dentist in Brisbane, Australia?"
-description: "We ran 4 recorded AI search tests for dentist in Brisbane, Australia. These businesses get named most often."
+description: "We ran 5 recorded AI search tests for dentist in Brisbane, Australia. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Brisbane, Australia", "description": "Recorded AI search test results (4 runs) showing which businesses AI engines name for dentist in Brisbane, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-brisbane-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Brisbane, Australia", "description": "Recorded AI search test results (5 runs) showing which businesses AI engines name for dentist in Brisbane, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-brisbane-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a dentist in Brisbane, Australia?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Brisbane, Australia", "who should I hire for dentist services near Brisbane, Australia?") across 4 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Brisbane, Australia", "who should I hire for dentist services near Brisbane, Australia?") across 5 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Brisbane Dental and Denture Clinic | 100% |
-| 2 | North Brisbane Dental Clinic | 100% |
+| 1 | North Brisbane Dental Clinic | 100% |
+| 2 | Brisbane Dental and Denture Clinic | 100% |
 | 3 | Brisbane Dental | 100% |
-| 4 | Dental Boutique Brisbane | 75% |
-| 5 | SmileFresh Teeth Whitening Brisbane | 75% |
-| 6 | Yeronga Smile Dental | 50% |
-| 7 | Balmoral Dental Centre | 25% |
-| 8 | Brisbane CBD specifically | 25% |
+| 4 | SmileFresh Teeth Whitening Brisbane | 80% |
+| 5 | Dental Boutique Brisbane | 80% |
+| 6 | Yeronga Smile Dental | 60% |
+| 7 | Balmoral Dental Centre | 40% |
+| 8 | Brisbane CBD specifically | 40% |
+| 9 | Proactive Dental Burpengary | 20% |
+| 10 | NK Orthodontist - Spring Hill | 20% |
 
-*Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
