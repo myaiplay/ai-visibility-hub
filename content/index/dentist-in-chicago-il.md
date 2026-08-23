@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for dentist in Chicago, IL?"
-description: "We ran 6 recorded AI search tests for dentist in Chicago, IL. These businesses get named most often."
+description: "We ran 7 recorded AI search tests for dentist in Chicago, IL. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Chicago, IL", "description": "Recorded AI search test results (6 runs) showing which businesses AI engines name for dentist in Chicago, IL.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-chicago-il/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Chicago, IL", "description": "Recorded AI search test results (7 runs) showing which businesses AI engines name for dentist in Chicago, IL.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-chicago-il/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a dentist in Chicago, IL?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Chicago, IL", "who should I hire for dentist services near Chicago, IL?") across 6 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Chicago, IL", "who should I hire for dentist services near Chicago, IL?") across 7 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | William J. Millon DDS | 33% |
-| 2 | Chicago Loop Dentistry | 33% |
-| 3 | Dr. Jessica Mehta | 17% |
-| 4 | Always There Dental Care | 17% |
-| 5 | WebMD | 17% |
-| 6 | Healthgrades | 17% |
-| 7 | Chicago Style Smiles | 17% |
-| 8 | Zocdoc | 17% |
-| 9 | William J. Millon, DDS | 17% |
-| 10 | Lakeshore Dental Studio | 17% |
+| 1 | Chicago Loop Dentistry | 43% |
+| 2 | William J. Millon DDS | 29% |
+| 3 | University Associates in Dentistry | 29% |
+| 4 | Smile Science Chicago | 29% |
+| 5 | Always There Dental Care | 14% |
+| 6 | Dr. Jessica Mehta | 14% |
+| 7 | WebMD | 14% |
+| 8 | Zocdoc | 14% |
+| 9 | Healthgrades | 14% |
+| 10 | Chicago Style Smiles | 14% |
 
-*Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

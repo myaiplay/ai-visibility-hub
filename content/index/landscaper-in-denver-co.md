@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Denver, CO?"
-description: "We ran 5 recorded AI search tests for landscaper in Denver, CO. These businesses get named most often."
+description: "We ran 6 recorded AI search tests for landscaper in Denver, CO. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Denver, CO", "description": "Recorded AI search test results (5 runs) showing which businesses AI engines name for landscaper in Denver, CO.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-denver-co/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Denver, CO", "description": "Recorded AI search test results (6 runs) showing which businesses AI engines name for landscaper in Denver, CO.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-denver-co/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Denver, CO?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Denver, CO", "who should I hire for landscaper services near Denver, CO?") across 5 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Denver, CO", "who should I hire for landscaper services near Denver, CO?") across 6 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Mile High Landscaping | 100% |
-| 2 | Designs by Sundown | 80% |
-| 3 | Designscapes Colorado | 80% |
-| 4 | C&H Landscaping | 60% |
-| 5 | The Fisherman LLC | 40% |
-| 6 | Little Foot Landscaping | 40% |
-| 7 | LawnStarter | 20% |
-| 8 | Elite Landscape & Outdoor Living | 20% |
-| 9 | General landscaping and outdoor living | 20% |
-| 10 | Denver Sprinkler and Landscape | 20% |
+| 2 | Designs by Sundown | 83% |
+| 3 | Designscapes Colorado | 83% |
+| 4 | Little Foot Landscaping | 50% |
+| 5 | The Fisherman LLC | 50% |
+| 6 | C&H Landscaping | 50% |
+| 7 | LawnStarter | 17% |
+| 8 | General landscaping and outdoor living | 17% |
+| 9 | Elite Landscape & Outdoor Living | 17% |
+| 10 | Denver Sprinkler and Landscape | 17% |
 
-*Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
