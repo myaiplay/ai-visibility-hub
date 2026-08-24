@@ -21,5 +21,10 @@
     "id": 4473090,
     "url": "https://dev.to/kduai/chatgpt-search-runs-on-bing-why-it-matters-3ik6",
     "canonical": "https://myaiplay.github.io/ai-visibility-hub/articles/chatgpt-runs-on-bing/"
+  },
+  "llms-txt-guide": {
+    "id": 4473330,
+    "url": "https://dev.to/kduai/what-is-llmstxt-guide-free-generator-3bon",
+    "canonical": "https://myaiplay.github.io/ai-visibility-hub/articles/llms-txt-guide/"
   }
 }

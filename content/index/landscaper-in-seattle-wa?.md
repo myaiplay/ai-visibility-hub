@@ -22,12 +22,12 @@ utm: index_page
 | 2 | Eagle Rock Landscaping Inc. | 100% |
 | 3 | Devonshire Landscapes Inc | 60% |
 | 4 | Seattle Gardening Co. | 40% |
-| 5 | Devonshire Landscapes Inc. | 40% |
-| 6 | New Life Rockeries & Retaining Walls | 40% |
+| 5 | New Life Rockeries & Retaining Walls | 40% |
+| 6 | Devonshire Landscapes Inc. | 40% |
 | 7 | Urban Oasis Design & Construction LLC | 40% |
 | 8 | Classic Landscaping | 20% |
-| 9 | Seattle landscaping services | 20% |
-| 10 | Angi | 20% |
+| 9 | Houzz | 20% |
+| 10 | Seattle landscaping services | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

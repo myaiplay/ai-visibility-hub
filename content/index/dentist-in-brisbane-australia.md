@@ -18,16 +18,16 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | North Brisbane Dental Clinic | 100% |
-| 2 | Brisbane Dental and Denture Clinic | 100% |
-| 3 | Brisbane Dental | 100% |
+| 1 | Brisbane Dental and Denture Clinic | 100% |
+| 2 | Brisbane Dental | 100% |
+| 3 | North Brisbane Dental Clinic | 100% |
 | 4 | Dental Boutique Brisbane | 86% |
 | 5 | SmileFresh Teeth Whitening Brisbane | 71% |
 | 6 | Yeronga Smile Dental | 57% |
 | 7 | Balmoral Dental Centre | 29% |
 | 8 | Brisbane CBD specifically | 29% |
 | 9 | Dr. Tina Tavacol | 29% |
-| 10 | NK Orthodontist - Spring Hill | 14% |
+| 10 | Proactive Dental Burpengary | 14% |
 
 *Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

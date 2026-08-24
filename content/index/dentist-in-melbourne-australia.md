@@ -27,7 +27,7 @@ utm: index_page
 | 7 | Melbourne Dental Group | 12% |
 | 8 | CBD convenience | 12% |
 | 9 | Word of Mouth | 12% |
-| 10 | Whether they offer the treatment you need | 12% |
+| 10 | Hours | 12% |
 
 *Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

@@ -20,8 +20,8 @@ utm: index_page
 |---|---|---|
 | 1 | Millennium Park Dental | 100% |
 | 2 | DiPilla Dentistry of Chicago | 88% |
-| 3 | The Magnificent Smile | 50% |
-| 4 | Chicago Loop Dentistry | 50% |
+| 3 | Chicago Loop Dentistry | 50% |
+| 4 | The Magnificent Smile | 50% |
 | 5 | Bite Club | 38% |
 | 6 | Grand Dentistry Loop | 38% |
 | 7 | All in One Dentistry | 25% |

@@ -24,10 +24,10 @@ utm: index_page
 | 4 | Specialty | 25% |
 | 5 | Insurance acceptance | 25% |
 | 6 | Downtown Phoenix Dental | 25% |
-| 7 | Healthgrades | 12% |
+| 7 | Phoenix Magazine Top Dentist profiles | 12% |
 | 8 | Patient ratings and review volume | 12% |
 | 9 | WebMD | 12% |
-| 10 | Phoenix Magazine Top Dentist profiles | 12% |
+| 10 | Healthgrades | 12% |
 
 *Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

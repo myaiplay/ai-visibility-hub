@@ -8,13 +8,13 @@ date: 2026-08-24
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 24 August 2026, 05:26 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 24 August 2026, 08:30 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $0.98 | $5.00/mo |
+| Data engine (Perplexity) | $0.99 | $5.00/mo |
 | X posts | 8 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
@@ -25,25 +25,12 @@ date: 2026-08-24
 | Test days recorded | 9 |
 | Buyer prompts tested | 164 |
 | Stat pages live | 23 |
-| Articles syndicated to Dev.to | 3 |
+| Articles syndicated to Dev.to | 5 |
 | Bluesky posts made | 2 (last: 23 Aug, 14:45 UTC) |
 
 ## Traffic
 
-| Signal | Value |
-|---|---|
-| Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub | 3 |
-|   top page: /ai-visibility-hub/dashboard | 3 |
-|   top page: /ai-visibility-hub/articles/ai-visibility-glossary | 1 |
-|   top page: /verify-analytics | 1 |
-|   referrer:  | 4 |
-|   referrer: myaiplay.github.io/ai-visibility-hub | 2 |
-|   referrer: github.com | 1 |
-|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 1 |
-| Dev.to article views | 5 |
-| Dev.to reactions | 0 |
-| Bluesky followers | 1 |
+_Traffic APIs not reachable from this environment._
 
 ## Next scheduled runs
 
@@ -53,7 +40,7 @@ date: 2026-08-24
 | Bluesky post | Mon 24 Aug, 13:37 local |
 | X post | Mon 24 Aug, 21:43 local |
 | Dev.to catch-up | Mon 31 Aug, 05:11 local |
-| Weekly data article | Mon 24 Aug, 06:07 local |
+| Weekly data article | Mon 31 Aug, 06:07 local |
 | Weekly report | Sun 30 Aug, 18:22 local |
 
 ## Data

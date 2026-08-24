@@ -21,8 +21,8 @@ utm: index_page
 | 1 | Mile High Landscaping | 100% |
 | 2 | Designs by Sundown | 86% |
 | 3 | Designscapes Colorado | 86% |
-| 4 | Little Foot Landscaping | 57% |
-| 5 | The Fisherman LLC | 57% |
+| 4 | The Fisherman LLC | 57% |
+| 5 | Little Foot Landscaping | 57% |
 | 6 | C&H Landscaping | 43% |
 | 7 | LawnStarter | 14% |
 | 8 | Elite Landscape & Outdoor Living | 14% |

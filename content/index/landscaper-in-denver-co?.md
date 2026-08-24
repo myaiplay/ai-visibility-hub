@@ -25,8 +25,8 @@ utm: index_page
 | 5 | Designs By Sundown | 43% |
 | 6 | Designs by Sundown | 43% |
 | 7 | C&H Landscaping | 29% |
-| 8 | Sparrow Grow | 29% |
-| 9 | Denver Sprinkler Services | 29% |
+| 8 | Denver Sprinkler Services | 29% |
+| 9 | Sparrow Grow | 29% |
 | 10 | Green Mountain Landscape and Sprinkler | 29% |
 
 *Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

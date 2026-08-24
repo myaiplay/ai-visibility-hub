@@ -18,16 +18,16 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Topiarius | 100% |
-| 2 | Christy Webber Landscapes | 100% |
-| 3 | Mariani Landscape | 67% |
-| 4 | LawnStarter | 67% |
-| 5 | Cityscape Landscape | 67% |
+| 1 | Christy Webber Landscapes | 100% |
+| 2 | Topiarius | 100% |
+| 3 | Cityscape Landscape | 67% |
+| 4 | Mariani Landscape | 67% |
+| 5 | LawnStarter | 67% |
 | 6 | Greenpal Lawn Care of Chicago | 33% |
-| 7 | Arts Maintenance | 33% |
-| 8 | Cityscape Landscape LLC | 33% |
-| 9 | Grant & Power Landscaping | 33% |
-| 10 | Greenpal Lawn Care Of Chicago | 33% |
+| 7 | Cityscape Landscape LLC | 33% |
+| 8 | Patch Landscaping | 33% |
+| 9 | Arts Maintenance | 33% |
+| 10 | Grant & Power Landscaping | 33% |
 
 *Based on 3 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

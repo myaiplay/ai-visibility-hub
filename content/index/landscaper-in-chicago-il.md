@@ -23,9 +23,9 @@ utm: index_page
 | 3 | Greenpal Lawn Care of Chicago | 75% |
 | 4 | Patch Landscaping | 75% |
 | 5 | Van Zelst | 25% |
-| 6 | Burkhart Outdoors, Inc. | 25% |
+| 6 | Christy Webber Landscapes | 25% |
 | 7 | GreenPal Lawn Care of Chicago | 25% |
-| 8 | Christy Webber Landscapes | 25% |
+| 8 | Burkhart Outdoors, Inc. | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

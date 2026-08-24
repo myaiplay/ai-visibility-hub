@@ -21,10 +21,10 @@ utm: index_page
 | 1 | Quay Dental Clinic | 100% |
 | 2 | Pitt Street Dental Centre | 100% |
 | 3 | Paramount Dental Sydney | 57% |
-| 4 | Aglow Dental Group | 29% |
-| 5 | Green Apple Dental Care CBD | 29% |
-| 6 | Darlinghurst Smiles | 29% |
-| 7 | No Gaps Dental Sydney CBD Haymarket | 29% |
+| 4 | No Gaps Dental Sydney CBD Haymarket | 29% |
+| 5 | Aglow Dental Group | 29% |
+| 6 | Green Apple Dental Care CBD | 29% |
+| 7 | Darlinghurst Smiles | 29% |
 | 8 | AHPRA registration | 29% |
 | 9 | Spa Dental Sydney CBD | 29% |
 | 10 | Sydney CBD Dentistry | 29% |

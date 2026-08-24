@@ -18,11 +18,11 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Devonshire Landscapes Inc | 100% |
-| 2 | New Life Rockeries & Retaining Walls | 100% |
+| 1 | New Life Rockeries & Retaining Walls | 100% |
+| 2 | Devonshire Landscapes Inc | 100% |
 | 3 | Urban Oasis Design & Construction LLC | 83% |
-| 4 | New Life Rockeries | 17% |
-| 5 | Seattle Times Best in PNW Nominee | 17% |
+| 4 | Seattle Times Best in PNW Nominee | 17% |
+| 5 | New Life Rockeries | 17% |
 
 *Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

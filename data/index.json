@@ -7,11 +7,11 @@
       "slug": "dentist-in-austin-tx",
       "top": [
         {
-          "name": "Walden Dental",
+          "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
-          "name": "Holly Phillip DDS",
+          "name": "Walden Dental",
           "mention_rate": 1.0
         },
         {
@@ -23,11 +23,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "Austin Dental Works",
+          "name": "Toothbar",
           "mention_rate": 0.25
         },
         {
-          "name": "Toothbar",
+          "name": "Austin Dental Works",
           "mention_rate": 0.25
         },
         {
@@ -55,11 +55,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "ATX Family Dental",
+          "name": "North Austin Dentistry",
           "mention_rate": 0.8
         },
         {
-          "name": "North Austin Dentistry",
+          "name": "ATX Family Dental",
           "mention_rate": 0.8
         },
         {
@@ -67,15 +67,15 @@
           "mention_rate": 0.8
         },
         {
+          "name": "Austin Artistic Dental",
+          "mention_rate": 0.6
+        },
+        {
           "name": "David J. Gordon II, DDS",
           "mention_rate": 0.6
         },
         {
           "name": "Tech Ridge Dental",
-          "mention_rate": 0.6
-        },
-        {
-          "name": "Austin Artistic Dental",
           "mention_rate": 0.6
         },
         {
@@ -95,15 +95,15 @@
       "slug": "dentist-in-brisbane-australia",
       "top": [
         {
-          "name": "North Brisbane Dental Clinic",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Brisbane Dental and Denture Clinic",
           "mention_rate": 1.0
         },
         {
           "name": "Brisbane Dental",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "North Brisbane Dental Clinic",
           "mention_rate": 1.0
         },
         {
@@ -131,7 +131,7 @@
           "mention_rate": 0.29
         },
         {
-          "name": "NK Orthodontist - Spring Hill",
+          "name": "Proactive Dental Burpengary",
           "mention_rate": 0.14
         }
       ]
@@ -219,7 +219,7 @@
           "mention_rate": 0.12
         },
         {
-          "name": "Healthgrades",
+          "name": "Chicago Style Smiles",
           "mention_rate": 0.12
         },
         {
@@ -227,7 +227,7 @@
           "mention_rate": 0.12
         },
         {
-          "name": "Chicago Style Smiles",
+          "name": "Healthgrades",
           "mention_rate": 0.12
         }
       ]
@@ -247,11 +247,11 @@
           "mention_rate": 0.88
         },
         {
-          "name": "The Magnificent Smile",
+          "name": "Chicago Loop Dentistry",
           "mention_rate": 0.5
         },
         {
-          "name": "Chicago Loop Dentistry",
+          "name": "The Magnificent Smile",
           "mention_rate": 0.5
         },
         {
@@ -291,11 +291,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Pearl Dentistry",
+          "name": "OG Dental Denver",
           "mention_rate": 0.67
         },
         {
-          "name": "OG Dental Denver",
+          "name": "Pearl Dentistry",
           "mention_rate": 0.67
         },
         {
@@ -303,11 +303,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Metropolitan Dental Care",
+          "name": "Dental Elements",
           "mention_rate": 0.67
         },
         {
-          "name": "Dental Elements",
+          "name": "Metropolitan Dental Care",
           "mention_rate": 0.67
         },
         {
@@ -315,15 +315,15 @@
           "mention_rate": 0.33
         },
         {
-          "name": "ZIP code",
-          "mention_rate": 0.33
-        },
-        {
           "name": "Smile Studio Dental",
           "mention_rate": 0.33
         },
         {
-          "name": "OG Dental",
+          "name": "ZIP code",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Need",
           "mention_rate": 0.33
         }
       ]
@@ -371,7 +371,7 @@
           "mention_rate": 0.12
         },
         {
-          "name": "Whether they offer the treatment you need",
+          "name": "Hours",
           "mention_rate": 0.12
         }
       ]
@@ -455,7 +455,7 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Healthgrades",
+          "name": "Phoenix Magazine Top Dentist profiles",
           "mention_rate": 0.12
         },
         {
@@ -467,7 +467,7 @@
           "mention_rate": 0.12
         },
         {
-          "name": "Phoenix Magazine Top Dentist profiles",
+          "name": "Healthgrades",
           "mention_rate": 0.12
         }
       ]
@@ -487,16 +487,12 @@
           "mention_rate": 0.75
         },
         {
-          "name": "North Mountain Dentistry",
-          "mention_rate": 0.5
-        },
-        {
           "name": "The Biting Edge Family Dentistry",
           "mention_rate": 0.5
         },
         {
-          "name": "Downtown Phoenix Dental",
-          "mention_rate": 0.38
+          "name": "North Mountain Dentistry",
+          "mention_rate": 0.5
         },
         {
           "name": "Arizona Biltmore Dentistry",
@@ -504,6 +500,10 @@
         },
         {
           "name": "Life Smiles Dental Care",
+          "mention_rate": 0.38
+        },
+        {
+          "name": "Downtown Phoenix Dental",
           "mention_rate": 0.38
         },
         {
@@ -527,11 +527,11 @@
       "slug": "dentist-in-seattle-wa",
       "top": [
         {
-          "name": "Dr. Chris Pickel",
+          "name": "Best Dentistry",
           "mention_rate": 1.0
         },
         {
-          "name": "Best Dentistry",
+          "name": "Dr. Chris Pickel",
           "mention_rate": 1.0
         },
         {
@@ -591,19 +591,19 @@
           "mention_rate": 0.43
         },
         {
-          "name": "ICHS Dental Care",
-          "mention_rate": 0.43
-        },
-        {
           "name": "Sage Family Dental",
           "mention_rate": 0.43
         },
         {
-          "name": "Roosevelt Dental",
-          "mention_rate": 0.14
+          "name": "ICHS Dental Care",
+          "mention_rate": 0.43
         },
         {
           "name": "Seattle, WA 98115",
+          "mention_rate": 0.14
+        },
+        {
+          "name": "Roosevelt Dental",
           "mention_rate": 0.14
         },
         {
@@ -611,7 +611,7 @@
           "mention_rate": 0.14
         },
         {
-          "name": "A highly rated Seattle practice",
+          "name": "General family dentistry",
           "mention_rate": 0.14
         }
       ]
@@ -635,6 +635,10 @@
           "mention_rate": 0.57
         },
         {
+          "name": "No Gaps Dental Sydney CBD Haymarket",
+          "mention_rate": 0.29
+        },
+        {
           "name": "Aglow Dental Group",
           "mention_rate": 0.29
         },
@@ -644,10 +648,6 @@
         },
         {
           "name": "Darlinghurst Smiles",
-          "mention_rate": 0.29
-        },
-        {
-          "name": "No Gaps Dental Sydney CBD Haymarket",
           "mention_rate": 0.29
         },
         {
@@ -671,11 +671,11 @@
       "slug": "dentist-in-sydney-australia?",
       "top": [
         {
-          "name": "Spa Dental Sydney CBD",
+          "name": "Paramount Dental Sydney",
           "mention_rate": 1.0
         },
         {
-          "name": "Paramount Dental Sydney",
+          "name": "Spa Dental Sydney CBD",
           "mention_rate": 1.0
         },
         {
@@ -787,11 +787,11 @@
           "mention_rate": 0.29
         },
         {
-          "name": "Maas Verde Landscape Restoration",
+          "name": "Southern Love",
           "mention_rate": 0.29
         },
         {
-          "name": "Southern Love",
+          "name": "Top Choice",
           "mention_rate": 0.29
         }
       ]
@@ -823,7 +823,7 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Burkhart Outdoors, Inc.",
+          "name": "Christy Webber Landscapes",
           "mention_rate": 0.25
         },
         {
@@ -831,7 +831,7 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Christy Webber Landscapes",
+          "name": "Burkhart Outdoors, Inc.",
           "mention_rate": 0.25
         }
       ]
@@ -843,12 +843,16 @@
       "slug": "landscaper-in-chicago-il?",
       "top": [
         {
+          "name": "Christy Webber Landscapes",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Topiarius",
           "mention_rate": 1.0
         },
         {
-          "name": "Christy Webber Landscapes",
-          "mention_rate": 1.0
+          "name": "Cityscape Landscape",
+          "mention_rate": 0.67
         },
         {
           "name": "Mariani Landscape",
@@ -859,15 +863,7 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Cityscape Landscape",
-          "mention_rate": 0.67
-        },
-        {
           "name": "Greenpal Lawn Care of Chicago",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "Arts Maintenance",
           "mention_rate": 0.33
         },
         {
@@ -875,11 +871,15 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Grant & Power Landscaping",
+          "name": "Patch Landscaping",
           "mention_rate": 0.33
         },
         {
-          "name": "Greenpal Lawn Care Of Chicago",
+          "name": "Arts Maintenance",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Grant & Power Landscaping",
           "mention_rate": 0.33
         }
       ]
@@ -903,11 +903,11 @@
           "mention_rate": 0.86
         },
         {
-          "name": "Little Foot Landscaping",
+          "name": "The Fisherman LLC",
           "mention_rate": 0.57
         },
         {
-          "name": "The Fisherman LLC",
+          "name": "Little Foot Landscaping",
           "mention_rate": 0.57
         },
         {
@@ -967,11 +967,11 @@
           "mention_rate": 0.29
         },
         {
-          "name": "Sparrow Grow",
+          "name": "Denver Sprinkler Services",
           "mention_rate": 0.29
         },
         {
-          "name": "Denver Sprinkler Services",
+          "name": "Sparrow Grow",
           "mention_rate": 0.29
         },
         {
@@ -987,11 +987,11 @@
       "slug": "landscaper-in-seattle-wa",
       "top": [
         {
-          "name": "Devonshire Landscapes Inc",
+          "name": "New Life Rockeries & Retaining Walls",
           "mention_rate": 1.0
         },
         {
-          "name": "New Life Rockeries & Retaining Walls",
+          "name": "Devonshire Landscapes Inc",
           "mention_rate": 1.0
         },
         {
@@ -999,11 +999,11 @@
           "mention_rate": 0.83
         },
         {
-          "name": "New Life Rockeries",
+          "name": "Seattle Times Best in PNW Nominee",
           "mention_rate": 0.17
         },
         {
-          "name": "Seattle Times Best in PNW Nominee",
+          "name": "New Life Rockeries",
           "mention_rate": 0.17
         }
       ]
@@ -1031,11 +1031,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Devonshire Landscapes Inc.",
+          "name": "New Life Rockeries & Retaining Walls",
           "mention_rate": 0.4
         },
         {
-          "name": "New Life Rockeries & Retaining Walls",
+          "name": "Devonshire Landscapes Inc.",
           "mention_rate": 0.4
         },
         {
@@ -1047,11 +1047,11 @@
           "mention_rate": 0.2
         },
         {
-          "name": "Seattle landscaping services",
+          "name": "Houzz",
           "mention_rate": 0.2
         },
         {
-          "name": "Angi",
+          "name": "Seattle landscaping services",
           "mention_rate": 0.2
         }
       ]
