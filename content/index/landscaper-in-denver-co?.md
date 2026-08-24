@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Denver, CO??"
-description: "We ran 6 recorded AI search tests for landscaper in Denver, CO?. These businesses get named most often."
+description: "We ran 7 recorded AI search tests for landscaper in Denver, CO?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Denver, CO?", "description": "Recorded AI search test results (6 runs) showing which businesses AI engines name for landscaper in Denver, CO?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-denver-co?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Denver, CO?", "description": "Recorded AI search test results (7 runs) showing which businesses AI engines name for landscaper in Denver, CO?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-denver-co?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Denver, CO??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Denver, CO?", "who should I hire for landscaper services near Denver, CO??") across 6 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Denver, CO?", "who should I hire for landscaper services near Denver, CO??") across 7 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Lifescape Colorado | 100% |
-| 2 | Mile High Landscaping | 83% |
-| 3 | JR Landscapes LLC | 67% |
-| 4 | Designs By Sundown | 50% |
-| 5 | Designs by Sundown | 50% |
-| 6 | Elite Landscape & Outdoor Living | 50% |
-| 7 | C&H Landscaping | 33% |
-| 8 | Sparrow Grow | 33% |
-| 9 | Denver landscaper services | 17% |
-| 10 | Denver Sprinkler and Landscape | 17% |
+| 2 | Mile High Landscaping | 86% |
+| 3 | JR Landscapes LLC | 57% |
+| 4 | Elite Landscape & Outdoor Living | 57% |
+| 5 | Designs By Sundown | 43% |
+| 6 | Designs by Sundown | 43% |
+| 7 | C&H Landscaping | 29% |
+| 8 | Sparrow Grow | 29% |
+| 9 | Denver Sprinkler Services | 29% |
+| 10 | Green Mountain Landscape and Sprinkler | 29% |
 
-*Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

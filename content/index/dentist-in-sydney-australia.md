@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for dentist in Sydney, Australia?"
-description: "We ran 6 recorded AI search tests for dentist in Sydney, Australia. These businesses get named most often."
+description: "We ran 7 recorded AI search tests for dentist in Sydney, Australia. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Sydney, Australia", "description": "Recorded AI search test results (6 runs) showing which businesses AI engines name for dentist in Sydney, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-sydney-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Sydney, Australia", "description": "Recorded AI search test results (7 runs) showing which businesses AI engines name for dentist in Sydney, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-sydney-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a dentist in Sydney, Australia?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Sydney, Australia", "who should I hire for dentist services near Sydney, Australia?") across 6 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Sydney, Australia", "who should I hire for dentist services near Sydney, Australia?") across 7 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Quay Dental Clinic | 100% |
 | 2 | Pitt Street Dental Centre | 100% |
-| 3 | Paramount Dental Sydney | 50% |
-| 4 | Aglow Dental Group | 33% |
-| 5 | Green Apple Dental Care CBD | 33% |
-| 6 | Darlinghurst Smiles | 33% |
-| 7 | No Gaps Dental Sydney CBD Haymarket | 33% |
-| 8 | Sydney CBD Dentistry | 33% |
-| 9 | General checkups and cleaning | 17% |
-| 10 | Cosmetic dentistry | 17% |
+| 3 | Paramount Dental Sydney | 57% |
+| 4 | Aglow Dental Group | 29% |
+| 5 | Green Apple Dental Care CBD | 29% |
+| 6 | Darlinghurst Smiles | 29% |
+| 7 | No Gaps Dental Sydney CBD Haymarket | 29% |
+| 8 | AHPRA registration | 29% |
+| 9 | Spa Dental Sydney CBD | 29% |
+| 10 | Sydney CBD Dentistry | 29% |
 
-*Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
