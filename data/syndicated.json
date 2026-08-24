@@ -13,5 +13,13 @@
     "id": 4453127,
     "url": "https://dev.to/kduai/ai-visibility-glossary-18-terms-in-plain-english-23e5",
     "canonical": "https://myaiplay.github.io/ai-visibility-hub/articles/ai-visibility-glossary/"
+  },
+  "ai-visibility-tools-compared": {
+    "skipped": true
+  },
+  "chatgpt-runs-on-bing": {
+    "id": 4473090,
+    "url": "https://dev.to/kduai/chatgpt-search-runs-on-bing-why-it-matters-3ik6",
+    "canonical": "https://myaiplay.github.io/ai-visibility-hub/articles/chatgpt-runs-on-bing/"
   }
 }
