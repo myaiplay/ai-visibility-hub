@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for dentist in Chicago, IL??"
-description: "We ran 8 recorded AI search tests for dentist in Chicago, IL?. These businesses get named most often."
+description: "We ran 9 recorded AI search tests for dentist in Chicago, IL?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Chicago, IL?", "description": "Recorded AI search test results (8 runs) showing which businesses AI engines name for dentist in Chicago, IL?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-chicago-il?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: dentist in Chicago, IL?", "description": "Recorded AI search test results (9 runs) showing which businesses AI engines name for dentist in Chicago, IL?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/dentist-in-chicago-il?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a dentist in Chicago, IL??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Chicago, IL?", "who should I hire for dentist services near Chicago, IL??") across 8 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best dentist in Chicago, IL?", "who should I hire for dentist services near Chicago, IL??") across 9 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Millennium Park Dental | 100% |
-| 2 | DiPilla Dentistry of Chicago | 88% |
-| 3 | Chicago Loop Dentistry | 50% |
-| 4 | The Magnificent Smile | 50% |
-| 5 | Bite Club | 38% |
-| 6 | Grand Dentistry Loop | 38% |
-| 7 | All in One Dentistry | 25% |
-| 8 | DentArt Chicago | 25% |
-| 9 | Howard Brown Health Dental | 25% |
-| 10 | Zocdoc | 25% |
+| 2 | DiPilla Dentistry of Chicago | 89% |
+| 3 | Chicago Loop Dentistry | 56% |
+| 4 | The Magnificent Smile | 44% |
+| 5 | Bite Club | 44% |
+| 6 | Howard Brown Health Dental | 33% |
+| 7 | Grand Dentistry Loop | 33% |
+| 8 | DentArt Chicago | 22% |
+| 9 | All in One Dentistry | 22% |
+| 10 | Dr. Jessica Mehta | 22% |
 
-*Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 9 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

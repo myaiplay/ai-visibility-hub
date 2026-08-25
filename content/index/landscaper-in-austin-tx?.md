@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Austin, TX??"
-description: "We ran 7 recorded AI search tests for landscaper in Austin, TX?. These businesses get named most often."
+description: "We ran 8 recorded AI search tests for landscaper in Austin, TX?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Austin, TX?", "description": "Recorded AI search test results (7 runs) showing which businesses AI engines name for landscaper in Austin, TX?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-austin-tx?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Austin, TX?", "description": "Recorded AI search test results (8 runs) showing which businesses AI engines name for landscaper in Austin, TX?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-austin-tx?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Austin, TX??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Austin, TX?", "who should I hire for landscaper services near Austin, TX??") across 7 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Austin, TX?", "who should I hire for landscaper services near Austin, TX??") across 8 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Top Choice Lawn Care | 86% |
-| 2 | Southern Love Landscaping & Design | 86% |
-| 3 | Anderson Landscapes | 71% |
-| 4 | Austin Creative Landscaping | 57% |
-| 5 | Ground & Garden | 57% |
-| 6 | ABC Home & Commercial Services | 43% |
-| 7 | Best of Texas Landscapes | 29% |
-| 8 | Maas Verde | 29% |
-| 9 | Southern Love | 29% |
-| 10 | Top Choice | 29% |
+| 1 | Top Choice Lawn Care | 88% |
+| 2 | Southern Love Landscaping & Design | 88% |
+| 3 | Anderson Landscapes | 62% |
+| 4 | Ground & Garden | 62% |
+| 5 | Austin Creative Landscaping | 50% |
+| 6 | ABC Home & Commercial Services | 38% |
+| 7 | Maas Verde | 38% |
+| 8 | Best of Texas Landscapes | 25% |
+| 9 | Southern Love | 25% |
+| 10 | Maas Verde Landscape Restoration | 25% |
 
-*Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

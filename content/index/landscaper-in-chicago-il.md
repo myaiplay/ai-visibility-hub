@@ -1,33 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Chicago, IL?"
-description: "We ran 4 recorded AI search tests for landscaper in Chicago, IL. These businesses get named most often."
+description: "We ran 5 recorded AI search tests for landscaper in Chicago, IL. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Chicago, IL", "description": "Recorded AI search test results (4 runs) showing which businesses AI engines name for landscaper in Chicago, IL.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-chicago-il/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Chicago, IL", "description": "Recorded AI search test results (5 runs) showing which businesses AI engines name for landscaper in Chicago, IL.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-chicago-il/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Chicago, IL?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Chicago, IL", "who should I hire for landscaper services near Chicago, IL?") across 4 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Chicago, IL", "who should I hire for landscaper services near Chicago, IL?") across 5 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Cityscape Landscape | 100% |
-| 2 | Christy Webber | 75% |
-| 3 | Greenpal Lawn Care of Chicago | 75% |
-| 4 | Patch Landscaping | 75% |
-| 5 | Van Zelst | 25% |
-| 6 | Christy Webber Landscapes | 25% |
-| 7 | GreenPal Lawn Care of Chicago | 25% |
-| 8 | Burkhart Outdoors, Inc. | 25% |
+| 2 | Christy Webber | 60% |
+| 3 | Greenpal Lawn Care of Chicago | 60% |
+| 4 | Patch Landscaping | 60% |
+| 5 | Van Zelst | 20% |
+| 6 | GreenPal Lawn Care of Chicago | 20% |
+| 7 | Burkhart Outdoors, Inc. | 20% |
+| 8 | Christy Webber Landscapes | 20% |
+| 9 | Christy Webber Landscaping | 20% |
+| 10 | R&L Landscaping Corporation | 20% |
 
-*Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

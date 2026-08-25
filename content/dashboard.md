@@ -2,43 +2,58 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-08-24
+date: 2026-08-25
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 24 August 2026, 08:30 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 25 August 2026, 05:09 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $0.99 | $5.00/mo |
-| X posts | 8 | 31/mo |
+| Data engine (Perplexity) | $1.11 | $5.00/mo |
+| X posts | 9 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
 ## Coverage
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 9 |
-| Buyer prompts tested | 164 |
-| Stat pages live | 23 |
-| Articles syndicated to Dev.to | 5 |
-| Bluesky posts made | 2 (last: 23 Aug, 14:45 UTC) |
+| Test days recorded | 10 |
+| Buyer prompts tested | 184 |
+| Stat pages live | 24 |
+| Articles syndicated to Dev.to | 6 |
+| Bluesky posts made | 3 (last: 24 Aug, 15:25 UTC) |
 
 ## Traffic
 
-_Traffic APIs not reachable from this environment._
+| Signal | Value |
+|---|---|
+| Hub pageviews (14d) | 8 |
+| Hub visits (14d) | 8 |
+| Clicks through to aicantfindme.com (14d) | 0 |
+|   top page: /ai-visibility-hub | 3 |
+|   top page: /ai-visibility-hub/dashboard | 3 |
+|   top page: /ai-visibility-hub/articles/ai-visibility-glossary | 1 |
+|   top page: /verify-analytics | 1 |
+|   referrer:  | 4 |
+|   referrer: myaiplay.github.io/ai-visibility-hub | 2 |
+|   referrer: github.com | 1 |
+|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 1 |
+| Dev.to article views | 5 |
+| Dev.to reactions | 0 |
+| Bluesky followers | 1 |
 
 ## Next scheduled runs
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Tue 25 Aug, 03:17 local |
-| Bluesky post | Mon 24 Aug, 13:37 local |
-| X post | Mon 24 Aug, 21:43 local |
+| Data engine (12 AI tests) | Wed 26 Aug, 03:17 local |
+| Bluesky post | Tue 25 Aug, 13:37 local |
+| X post | Tue 25 Aug, 21:43 local |
 | Dev.to catch-up | Mon 31 Aug, 05:11 local |
 | Weekly data article | Mon 31 Aug, 06:07 local |
 | Weekly report | Sun 30 Aug, 18:22 local |
