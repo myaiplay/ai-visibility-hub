@@ -22,8 +22,8 @@ utm: index_page
 | 2 | Biltmore Dental Center | 70% |
 | 3 | Arizona Biltmore Dentistry | 60% |
 | 4 | Healthgrades | 20% |
-| 5 | Insurance acceptance | 20% |
-| 6 | Specialty | 20% |
+| 5 | Specialty | 20% |
+| 6 | Insurance acceptance | 20% |
 | 7 | Insurance network | 20% |
 | 8 | Downtown Phoenix Dental | 20% |
 | 9 | WebMD | 10% |

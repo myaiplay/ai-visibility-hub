@@ -23,8 +23,8 @@ utm: index_page
 | 3 | JR Landscapes LLC | 56% |
 | 4 | Elite Landscape & Outdoor Living | 56% |
 | 5 | Designs by Sundown | 44% |
-| 6 | C&H Landscaping | 33% |
-| 7 | Designs By Sundown | 33% |
+| 6 | Designs By Sundown | 33% |
+| 7 | C&H Landscaping | 33% |
 | 8 | Weston Landscape & Design | 22% |
 | 9 | Denver Sprinkler Services | 22% |
 | 10 | Sparrow Grow | 22% |

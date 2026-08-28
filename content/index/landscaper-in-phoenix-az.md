@@ -22,8 +22,8 @@ utm: index_page
 | 2 | Franks Hardscape & Landscape Design LLC | 75% |
 | 3 | NuView Pools & Landscape | 75% |
 | 4 | Paradise Hardscapes | 50% |
-| 5 | NuView Pools & Landscape Lawn Care | 25% |
-| 6 | Best of Houzz | 25% |
+| 5 | Best of Houzz | 25% |
+| 6 | NuView Pools & Landscape Lawn Care | 25% |
 | 7 | Divine Design Landscaping Company | 25% |
 | 8 | Best of Houzz winner | 25% |
 | 9 | ABC Scapes | 25% |

@@ -24,8 +24,8 @@ utm: index_page
 | 4 | Cityscape Landscape | 60% |
 | 5 | LawnStarter | 40% |
 | 6 | Cityscape Landscape LLC | 40% |
-| 7 | Beary Landscaping | 40% |
-| 8 | Chicago Specialty Gardens | 40% |
+| 7 | Chicago Specialty Gardens | 40% |
+| 8 | Beary Landscaping | 40% |
 | 9 | Greenpal Lawn Care of Chicago | 20% |
 | 10 | Arts Maintenance | 20% |
 

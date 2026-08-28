@@ -24,9 +24,9 @@ utm: index_page
 | 4 | Christy Webber | 50% |
 | 5 | Christy Webber Landscaping | 33% |
 | 6 | Van Zelst | 17% |
-| 7 | GreenPal Lawn Care of Chicago | 17% |
+| 7 | Burkhart Outdoors, Inc. | 17% |
 | 8 | Christy Webber Landscapes | 17% |
-| 9 | Burkhart Outdoors, Inc. | 17% |
+| 9 | GreenPal Lawn Care of Chicago | 17% |
 | 10 | R&L Landscaping Corporation | 17% |
 
 *Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

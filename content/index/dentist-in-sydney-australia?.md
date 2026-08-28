@@ -27,7 +27,7 @@ utm: index_page
 | 7 | AHPRA-registered | 22% |
 | 8 | Sydney | 11% |
 | 9 | Sydney CBD | 11% |
-| 10 | Emergency Dentist Sydney | 11% |
+| 10 | CBD location convenience | 11% |
 
 *Based on 9 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

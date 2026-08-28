@@ -26,7 +26,7 @@ utm: index_page
 | 6 | ABC Home & Commercial Services | 44% |
 | 7 | Maas Verde | 44% |
 | 8 | Best of Texas Landscapes | 22% |
-| 9 | Maas Verde Landscape Restoration | 22% |
+| 9 | Southern Love | 22% |
 | 10 | Top Choice | 22% |
 
 *Based on 9 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

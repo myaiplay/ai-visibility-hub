@@ -22,12 +22,12 @@ utm: index_page
 | 2 | Tree Pros | 100% |
 | 3 | R&R Landscaping & Outdoor Design | 100% |
 | 4 | Diamond Stone & Synthetic Grass | 100% |
-| 5 | Unwind Landscapes | 67% |
-| 6 | BIG BOSS Landscape | 67% |
+| 5 | BIG BOSS Landscape | 67% |
+| 6 | Unwind Landscapes | 67% |
 | 7 | Valley of the Sun Landscaping | 67% |
 | 8 | E&E Landscape Services | 33% |
-| 9 | Divine Design Landscaping | 33% |
-| 10 | Mountainscapers Landscaping | 33% |
+| 9 | Mountainscapers Landscaping | 33% |
+| 10 | Divine Design Landscaping | 33% |
 
 *Based on 3 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

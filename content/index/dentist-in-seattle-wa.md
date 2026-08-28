@@ -23,8 +23,8 @@ utm: index_page
 | 3 | Best Dentistry | 100% |
 | 4 | Dr. Anthony A. Santorsola | 100% |
 | 5 | Seattle Met Top Dentists 2026 | 33% |
-| 6 | Top Dentists 2026 | 17% |
-| 7 | North Seattle Dental | 17% |
+| 6 | North Seattle Dental | 17% |
+| 7 | Top Dentists 2026 | 17% |
 | 8 | Location and convenience | 17% |
 | 9 | Recent patient reviews and appointment availability | 17% |
 | 10 | Insurance acceptance | 17% |

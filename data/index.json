@@ -55,11 +55,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "North Austin Dentistry",
+          "name": "ATX Family Dental",
           "mention_rate": 0.8
         },
         {
-          "name": "ATX Family Dental",
+          "name": "North Austin Dentistry",
           "mention_rate": 0.8
         },
         {
@@ -83,7 +83,7 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Vesga Advanced Proodontics",
+          "name": "Austin Dental Works",
           "mention_rate": 0.2
         }
       ]
@@ -99,11 +99,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Brisbane Dental and Denture Clinic",
+          "name": "Brisbane Dental",
           "mention_rate": 1.0
         },
         {
-          "name": "Brisbane Dental",
+          "name": "Brisbane Dental and Denture Clinic",
           "mention_rate": 1.0
         },
         {
@@ -267,11 +267,11 @@
           "mention_rate": 0.33
         },
         {
-          "name": "DentArt Chicago",
+          "name": "All in One Dentistry",
           "mention_rate": 0.22
         },
         {
-          "name": "All in One Dentistry",
+          "name": "DentArt Chicago",
           "mention_rate": 0.22
         },
         {
@@ -299,11 +299,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Metropolitan Dental Care",
+          "name": "Wynkoop Dentistry",
           "mention_rate": 0.67
         },
         {
-          "name": "Wynkoop Dentistry",
+          "name": "Metropolitan Dental Care",
           "mention_rate": 0.67
         },
         {
@@ -315,15 +315,15 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Smile Studio Dental",
-          "mention_rate": 0.33
-        },
-        {
           "name": "ZIP code",
           "mention_rate": 0.33
         },
         {
-          "name": "Availability for new patients",
+          "name": "Smile Studio Dental",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Distance from home or work",
           "mention_rate": 0.33
         }
       ]
@@ -403,19 +403,19 @@
           "mention_rate": 0.44
         },
         {
-          "name": "The Royal Dental Hospital of Melbourne",
-          "mention_rate": 0.22
-        },
-        {
           "name": "Australian Dentists Clinic",
           "mention_rate": 0.22
         },
         {
-          "name": "Availability",
+          "name": "The Royal Dental Hospital of Melbourne",
           "mention_rate": 0.22
         },
         {
           "name": "Location",
+          "mention_rate": 0.22
+        },
+        {
+          "name": "Availability",
           "mention_rate": 0.22
         },
         {
@@ -447,11 +447,11 @@
           "mention_rate": 0.2
         },
         {
-          "name": "Insurance acceptance",
+          "name": "Specialty",
           "mention_rate": 0.2
         },
         {
-          "name": "Specialty",
+          "name": "Insurance acceptance",
           "mention_rate": 0.2
         },
         {
@@ -491,11 +491,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "The Biting Edge Family Dentistry",
+          "name": "Arizona Biltmore Dentistry",
           "mention_rate": 0.4
         },
         {
-          "name": "Arizona Biltmore Dentistry",
+          "name": "The Biting Edge Family Dentistry",
           "mention_rate": 0.4
         },
         {
@@ -547,11 +547,11 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Top Dentists 2026",
+          "name": "North Seattle Dental",
           "mention_rate": 0.17
         },
         {
-          "name": "North Seattle Dental",
+          "name": "Top Dentists 2026",
           "mention_rate": 0.17
         },
         {
@@ -611,7 +611,7 @@
           "mention_rate": 0.14
         },
         {
-          "name": "Low-cost or community dental care",
+          "name": "Northwest Seattle",
           "mention_rate": 0.14
         }
       ]
@@ -623,11 +623,11 @@
       "slug": "dentist-in-sydney-australia",
       "top": [
         {
-          "name": "Pitt Street Dental Centre",
+          "name": "Quay Dental Clinic",
           "mention_rate": 1.0
         },
         {
-          "name": "Quay Dental Clinic",
+          "name": "Pitt Street Dental Centre",
           "mention_rate": 1.0
         },
         {
@@ -643,7 +643,7 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Aglow Dental Group",
+          "name": "No Gaps Dental Sydney CBD Haymarket",
           "mention_rate": 0.22
         },
         {
@@ -651,7 +651,7 @@
           "mention_rate": 0.22
         },
         {
-          "name": "No Gaps Dental Sydney CBD Haymarket",
+          "name": "Aglow Dental Group",
           "mention_rate": 0.22
         },
         {
@@ -707,7 +707,7 @@
           "mention_rate": 0.11
         },
         {
-          "name": "Emergency Dentist Sydney",
+          "name": "CBD location convenience",
           "mention_rate": 0.11
         }
       ]
@@ -787,7 +787,7 @@
           "mention_rate": 0.22
         },
         {
-          "name": "Maas Verde Landscape Restoration",
+          "name": "Southern Love",
           "mention_rate": 0.22
         },
         {
@@ -827,7 +827,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "GreenPal Lawn Care of Chicago",
+          "name": "Burkhart Outdoors, Inc.",
           "mention_rate": 0.17
         },
         {
@@ -835,7 +835,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Burkhart Outdoors, Inc.",
+          "name": "GreenPal Lawn Care of Chicago",
           "mention_rate": 0.17
         },
         {
@@ -875,11 +875,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Beary Landscaping",
+          "name": "Chicago Specialty Gardens",
           "mention_rate": 0.4
         },
         {
-          "name": "Chicago Specialty Gardens",
+          "name": "Beary Landscaping",
           "mention_rate": 0.4
         },
         {
@@ -967,11 +967,11 @@
           "mention_rate": 0.44
         },
         {
-          "name": "C&H Landscaping",
+          "name": "Designs By Sundown",
           "mention_rate": 0.33
         },
         {
-          "name": "Designs By Sundown",
+          "name": "C&H Landscaping",
           "mention_rate": 0.33
         },
         {
@@ -1011,11 +1011,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "NuView Pools & Landscape Lawn Care",
+          "name": "Best of Houzz",
           "mention_rate": 0.25
         },
         {
-          "name": "Best of Houzz",
+          "name": "NuView Pools & Landscape Lawn Care",
           "mention_rate": 0.25
         },
         {
@@ -1055,11 +1055,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Unwind Landscapes",
+          "name": "BIG BOSS Landscape",
           "mention_rate": 0.67
         },
         {
-          "name": "BIG BOSS Landscape",
+          "name": "Unwind Landscapes",
           "mention_rate": 0.67
         },
         {
@@ -1071,11 +1071,11 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Divine Design Landscaping",
+          "name": "Mountainscapers Landscaping",
           "mention_rate": 0.33
         },
         {
-          "name": "Mountainscapers Landscaping",
+          "name": "Divine Design Landscaping",
           "mention_rate": 0.33
         }
       ]

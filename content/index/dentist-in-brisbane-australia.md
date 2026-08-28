@@ -19,8 +19,8 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | North Brisbane Dental Clinic | 100% |
-| 2 | Brisbane Dental and Denture Clinic | 100% |
-| 3 | Brisbane Dental | 100% |
+| 2 | Brisbane Dental | 100% |
+| 3 | Brisbane Dental and Denture Clinic | 100% |
 | 4 | Dental Boutique Brisbane | 89% |
 | 5 | SmileFresh Teeth Whitening Brisbane | 78% |
 | 6 | Yeronga Smile Dental | 56% |
