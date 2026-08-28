@@ -20,14 +20,14 @@ utm: index_page
 |---|---|---|
 | 1 | Chicago Loop Dentistry | 50% |
 | 2 | William J. Millon DDS | 38% |
-| 3 | Smile Science Chicago | 38% |
-| 4 | University Associates in Dentistry | 38% |
+| 3 | University Associates in Dentistry | 38% |
+| 4 | Smile Science Chicago | 38% |
 | 5 | Zocdoc | 25% |
 | 6 | Always There Dental Care | 12% |
 | 7 | Dr. Jessica Mehta | 12% |
-| 8 | Healthgrades | 12% |
+| 8 | WebMD | 12% |
 | 9 | Chicago Style Smiles | 12% |
-| 10 | WebMD | 12% |
+| 10 | Healthgrades | 12% |
 
 *Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

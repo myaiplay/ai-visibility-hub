@@ -7,11 +7,11 @@
       "slug": "dentist-in-austin-tx",
       "top": [
         {
-          "name": "Walden Dental",
+          "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
-          "name": "Holly Phillip DDS",
+          "name": "Walden Dental",
           "mention_rate": 1.0
         },
         {
@@ -23,11 +23,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "Austin Dental Works",
+          "name": "Toothbar",
           "mention_rate": 0.25
         },
         {
-          "name": "Toothbar",
+          "name": "Austin Dental Works",
           "mention_rate": 0.25
         },
         {
@@ -47,19 +47,19 @@
       "slug": "dentist-in-austin-tx?",
       "top": [
         {
-          "name": "Waterloo Dental",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
-          "name": "ATX Family Dental",
-          "mention_rate": 0.8
+          "name": "Waterloo Dental",
+          "mention_rate": 1.0
         },
         {
           "name": "North Austin Dentistry",
+          "mention_rate": 0.8
+        },
+        {
+          "name": "ATX Family Dental",
           "mention_rate": 0.8
         },
         {
@@ -67,7 +67,7 @@
           "mention_rate": 0.8
         },
         {
-          "name": "Austin Artistic Dental",
+          "name": "Tech Ridge Dental",
           "mention_rate": 0.6
         },
         {
@@ -75,7 +75,7 @@
           "mention_rate": 0.6
         },
         {
-          "name": "Tech Ridge Dental",
+          "name": "Austin Artistic Dental",
           "mention_rate": 0.6
         },
         {
@@ -91,9 +91,13 @@
     {
       "category": "dentist",
       "city": "Brisbane, Australia",
-      "runs": 9,
+      "runs": 10,
       "slug": "dentist-in-brisbane-australia",
       "top": [
+        {
+          "name": "Brisbane Dental and Denture Clinic",
+          "mention_rate": 1.0
+        },
         {
           "name": "North Brisbane Dental Clinic",
           "mention_rate": 1.0
@@ -103,43 +107,39 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Brisbane Dental and Denture Clinic",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Dental Boutique Brisbane",
-          "mention_rate": 0.89
+          "mention_rate": 0.9
         },
         {
           "name": "SmileFresh Teeth Whitening Brisbane",
-          "mention_rate": 0.78
+          "mention_rate": 0.7
         },
         {
           "name": "Yeronga Smile Dental",
-          "mention_rate": 0.56
+          "mention_rate": 0.5
         },
         {
           "name": "Balmoral Dental Centre",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
         },
         {
           "name": "Brisbane CBD specifically",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
+        },
+        {
+          "name": "Dentistry on George",
+          "mention_rate": 0.3
         },
         {
           "name": "Proactive Dental Burpengary",
-          "mention_rate": 0.22
-        },
-        {
-          "name": "Dr. Tina Tavacol",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         }
       ]
     },
     {
       "category": "dentist",
       "city": "Brisbane, Australia?",
-      "runs": 9,
+      "runs": 10,
       "slug": "dentist-in-brisbane-australia?",
       "top": [
         {
@@ -148,39 +148,39 @@
         },
         {
           "name": "Pure Dentistry",
-          "mention_rate": 0.78
+          "mention_rate": 0.8
         },
         {
           "name": "North Brisbane Dental Clinic",
-          "mention_rate": 0.56
+          "mention_rate": 0.6
         },
         {
           "name": "Bite Dental",
-          "mention_rate": 0.44
+          "mention_rate": 0.4
         },
         {
           "name": "St Lucia Dental",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
         },
         {
           "name": "Brisbane Smiles",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
         },
         {
           "name": "Brisbane Dental and Denture Clinic",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
         },
         {
           "name": "Upper Mt Gravatt",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         },
         {
-          "name": "MGA Dental",
-          "mention_rate": 0.22
+          "name": "Brisbane CBD",
+          "mention_rate": 0.2
         },
         {
-          "name": "Level 6, 141 Queen Street",
-          "mention_rate": 0.11
+          "name": "Precision Dental",
+          "mention_rate": 0.2
         }
       ]
     },
@@ -199,11 +199,11 @@
           "mention_rate": 0.38
         },
         {
-          "name": "Smile Science Chicago",
+          "name": "University Associates in Dentistry",
           "mention_rate": 0.38
         },
         {
-          "name": "University Associates in Dentistry",
+          "name": "Smile Science Chicago",
           "mention_rate": 0.38
         },
         {
@@ -219,7 +219,7 @@
           "mention_rate": 0.12
         },
         {
-          "name": "Healthgrades",
+          "name": "WebMD",
           "mention_rate": 0.12
         },
         {
@@ -227,7 +227,7 @@
           "mention_rate": 0.12
         },
         {
-          "name": "WebMD",
+          "name": "Healthgrades",
           "mention_rate": 0.12
         }
       ]
@@ -267,11 +267,11 @@
           "mention_rate": 0.33
         },
         {
-          "name": "All in One Dentistry",
+          "name": "DentArt Chicago",
           "mention_rate": 0.22
         },
         {
-          "name": "DentArt Chicago",
+          "name": "All in One Dentistry",
           "mention_rate": 0.22
         },
         {
@@ -299,6 +299,10 @@
           "mention_rate": 0.67
         },
         {
+          "name": "Dental Elements",
+          "mention_rate": 0.67
+        },
+        {
           "name": "Wynkoop Dentistry",
           "mention_rate": 0.67
         },
@@ -307,19 +311,15 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Dental Elements",
-          "mention_rate": 0.67
-        },
-        {
           "name": "Cherry Creek Family Dentistry",
           "mention_rate": 0.33
         },
         {
-          "name": "ZIP code",
+          "name": "Smile Studio Dental",
           "mention_rate": 0.33
         },
         {
-          "name": "Smile Studio Dental",
+          "name": "ZIP code",
           "mention_rate": 0.33
         },
         {
@@ -331,7 +331,7 @@
     {
       "category": "dentist",
       "city": "Melbourne, Australia",
-      "runs": 10,
+      "runs": 11,
       "slug": "dentist-in-melbourne-australia",
       "top": [
         {
@@ -340,87 +340,87 @@
         },
         {
           "name": "Pacific Smiles Dental Melbourne CBD",
-          "mention_rate": 0.9
+          "mention_rate": 0.91
         },
         {
           "name": "Gorgeous Smiles",
-          "mention_rate": 0.8
-        },
-        {
-          "name": "DENTL East Melbourne",
-          "mention_rate": 0.6
+          "mention_rate": 0.82
         },
         {
           "name": "Core Dental Southbank",
-          "mention_rate": 0.5
+          "mention_rate": 0.55
         },
         {
-          "name": "Melbourne Dental Group",
-          "mention_rate": 0.3
+          "name": "DENTL East Melbourne",
+          "mention_rate": 0.55
         },
         {
           "name": "Best Overall",
-          "mention_rate": 0.3
+          "mention_rate": 0.27
+        },
+        {
+          "name": "Melbourne Dental Group",
+          "mention_rate": 0.27
         },
         {
           "name": "CBD convenience",
-          "mention_rate": 0.1
+          "mention_rate": 0.09
         },
         {
           "name": "Word of Mouth",
-          "mention_rate": 0.1
+          "mention_rate": 0.09
         },
         {
           "name": "Whether they offer the treatment you need",
-          "mention_rate": 0.1
+          "mention_rate": 0.09
         }
       ]
     },
     {
       "category": "dentist",
       "city": "Melbourne, Australia?",
-      "runs": 9,
+      "runs": 10,
       "slug": "dentist-in-melbourne-australia?",
       "top": [
-        {
-          "name": "MC Dental",
-          "mention_rate": 1.0
-        },
         {
           "name": "Smile Solutions",
           "mention_rate": 1.0
         },
         {
+          "name": "MC Dental",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Royal Dental Hospital of Melbourne",
-          "mention_rate": 0.78
+          "mention_rate": 0.7
         },
         {
           "name": "Melbourne Dental Clinic",
-          "mention_rate": 0.67
+          "mention_rate": 0.6
         },
         {
           "name": "Collins Street Dental",
-          "mention_rate": 0.44
+          "mention_rate": 0.4
         },
         {
-          "name": "Australian Dentists Clinic",
-          "mention_rate": 0.22
+          "name": "Word of Mouth",
+          "mention_rate": 0.2
         },
         {
           "name": "The Royal Dental Hospital of Melbourne",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         },
         {
-          "name": "Location",
-          "mention_rate": 0.22
+          "name": "Australian Dentists Clinic",
+          "mention_rate": 0.2
         },
         {
           "name": "Availability",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         },
         {
-          "name": "Melbourne Dental Group",
-          "mention_rate": 0.22
+          "name": "Location",
+          "mention_rate": 0.2
         }
       ]
     },
@@ -443,15 +443,15 @@
           "mention_rate": 0.6
         },
         {
+          "name": "Insurance acceptance",
+          "mention_rate": 0.2
+        },
+        {
           "name": "Healthgrades",
           "mention_rate": 0.2
         },
         {
           "name": "Specialty",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Insurance acceptance",
           "mention_rate": 0.2
         },
         {
@@ -467,7 +467,7 @@
           "mention_rate": 0.1
         },
         {
-          "name": "Phoenix Magazine Top Dentist profiles",
+          "name": "Patient ratings and review volume",
           "mention_rate": 0.1
         }
       ]
@@ -487,7 +487,7 @@
           "mention_rate": 0.6
         },
         {
-          "name": "North Mountain Dentistry",
+          "name": "Life Smiles Dental Care",
           "mention_rate": 0.4
         },
         {
@@ -495,11 +495,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "The Biting Edge Family Dentistry",
+          "name": "North Mountain Dentistry",
           "mention_rate": 0.4
         },
         {
-          "name": "Life Smiles Dental Care",
+          "name": "The Biting Edge Family Dentistry",
           "mention_rate": 0.4
         },
         {
@@ -527,14 +527,6 @@
       "slug": "dentist-in-seattle-wa",
       "top": [
         {
-          "name": "Dr. Spencer Face",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "Dr. Chris Pickel",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Best Dentistry",
           "mention_rate": 1.0
         },
@@ -543,19 +535,27 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Seattle Met Top Dentists 2026",
-          "mention_rate": 0.33
+          "name": "Dr. Chris Pickel",
+          "mention_rate": 1.0
         },
         {
-          "name": "North Seattle Dental",
-          "mention_rate": 0.17
+          "name": "Dr. Spencer Face",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Seattle Met Top Dentists 2026",
+          "mention_rate": 0.33
         },
         {
           "name": "Top Dentists 2026",
           "mention_rate": 0.17
         },
         {
-          "name": "Location and convenience",
+          "name": "North Seattle Dental",
+          "mention_rate": 0.17
+        },
+        {
+          "name": "Insurance acceptance",
           "mention_rate": 0.17
         },
         {
@@ -563,7 +563,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Insurance acceptance",
+          "name": "Location and convenience",
           "mention_rate": 0.17
         }
       ]
@@ -591,19 +591,19 @@
           "mention_rate": 0.43
         },
         {
-          "name": "ICHS Dental Care",
-          "mention_rate": 0.43
-        },
-        {
           "name": "Sage Family Dental",
           "mention_rate": 0.43
         },
         {
-          "name": "Seattle, WA 98115",
-          "mention_rate": 0.14
+          "name": "ICHS Dental Care",
+          "mention_rate": 0.43
         },
         {
           "name": "Roosevelt Dental",
+          "mention_rate": 0.14
+        },
+        {
+          "name": "Seattle, WA 98115",
           "mention_rate": 0.14
         },
         {
@@ -611,7 +611,7 @@
           "mention_rate": 0.14
         },
         {
-          "name": "Northwest Seattle",
+          "name": "Low-cost or community dental care",
           "mention_rate": 0.14
         }
       ]
@@ -619,103 +619,103 @@
     {
       "category": "dentist",
       "city": "Sydney, Australia",
-      "runs": 9,
+      "runs": 10,
       "slug": "dentist-in-sydney-australia",
       "top": [
-        {
-          "name": "Quay Dental Clinic",
-          "mention_rate": 1.0
-        },
         {
           "name": "Pitt Street Dental Centre",
           "mention_rate": 1.0
         },
         {
+          "name": "Quay Dental Clinic",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Paramount Dental Sydney",
-          "mention_rate": 0.67
+          "mention_rate": 0.6
         },
         {
           "name": "Spa Dental Sydney CBD",
-          "mention_rate": 0.44
+          "mention_rate": 0.5
         },
         {
           "name": "Sydney CBD Dentistry",
-          "mention_rate": 0.33
+          "mention_rate": 0.4
         },
         {
           "name": "No Gaps Dental Sydney CBD Haymarket",
-          "mention_rate": 0.22
-        },
-        {
-          "name": "Darlinghurst Smiles",
-          "mention_rate": 0.22
-        },
-        {
-          "name": "Aglow Dental Group",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         },
         {
           "name": "Green Apple Dental Care CBD",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Aglow Dental Group",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Darlinghurst Smiles",
+          "mention_rate": 0.2
         },
         {
           "name": "AHPRA registration",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         }
       ]
     },
     {
       "category": "dentist",
       "city": "Sydney, Australia?",
-      "runs": 9,
+      "runs": 10,
       "slug": "dentist-in-sydney-australia?",
       "top": [
-        {
-          "name": "Paramount Dental Sydney",
-          "mention_rate": 1.0
-        },
         {
           "name": "Spa Dental Sydney CBD",
           "mention_rate": 1.0
         },
         {
+          "name": "Paramount Dental Sydney",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Quay Dental Clinic",
-          "mention_rate": 0.89
+          "mention_rate": 0.9
         },
         {
           "name": "Pitt Street Dental Centre",
-          "mention_rate": 0.56
+          "mention_rate": 0.6
         },
         {
           "name": "Pitt St Dental Centre",
-          "mention_rate": 0.44
+          "mention_rate": 0.4
         },
         {
           "name": "Dental 99",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
         },
         {
           "name": "AHPRA-registered",
-          "mention_rate": 0.22
+          "mention_rate": 0.3
         },
         {
           "name": "Sydney",
-          "mention_rate": 0.11
+          "mention_rate": 0.1
         },
         {
           "name": "Sydney CBD",
-          "mention_rate": 0.11
+          "mention_rate": 0.1
         },
         {
-          "name": "CBD location convenience",
-          "mention_rate": 0.11
+          "name": "The Paddington Dental Surgery",
+          "mention_rate": 0.1
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Austin, TX",
-      "runs": 9,
+      "runs": 10,
       "slug": "landscaper-in-austin-tx",
       "top": [
         {
@@ -724,178 +724,178 @@
         },
         {
           "name": "Anderson Landscape",
-          "mention_rate": 0.78
+          "mention_rate": 0.8
         },
         {
           "name": "Top Choice Lawn Care",
-          "mention_rate": 0.44
+          "mention_rate": 0.4
         },
         {
           "name": "Austin Pro Landscape",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
         },
         {
           "name": "Ground & Garden",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         },
         {
           "name": "ABC Home & Commercial Services",
-          "mention_rate": 0.11
+          "mention_rate": 0.1
         },
         {
           "name": "Maas Verde",
-          "mention_rate": 0.11
+          "mention_rate": 0.1
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Austin, TX?",
-      "runs": 9,
+      "runs": 10,
       "slug": "landscaper-in-austin-tx?",
       "top": [
         {
           "name": "Top Choice Lawn Care",
-          "mention_rate": 0.89
+          "mention_rate": 0.8
         },
         {
           "name": "Southern Love Landscaping & Design",
-          "mention_rate": 0.78
+          "mention_rate": 0.8
         },
         {
           "name": "Ground & Garden",
-          "mention_rate": 0.67
+          "mention_rate": 0.7
         },
         {
           "name": "Anderson Landscapes",
-          "mention_rate": 0.56
+          "mention_rate": 0.6
         },
         {
           "name": "Austin Creative Landscaping",
-          "mention_rate": 0.44
+          "mention_rate": 0.5
         },
         {
           "name": "ABC Home & Commercial Services",
-          "mention_rate": 0.44
+          "mention_rate": 0.4
         },
         {
           "name": "Maas Verde",
-          "mention_rate": 0.44
+          "mention_rate": 0.4
         },
         {
           "name": "Best of Texas Landscapes",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         },
         {
-          "name": "Southern Love",
-          "mention_rate": 0.22
+          "name": "Maas Verde Landscape Restoration",
+          "mention_rate": 0.2
         },
         {
           "name": "Top Choice",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Chicago, IL",
-      "runs": 6,
+      "runs": 7,
       "slug": "landscaper-in-chicago-il",
       "top": [
         {
           "name": "Cityscape Landscape",
-          "mention_rate": 1.0
+          "mention_rate": 0.86
         },
         {
           "name": "Patch Landscaping",
-          "mention_rate": 0.67
+          "mention_rate": 0.57
         },
         {
           "name": "Greenpal Lawn Care of Chicago",
-          "mention_rate": 0.5
+          "mention_rate": 0.43
         },
         {
           "name": "Christy Webber",
-          "mention_rate": 0.5
-        },
-        {
-          "name": "Christy Webber Landscaping",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "Van Zelst",
-          "mention_rate": 0.17
-        },
-        {
-          "name": "Burkhart Outdoors, Inc.",
-          "mention_rate": 0.17
+          "mention_rate": 0.43
         },
         {
           "name": "Christy Webber Landscapes",
-          "mention_rate": 0.17
+          "mention_rate": 0.29
+        },
+        {
+          "name": "Christy Webber Landscaping",
+          "mention_rate": 0.29
+        },
+        {
+          "name": "Van Zelst",
+          "mention_rate": 0.14
         },
         {
           "name": "GreenPal Lawn Care of Chicago",
-          "mention_rate": 0.17
+          "mention_rate": 0.14
+        },
+        {
+          "name": "Burkhart Outdoors, Inc.",
+          "mention_rate": 0.14
         },
         {
           "name": "R&L Landscaping Corporation",
-          "mention_rate": 0.17
+          "mention_rate": 0.14
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Chicago, IL?",
-      "runs": 5,
+      "runs": 6,
       "slug": "landscaper-in-chicago-il?",
       "top": [
-        {
-          "name": "Topiarius",
-          "mention_rate": 1.0
-        },
         {
           "name": "Christy Webber Landscapes",
           "mention_rate": 1.0
         },
         {
+          "name": "Topiarius",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Mariani Landscape",
-          "mention_rate": 0.8
+          "mention_rate": 0.83
         },
         {
           "name": "Cityscape Landscape",
-          "mention_rate": 0.6
-        },
-        {
-          "name": "LawnStarter",
-          "mention_rate": 0.4
-        },
-        {
-          "name": "Cityscape Landscape LLC",
-          "mention_rate": 0.4
-        },
-        {
-          "name": "Chicago Specialty Gardens",
-          "mention_rate": 0.4
+          "mention_rate": 0.67
         },
         {
           "name": "Beary Landscaping",
-          "mention_rate": 0.4
+          "mention_rate": 0.5
+        },
+        {
+          "name": "LawnStarter",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Cityscape Landscape LLC",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Chicago Specialty Gardens",
+          "mention_rate": 0.33
         },
         {
           "name": "Greenpal Lawn Care of Chicago",
-          "mention_rate": 0.2
+          "mention_rate": 0.17
         },
         {
           "name": "Arts Maintenance",
-          "mention_rate": 0.2
+          "mention_rate": 0.17
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Denver, CO",
-      "runs": 9,
+      "runs": 10,
       "slug": "landscaper-in-denver-co",
       "top": [
         {
@@ -904,46 +904,46 @@
         },
         {
           "name": "Designs by Sundown",
-          "mention_rate": 0.89
+          "mention_rate": 0.9
         },
         {
           "name": "Designscapes Colorado",
-          "mention_rate": 0.89
+          "mention_rate": 0.9
         },
         {
           "name": "Little Foot Landscaping",
-          "mention_rate": 0.67
+          "mention_rate": 0.7
         },
         {
           "name": "The Fisherman LLC",
-          "mention_rate": 0.44
+          "mention_rate": 0.4
         },
         {
           "name": "C&H Landscaping",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
         },
         {
           "name": "Elite Landscape & Outdoor Living",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
         },
         {
           "name": "LawnStarter",
-          "mention_rate": 0.11
+          "mention_rate": 0.1
         },
         {
           "name": "General landscaping and outdoor living",
-          "mention_rate": 0.11
+          "mention_rate": 0.1
         },
         {
           "name": "Denver Sprinkler and Landscape",
-          "mention_rate": 0.11
+          "mention_rate": 0.1
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Denver, CO?",
-      "runs": 9,
+      "runs": 10,
       "slug": "landscaper-in-denver-co?",
       "top": [
         {
@@ -952,46 +952,94 @@
         },
         {
           "name": "Mile High Landscaping",
-          "mention_rate": 0.78
+          "mention_rate": 0.7
         },
         {
           "name": "JR Landscapes LLC",
-          "mention_rate": 0.56
+          "mention_rate": 0.6
         },
         {
           "name": "Elite Landscape & Outdoor Living",
-          "mention_rate": 0.56
+          "mention_rate": 0.5
         },
         {
           "name": "Designs by Sundown",
-          "mention_rate": 0.44
+          "mention_rate": 0.4
         },
         {
           "name": "Designs By Sundown",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
         },
         {
           "name": "C&H Landscaping",
-          "mention_rate": 0.33
+          "mention_rate": 0.3
         },
         {
           "name": "Weston Landscape & Design",
-          "mention_rate": 0.22
+          "mention_rate": 0.3
+        },
+        {
+          "name": "Green Mountain Landscape and Sprinkler",
+          "mention_rate": 0.3
         },
         {
           "name": "Denver Sprinkler Services",
-          "mention_rate": 0.22
+          "mention_rate": 0.2
+        }
+      ]
+    },
+    {
+      "category": "landscaper",
+      "city": "Melbourne, Australia",
+      "runs": 3,
+      "slug": "landscaper-in-melbourne-australia",
+      "top": [
+        {
+          "name": "Melbourne Decking and Landscaping",
+          "mention_rate": 1.0
         },
         {
-          "name": "Sparrow Grow",
-          "mention_rate": 0.22
+          "name": "Augusta Lawn Care",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Ian Barker Gardens",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Gardenology Services",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Ozzie Mowing & Gardening",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Must Have Maintenance",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Nathan Burkett Landscape Architecture",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Daniel Tyrrell Landscapes",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Artificial Lawn Melbourne",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Gardenology Services in Craigieburn",
+          "mention_rate": 0.33
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Phoenix, AZ",
-      "runs": 4,
+      "runs": 5,
       "slug": "landscaper-in-phoenix-az",
       "top": [
         {
@@ -1000,46 +1048,50 @@
         },
         {
           "name": "Franks Hardscape & Landscape Design LLC",
-          "mention_rate": 0.75
+          "mention_rate": 0.6
         },
         {
           "name": "NuView Pools & Landscape",
-          "mention_rate": 0.75
+          "mention_rate": 0.6
         },
         {
           "name": "Paradise Hardscapes",
-          "mention_rate": 0.5
+          "mention_rate": 0.4
         },
         {
           "name": "Best of Houzz",
-          "mention_rate": 0.25
+          "mention_rate": 0.4
         },
         {
           "name": "NuView Pools & Landscape Lawn Care",
-          "mention_rate": 0.25
+          "mention_rate": 0.2
         },
         {
           "name": "Divine Design Landscaping Company",
-          "mention_rate": 0.25
+          "mention_rate": 0.2
         },
         {
           "name": "Best of Houzz winner",
-          "mention_rate": 0.25
+          "mention_rate": 0.2
         },
         {
           "name": "ABC Scapes",
-          "mention_rate": 0.25
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Unwind Landscapes",
+          "mention_rate": 0.2
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Phoenix, AZ?",
-      "runs": 3,
+      "runs": 4,
       "slug": "landscaper-in-phoenix-az?",
       "top": [
         {
-          "name": "Masterscapes LLC",
+          "name": "R&R Landscaping & Outdoor Design",
           "mention_rate": 1.0
         },
         {
@@ -1047,71 +1099,71 @@
           "mention_rate": 1.0
         },
         {
-          "name": "R&R Landscaping & Outdoor Design",
+          "name": "Masterscapes LLC",
           "mention_rate": 1.0
         },
         {
           "name": "Diamond Stone & Synthetic Grass",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "BIG BOSS Landscape",
-          "mention_rate": 0.67
-        },
-        {
-          "name": "Unwind Landscapes",
-          "mention_rate": 0.67
+          "mention_rate": 0.75
         },
         {
           "name": "Valley of the Sun Landscaping",
-          "mention_rate": 0.67
+          "mention_rate": 0.75
         },
         {
-          "name": "E&E Landscape Services",
-          "mention_rate": 0.33
+          "name": "Unwind Landscapes",
+          "mention_rate": 0.5
         },
         {
-          "name": "Mountainscapers Landscaping",
-          "mention_rate": 0.33
+          "name": "BIG BOSS Landscape",
+          "mention_rate": 0.5
         },
         {
           "name": "Divine Design Landscaping",
-          "mention_rate": 0.33
+          "mention_rate": 0.5
+        },
+        {
+          "name": "E&E Landscape Services",
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Mountainscapers Landscaping",
+          "mention_rate": 0.25
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Seattle, WA",
-      "runs": 8,
+      "runs": 9,
       "slug": "landscaper-in-seattle-wa",
       "top": [
-        {
-          "name": "Devonshire Landscapes Inc",
-          "mention_rate": 1.0
-        },
         {
           "name": "New Life Rockeries & Retaining Walls",
           "mention_rate": 1.0
         },
         {
+          "name": "Devonshire Landscapes Inc",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Urban Oasis Design & Construction LLC",
-          "mention_rate": 0.75
+          "mention_rate": 0.78
         },
         {
           "name": "Seattle Times Best in PNW Nominee",
-          "mention_rate": 0.12
+          "mention_rate": 0.11
         },
         {
           "name": "New Life Rockeries",
-          "mention_rate": 0.12
+          "mention_rate": 0.11
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Seattle, WA?",
-      "runs": 7,
+      "runs": 8,
       "slug": "landscaper-in-seattle-wa?",
       "top": [
         {
@@ -1120,39 +1172,39 @@
         },
         {
           "name": "Eagle Rock Landscaping Inc.",
-          "mention_rate": 0.86
+          "mention_rate": 0.75
         },
         {
           "name": "Devonshire Landscapes Inc",
-          "mention_rate": 0.57
+          "mention_rate": 0.62
         },
         {
           "name": "Seattle Gardening Co.",
-          "mention_rate": 0.43
-        },
-        {
-          "name": "Landcrafters",
-          "mention_rate": 0.43
-        },
-        {
-          "name": "Devonshire Landscapes Inc.",
-          "mention_rate": 0.29
+          "mention_rate": 0.38
         },
         {
           "name": "New Life Rockeries & Retaining Walls",
-          "mention_rate": 0.29
+          "mention_rate": 0.38
         },
         {
-          "name": "Urban Oasis Design & Construction LLC",
-          "mention_rate": 0.29
+          "name": "Landcrafters",
+          "mention_rate": 0.38
         },
         {
-          "name": "Classic Landscaping",
-          "mention_rate": 0.14
+          "name": "Devonshire Landscapes Inc.",
+          "mention_rate": 0.25
         },
         {
           "name": "Houzz",
-          "mention_rate": 0.14
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Urban Oasis Design & Construction LLC",
+          "mention_rate": 0.25
+        },
+        {
+          "name": "LawnStarter",
+          "mention_rate": 0.25
         }
       ]
     }
