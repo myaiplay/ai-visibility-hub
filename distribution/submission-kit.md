@@ -39,10 +39,32 @@ One-liner: Open data on which local businesses AI search engines actually recomm
 One-liner: Zero-dependency CLI to check AI crawler access and generate llms.txt files
 Good targets: awesome-llm lists, awesome-seo lists, free-tools directories
 
-## Order of attack (highest authority first)
+## Verified submit links (checked 2026-08-21)
 
-1. Product Hunt (needs a launch day — pick a Tuesday, I'll prep the listing copy)
-2. AlternativeTo + SaaSHub (durable backlinks)
-3. There's An AI For That + Futurepedia (largest AI directories)
-4. Toolify, TopAI.tools, Insidr.ai
-5. The rest — batch through, they're quick
+**Direct forms confirmed working:**
+- SaaSHub → https://www.saashub.com/submit — submit: main product
+- Futurepedia → https://www.futurepedia.io/submit-tool — submit: AI Crawler Check first, then other free tools
+- aitools.fyi → https://aitools.fyi/submit — free tools
+- BetaList → https://betalist.com/submit — main product
+- Insidr.ai → https://www.insidr.ai/submit-tools — free tools
+- Supertools (Rundown) → https://supertools.therundown.ai/submit — free tools
+
+**Open in a real browser (bot-blocked for scripts, fine for humans):**
+- AlternativeTo → https://alternativeto.net/software/new/ — main product (durable backlink)
+- There's An AI For That → https://theresanaiforthat.com/submit/ — free tools (biggest AI directory)
+- Toolify → https://www.toolify.ai/submit — free tools
+- TopAI.tools → https://topai.tools/submit — free tools
+- Easy With AI → https://easywithai.com/submit-tool/ — free tools
+
+**Dead link, skip:** AI Parabellum (submit page 404s)
+
+**Skip for now:**
+- G2 / Capterra — heavy vendor onboarding, not worth it yet
+- Dev.to listings — do NOT use while the account is freshly reinstated
+- Product Hunt — separate launch, needs a plan (kit available on request)
+
+**Rules of the blitz:**
+1. All free listings only — decline every "featured/fast-track" upsell
+2. AI directories accept multiple listings → submit all 4 free tools over a few days (not all at once)
+3. Use hello@aicantfindme.com for accounts; expect confirmation emails
+4. Most listings take days-to-weeks to appear — mark the CSV and move on
