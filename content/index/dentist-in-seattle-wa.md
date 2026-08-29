@@ -18,16 +18,16 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Best Dentistry | 100% |
-| 2 | Dr. Anthony A. Santorsola | 100% |
+| 1 | Dr. Anthony A. Santorsola | 100% |
+| 2 | Dr. Spencer Face | 100% |
 | 3 | Dr. Chris Pickel | 100% |
-| 4 | Dr. Spencer Face | 100% |
+| 4 | Best Dentistry | 100% |
 | 5 | Seattle Met Top Dentists 2026 | 33% |
 | 6 | Top Dentists 2026 | 17% |
 | 7 | North Seattle Dental | 17% |
-| 8 | Insurance acceptance | 17% |
+| 8 | Location and convenience | 17% |
 | 9 | Recent patient reviews and appointment availability | 17% |
-| 10 | Location and convenience | 17% |
+| 10 | Insurance acceptance | 17% |
 
 *Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

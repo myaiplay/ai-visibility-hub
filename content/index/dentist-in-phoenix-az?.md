@@ -20,9 +20,9 @@ utm: index_page
 |---|---|---|
 | 1 | Biltmore Dental Center | 100% |
 | 2 | Musselman Dentistry | 60% |
-| 3 | Life Smiles Dental Care | 40% |
-| 4 | Arizona Biltmore Dentistry | 40% |
-| 5 | North Mountain Dentistry | 40% |
+| 3 | Arizona Biltmore Dentistry | 40% |
+| 4 | North Mountain Dentistry | 40% |
+| 5 | Life Smiles Dental Care | 40% |
 | 6 | The Biting Edge Family Dentistry | 40% |
 | 7 | Phoenician Dentistry | 30% |
 | 8 | Downtown Phoenix Dental | 30% |

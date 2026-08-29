@@ -2,19 +2,19 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-08-28
+date: 2026-08-29
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 28 August 2026, 21:16 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 29 August 2026, 03:24 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $1.35 | $5.00/mo |
+| Data engine (Perplexity) | $1.47 | $5.00/mo |
 | X posts | 11 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
@@ -22,25 +22,28 @@ date: 2026-08-28
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 12 |
-| Buyer prompts tested | 224 |
-| Stat pages live | 26 |
+| Test days recorded | 13 |
+| Buyer prompts tested | 244 |
+| Stat pages live | 27 |
 | Articles syndicated to Dev.to | 6 |
-| Bluesky posts made | 5 (last: 26 Aug, 16:38 UTC) |
+| Bluesky posts made | 0 (last: 28 Aug, 21:50 UTC) |
 
 ## Traffic
 
 | Signal | Value |
 |---|---|
+| Hub pageviews (14d) | 11 |
+| Hub visits (14d) | 11 |
 | Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub | 3 |
-|   top page: /ai-visibility-hub/dashboard | 3 |
+|   top page: /ai-visibility-hub | 4 |
+|   top page: /ai-visibility-hub/dashboard | 4 |
+|   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 1 |
 |   top page: /ai-visibility-hub/articles/ai-visibility-glossary | 1 |
 |   top page: /verify-analytics | 1 |
-|   referrer:  | 4 |
-|   referrer: myaiplay.github.io/ai-visibility-hub | 2 |
+|   referrer:  | 5 |
+|   referrer: myaiplay.github.io/ai-visibility-hub | 3 |
+|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 2 |
 |   referrer: github.com | 1 |
-|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 1 |
 | Dev.to article views | 6 |
 | Dev.to reactions | 0 |
 | Bluesky followers | 1 |
@@ -49,9 +52,9 @@ date: 2026-08-28
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Sat 29 Aug, 03:17 local |
+| Data engine (12 AI tests) | Sun 30 Aug, 03:17 local |
 | Bluesky post | Sat 29 Aug, 13:37 local |
-| X post | Fri 28 Aug, 21:43 local |
+| X post | Sat 29 Aug, 21:43 local |
 | Dev.to catch-up | Mon 31 Aug, 05:11 local |
 | Weekly data article | Mon 31 Aug, 06:07 local |
 | Weekly report | Sun 30 Aug, 18:22 local |
