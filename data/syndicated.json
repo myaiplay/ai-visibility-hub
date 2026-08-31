@@ -26,5 +26,13 @@
     "id": 4473330,
     "url": "https://dev.to/kduai/what-is-llmstxt-guide-free-generator-3bon",
     "canonical": "https://myaiplay.github.io/ai-visibility-hub/articles/llms-txt-guide/"
+  },
+  "otterly-alternative": {
+    "skipped": true
+  },
+  "schema-for-ai-search": {
+    "id": 4533008,
+    "url": "https://dev.to/kduai/schema-markup-for-ai-search-json-ld-guide-d4",
+    "canonical": "https://myaiplay.github.io/ai-visibility-hub/articles/schema-for-ai-search/"
   }
 }
