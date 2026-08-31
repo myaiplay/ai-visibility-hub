@@ -19,15 +19,15 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | NBG Landscapes | 100% |
-| 2 | Concept Landscaping | 100% |
-| 3 | Love Landscapes | 100% |
+| 2 | Love Landscapes | 100% |
+| 3 | Concept Landscaping | 100% |
 | 4 | Master Groups | 75% |
 | 5 | Dr. Garden | 50% |
 | 6 | Dr Garden | 50% |
 | 7 | Sydney Landscaping Pty Ltd | 50% |
 | 8 | Growing Well | 25% |
 | 9 | Houzz | 25% |
-| 10 | Sydney landscaper services | 25% |
+| 10 | Hipages | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

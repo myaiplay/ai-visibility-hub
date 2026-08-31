@@ -19,11 +19,11 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | R&R Landscaping & Outdoor Design | 100% |
-| 2 | Masterscapes LLC | 71% |
-| 3 | Tree Pros | 71% |
+| 2 | Tree Pros | 71% |
+| 3 | Masterscapes LLC | 71% |
 | 4 | Valley of the Sun Landscaping | 57% |
-| 5 | Diamond Stone & Synthetic Grass | 43% |
-| 6 | E&E Landscape Services | 43% |
+| 5 | E&E Landscape Services | 43% |
+| 6 | Diamond Stone & Synthetic Grass | 43% |
 | 7 | Divine Design Landscaping | 43% |
 | 8 | BIG BOSS Landscape | 29% |
 | 9 | Unwind Landscapes | 29% |

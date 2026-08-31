@@ -14,5 +14,6 @@
 - [Otterly Alternative: Diagnosis vs Monitoring](https://myaiplay.github.io/ai-visibility-hub/articles/otterly-alternative)
 - [Schema Markup for AI Search: JSON-LD Guide](https://myaiplay.github.io/ai-visibility-hub/articles/schema-for-ai-search)
 - [What AI search recommended this week (24 August 2026)](https://myaiplay.github.io/ai-visibility-hub/articles/what-ai-recommends-2026-08-24)
+- [What AI search recommended this week (31 August 2026)](https://myaiplay.github.io/ai-visibility-hub/articles/what-ai-recommends-2026-08-31)
 - [What Is AI Visibility? Plain-English Guide](https://myaiplay.github.io/ai-visibility-hub/articles/what-is-ai-visibility)
 - [Why ChatGPT Doesn't Recommend Your Business](https://myaiplay.github.io/ai-visibility-hub/articles/why-chatgpt-doesnt-recommend-your-business)

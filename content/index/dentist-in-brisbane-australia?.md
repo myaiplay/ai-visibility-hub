@@ -22,8 +22,8 @@ utm: index_page
 | 2 | Pure Dentistry | 77% |
 | 3 | North Brisbane Dental Clinic | 54% |
 | 4 | Brisbane Smiles | 38% |
-| 5 | St Lucia Dental | 31% |
-| 6 | Bite Dental | 31% |
+| 5 | Bite Dental | 31% |
+| 6 | St Lucia Dental | 31% |
 | 7 | Brisbane Dental and Denture Clinic | 31% |
 | 8 | National Dental Care Brisbane CBD | 23% |
 | 9 | Bite Dental Studios | 23% |

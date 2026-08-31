@@ -18,8 +18,8 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Secret Gardens | 100% |
-| 2 | Top Sydney Landscaping | 100% |
+| 1 | Top Sydney Landscaping | 100% |
+| 2 | Secret Gardens | 100% |
 | 3 | Oneflare | 75% |
 | 4 | Concept Landscaping | 50% |
 | 5 | Bark | 50% |
@@ -27,7 +27,7 @@ utm: index_page
 | 7 | Localsearch | 25% |
 | 8 | Growing Well | 25% |
 | 9 | Lawngreen | 25% |
-| 10 | Harrisons Landscaping | 25% |
+| 10 | Airtasker | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

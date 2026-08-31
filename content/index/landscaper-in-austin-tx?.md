@@ -18,16 +18,16 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Ground & Garden | 77% |
-| 2 | Top Choice Lawn Care | 77% |
+| 1 | Top Choice Lawn Care | 77% |
+| 2 | Ground & Garden | 77% |
 | 3 | Southern Love Landscaping & Design | 77% |
 | 4 | Anderson Landscapes | 54% |
 | 5 | Austin Creative Landscaping | 46% |
 | 6 | Maas Verde | 38% |
 | 7 | Best of Texas Landscapes | 31% |
 | 8 | ABC Home & Commercial Services | 31% |
-| 9 | Maas Verde Landscape Restoration | 23% |
-| 10 | Southern Love | 23% |
+| 9 | Southern Love | 23% |
+| 10 | Maas Verde Landscape Restoration | 23% |
 
 *Based on 13 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

@@ -25,9 +25,9 @@ utm: index_page
 | 5 | Greenpal Lawn Care of Chicago | 30% |
 | 6 | Bruce Lawn Service | 30% |
 | 7 | Christy Webber Landscaping | 20% |
-| 8 | LawnStarter | 20% |
-| 9 | Urban Roots Inc. | 20% |
-| 10 | Chicago Lawn Pros | 20% |
+| 8 | Chicago Lawn Pros | 20% |
+| 9 | LawnStarter | 20% |
+| 10 | Urban Roots Inc. | 20% |
 
 *Based on 10 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

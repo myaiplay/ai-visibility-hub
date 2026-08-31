@@ -24,8 +24,8 @@ utm: index_page
 | 4 | Cityscape Landscape | 67% |
 | 5 | Beary Landscaping | 56% |
 | 6 | LawnStarter | 22% |
-| 7 | Grant & Power Landscaping | 22% |
-| 8 | Cityscape Landscape LLC | 22% |
+| 7 | Cityscape Landscape LLC | 22% |
+| 8 | Grant & Power Landscaping | 22% |
 | 9 | R&L Landscaping Corporation | 22% |
 | 10 | Chicago Specialty Gardens | 22% |
 

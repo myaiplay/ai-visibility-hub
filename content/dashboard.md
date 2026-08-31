@@ -8,13 +8,13 @@ date: 2026-08-31
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 31 August 2026, 03:24 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 31 August 2026, 06:11 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $1.71 | $5.00/mo |
+| Data engine (Perplexity) | $1.72 | $5.00/mo |
 | X posts | 13 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
@@ -25,28 +25,12 @@ date: 2026-08-31
 | Test days recorded | 15 |
 | Buyer prompts tested | 284 |
 | Stat pages live | 30 |
-| Articles syndicated to Dev.to | 6 |
+| Articles syndicated to Dev.to | 8 |
 | Bluesky posts made | 1 (last: 30 Aug, 13:45 UTC) |
 
 ## Traffic
 
-| Signal | Value |
-|---|---|
-| Hub pageviews (14d) | 11 |
-| Hub visits (14d) | 11 |
-| Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub | 4 |
-|   top page: /ai-visibility-hub/dashboard | 4 |
-|   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 1 |
-|   top page: /ai-visibility-hub/articles/ai-visibility-glossary | 1 |
-|   top page: /verify-analytics | 1 |
-|   referrer:  | 5 |
-|   referrer: myaiplay.github.io/ai-visibility-hub | 3 |
-|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 2 |
-|   referrer: github.com | 1 |
-| Dev.to article views | 6 |
-| Dev.to reactions | 0 |
-| Bluesky followers | 1 |
+_Traffic APIs not reachable from this environment._
 
 ## Next scheduled runs
 
@@ -55,8 +39,8 @@ date: 2026-08-31
 | Data engine (12 AI tests) | Tue 01 Sep, 03:17 local |
 | Bluesky post | Mon 31 Aug, 13:37 local |
 | X post | Mon 31 Aug, 21:43 local |
-| Dev.to catch-up | Mon 31 Aug, 05:11 local |
-| Weekly data article | Mon 31 Aug, 06:07 local |
+| Dev.to catch-up | Mon 07 Sep, 05:11 local |
+| Weekly data article | Mon 07 Sep, 06:07 local |
 | Weekly report | Sun 06 Sep, 18:22 local |
 
 ## Data

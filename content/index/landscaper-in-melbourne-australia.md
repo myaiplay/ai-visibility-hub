@@ -18,12 +18,12 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Melbourne Decking and Landscaping | 83% |
-| 2 | Augusta Lawn Care | 83% |
+| 1 | Augusta Lawn Care | 83% |
+| 2 | Melbourne Decking and Landscaping | 83% |
 | 3 | Gardenology Services | 33% |
 | 4 | Ian Barker Gardens | 33% |
-| 5 | Must Have Maintenance | 33% |
-| 6 | Ozzie Mowing & Gardening | 33% |
+| 5 | Ozzie Mowing & Gardening | 33% |
+| 6 | Must Have Maintenance | 33% |
 | 7 | Grassroots Landscaping & Maintenance | 33% |
 | 8 | Oneflare | 33% |
 | 9 | Nathan Burkett Landscape Architecture | 17% |

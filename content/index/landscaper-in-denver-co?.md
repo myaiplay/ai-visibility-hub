@@ -23,8 +23,8 @@ utm: index_page
 | 3 | Mile High Landscaping | 54% |
 | 4 | Designs By Sundown | 38% |
 | 5 | Designs by Sundown | 38% |
-| 6 | Elite Landscape & Outdoor Living | 38% |
-| 7 | Weston Landscape & Design | 38% |
+| 6 | Weston Landscape & Design | 38% |
+| 7 | Elite Landscape & Outdoor Living | 38% |
 | 8 | A Cut Above Landscape | 31% |
 | 9 | C&H Landscaping | 23% |
 | 10 | Green Mountain Landscape and Sprinkler | 23% |

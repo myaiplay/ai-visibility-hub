@@ -23,11 +23,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "Toothbar",
+          "name": "Austin Dental Works",
           "mention_rate": 0.25
         },
         {
-          "name": "Austin Dental Works",
+          "name": "Toothbar",
           "mention_rate": 0.25
         },
         {
@@ -47,11 +47,11 @@
       "slug": "dentist-in-austin-tx?",
       "top": [
         {
-          "name": "Holly Phillip DDS",
+          "name": "Waterloo Dental",
           "mention_rate": 1.0
         },
         {
-          "name": "Waterloo Dental",
+          "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
@@ -67,10 +67,6 @@
           "mention_rate": 0.8
         },
         {
-          "name": "Tech Ridge Dental",
-          "mention_rate": 0.6
-        },
-        {
           "name": "Austin Artistic Dental",
           "mention_rate": 0.6
         },
@@ -79,11 +75,15 @@
           "mention_rate": 0.6
         },
         {
+          "name": "Tech Ridge Dental",
+          "mention_rate": 0.6
+        },
+        {
           "name": "Toothbar",
           "mention_rate": 0.4
         },
         {
-          "name": "Vesga Advanced Proodontics",
+          "name": "Austin Dental Works",
           "mention_rate": 0.2
         }
       ]
@@ -95,15 +95,15 @@
       "slug": "dentist-in-brisbane-australia",
       "top": [
         {
-          "name": "North Brisbane Dental Clinic",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Brisbane Dental",
           "mention_rate": 1.0
         },
         {
           "name": "Brisbane Dental and Denture Clinic",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "North Brisbane Dental Clinic",
           "mention_rate": 1.0
         },
         {
@@ -159,11 +159,11 @@
           "mention_rate": 0.38
         },
         {
-          "name": "St Lucia Dental",
+          "name": "Bite Dental",
           "mention_rate": 0.31
         },
         {
-          "name": "Bite Dental",
+          "name": "St Lucia Dental",
           "mention_rate": 0.31
         },
         {
@@ -211,19 +211,19 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Always There Dental Care",
-          "mention_rate": 0.12
-        },
-        {
           "name": "Dr. Jessica Mehta",
           "mention_rate": 0.12
         },
         {
-          "name": "WebMD",
+          "name": "Always There Dental Care",
           "mention_rate": 0.12
         },
         {
           "name": "Chicago Style Smiles",
+          "mention_rate": 0.12
+        },
+        {
+          "name": "WebMD",
           "mention_rate": 0.12
         },
         {
@@ -267,11 +267,11 @@
           "mention_rate": 0.33
         },
         {
-          "name": "All in One Dentistry",
+          "name": "DentArt Chicago",
           "mention_rate": 0.22
         },
         {
-          "name": "DentArt Chicago",
+          "name": "All in One Dentistry",
           "mention_rate": 0.22
         },
         {
@@ -299,7 +299,7 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Metropolitan Dental Care",
+          "name": "Dental Elements",
           "mention_rate": 0.67
         },
         {
@@ -307,7 +307,7 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Dental Elements",
+          "name": "Metropolitan Dental Care",
           "mention_rate": 0.67
         },
         {
@@ -323,7 +323,7 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Insurance acceptance",
+          "name": "OG Dental",
           "mention_rate": 0.33
         }
       ]
@@ -371,7 +371,7 @@
           "mention_rate": 0.09
         },
         {
-          "name": "Location",
+          "name": "Hours",
           "mention_rate": 0.09
         }
       ]
@@ -383,11 +383,11 @@
       "slug": "dentist-in-melbourne-australia?",
       "top": [
         {
-          "name": "Smile Solutions",
+          "name": "MC Dental",
           "mention_rate": 1.0
         },
         {
-          "name": "MC Dental",
+          "name": "Smile Solutions",
           "mention_rate": 1.0
         },
         {
@@ -403,15 +403,15 @@
           "mention_rate": 0.36
         },
         {
+          "name": "Word of Mouth",
+          "mention_rate": 0.18
+        },
+        {
           "name": "Australian Dentists Clinic",
           "mention_rate": 0.18
         },
         {
           "name": "The Royal Dental Hospital of Melbourne",
-          "mention_rate": 0.18
-        },
-        {
-          "name": "Word of Mouth",
           "mention_rate": 0.18
         },
         {
@@ -443,15 +443,15 @@
           "mention_rate": 0.6
         },
         {
+          "name": "Healthgrades",
+          "mention_rate": 0.2
+        },
+        {
           "name": "Insurance acceptance",
           "mention_rate": 0.2
         },
         {
           "name": "Specialty",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Healthgrades",
           "mention_rate": 0.2
         },
         {
@@ -463,11 +463,11 @@
           "mention_rate": 0.2
         },
         {
-          "name": "Patient ratings and review volume",
+          "name": "WebMD",
           "mention_rate": 0.1
         },
         {
-          "name": "WebMD",
+          "name": "Phoenix Magazine Top Dentist profiles",
           "mention_rate": 0.1
         }
       ]
@@ -487,6 +487,14 @@
           "mention_rate": 0.6
         },
         {
+          "name": "The Biting Edge Family Dentistry",
+          "mention_rate": 0.4
+        },
+        {
+          "name": "North Mountain Dentistry",
+          "mention_rate": 0.4
+        },
+        {
           "name": "Life Smiles Dental Care",
           "mention_rate": 0.4
         },
@@ -495,19 +503,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "North Mountain Dentistry",
-          "mention_rate": 0.4
-        },
-        {
-          "name": "The Biting Edge Family Dentistry",
-          "mention_rate": 0.4
-        },
-        {
-          "name": "Downtown Phoenix Dental",
+          "name": "Phoenician Dentistry",
           "mention_rate": 0.3
         },
         {
-          "name": "Phoenician Dentistry",
+          "name": "Downtown Phoenix Dental",
           "mention_rate": 0.3
         },
         {
@@ -531,7 +531,7 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Dr. Chris Pickel",
+          "name": "Dr. Spencer Face",
           "mention_rate": 1.0
         },
         {
@@ -539,7 +539,7 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Dr. Spencer Face",
+          "name": "Dr. Chris Pickel",
           "mention_rate": 1.0
         },
         {
@@ -555,15 +555,15 @@
           "mention_rate": 0.17
         },
         {
+          "name": "Recent patient reviews and appointment availability",
+          "mention_rate": 0.17
+        },
+        {
           "name": "Insurance acceptance",
           "mention_rate": 0.17
         },
         {
           "name": "Location and convenience",
-          "mention_rate": 0.17
-        },
-        {
-          "name": "Recent patient reviews and appointment availability",
           "mention_rate": 0.17
         }
       ]
@@ -599,11 +599,11 @@
           "mention_rate": 0.43
         },
         {
-          "name": "Seattle, WA 98115",
+          "name": "Roosevelt Dental",
           "mention_rate": 0.14
         },
         {
-          "name": "Roosevelt Dental",
+          "name": "Seattle, WA 98115",
           "mention_rate": 0.14
         },
         {
@@ -611,7 +611,7 @@
           "mention_rate": 0.14
         },
         {
-          "name": "A highly rated Seattle practice",
+          "name": "Low-cost or community dental care",
           "mention_rate": 0.14
         }
       ]
@@ -651,15 +651,15 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Green Apple Dental Care CBD",
-          "mention_rate": 0.17
-        },
-        {
-          "name": "Aglow Dental Group",
+          "name": "No Gaps Dental Sydney CBD Haymarket",
           "mention_rate": 0.17
         },
         {
           "name": "Darlinghurst Smiles",
+          "mention_rate": 0.17
+        },
+        {
+          "name": "Aglow Dental Group",
           "mention_rate": 0.17
         }
       ]
@@ -671,11 +671,11 @@
       "slug": "dentist-in-sydney-australia?",
       "top": [
         {
-          "name": "Paramount Dental Sydney",
+          "name": "Spa Dental Sydney CBD",
           "mention_rate": 1.0
         },
         {
-          "name": "Spa Dental Sydney CBD",
+          "name": "Paramount Dental Sydney",
           "mention_rate": 1.0
         },
         {
@@ -767,11 +767,11 @@
       "slug": "landscaper-in-austin-tx?",
       "top": [
         {
-          "name": "Ground & Garden",
+          "name": "Top Choice Lawn Care",
           "mention_rate": 0.77
         },
         {
-          "name": "Top Choice Lawn Care",
+          "name": "Ground & Garden",
           "mention_rate": 0.77
         },
         {
@@ -799,11 +799,11 @@
           "mention_rate": 0.31
         },
         {
-          "name": "Maas Verde Landscape Restoration",
+          "name": "Southern Love",
           "mention_rate": 0.23
         },
         {
-          "name": "Southern Love",
+          "name": "Maas Verde Landscape Restoration",
           "mention_rate": 0.23
         }
       ]
@@ -819,11 +819,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Clare James Landscape Design",
+          "name": "Designer Image",
           "mention_rate": 0.67
         },
         {
-          "name": "Designer Image",
+          "name": "Clare James Landscape Design",
           "mention_rate": 0.67
         },
         {
@@ -831,11 +831,15 @@
           "mention_rate": 0.33
         },
         {
+          "name": "Mow on lawn solutions",
+          "mention_rate": 0.33
+        },
+        {
           "name": "Logan Lawn Mowing & Garden Care",
           "mention_rate": 0.33
         },
         {
-          "name": "Mow on lawn solutions",
+          "name": "Highly Commended",
           "mention_rate": 0.33
         },
         {
@@ -843,15 +847,11 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Award Finalists",
-          "mention_rate": 0.33
-        },
-        {
           "name": "BGL Services",
           "mention_rate": 0.33
         },
         {
-          "name": "Highly Commended",
+          "name": "Award Finalists",
           "mention_rate": 0.33
         }
       ]
@@ -891,15 +891,15 @@
           "mention_rate": 0.2
         },
         {
+          "name": "Chicago Lawn Pros",
+          "mention_rate": 0.2
+        },
+        {
           "name": "LawnStarter",
           "mention_rate": 0.2
         },
         {
           "name": "Urban Roots Inc.",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Chicago Lawn Pros",
           "mention_rate": 0.2
         }
       ]
@@ -935,11 +935,11 @@
           "mention_rate": 0.22
         },
         {
-          "name": "Grant & Power Landscaping",
+          "name": "Cityscape Landscape LLC",
           "mention_rate": 0.22
         },
         {
-          "name": "Cityscape Landscape LLC",
+          "name": "Grant & Power Landscaping",
           "mention_rate": 0.22
         },
         {
@@ -959,11 +959,11 @@
       "slug": "landscaper-in-denver-co",
       "top": [
         {
-          "name": "Mile High Landscaping",
+          "name": "Designs by Sundown",
           "mention_rate": 0.92
         },
         {
-          "name": "Designs by Sundown",
+          "name": "Mile High Landscaping",
           "mention_rate": 0.92
         },
         {
@@ -1027,11 +1027,11 @@
           "mention_rate": 0.38
         },
         {
-          "name": "Elite Landscape & Outdoor Living",
+          "name": "Weston Landscape & Design",
           "mention_rate": 0.38
         },
         {
-          "name": "Weston Landscape & Design",
+          "name": "Elite Landscape & Outdoor Living",
           "mention_rate": 0.38
         },
         {
@@ -1055,11 +1055,11 @@
       "slug": "landscaper-in-melbourne-australia",
       "top": [
         {
-          "name": "Melbourne Decking and Landscaping",
+          "name": "Augusta Lawn Care",
           "mention_rate": 0.83
         },
         {
-          "name": "Augusta Lawn Care",
+          "name": "Melbourne Decking and Landscaping",
           "mention_rate": 0.83
         },
         {
@@ -1071,11 +1071,11 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Must Have Maintenance",
+          "name": "Ozzie Mowing & Gardening",
           "mention_rate": 0.33
         },
         {
-          "name": "Ozzie Mowing & Gardening",
+          "name": "Must Have Maintenance",
           "mention_rate": 0.33
         },
         {
@@ -1123,11 +1123,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Luxe Landscapes",
+          "name": "Garden More Landscaping",
           "mention_rate": 0.4
         },
         {
-          "name": "Garden More Landscaping",
+          "name": "Luxe Landscapes",
           "mention_rate": 0.4
         },
         {
@@ -1135,7 +1135,7 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Brisk Landscaping",
+          "name": "Vividgreen Landscapes",
           "mention_rate": 0.2
         },
         {
@@ -1203,11 +1203,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Masterscapes LLC",
+          "name": "Tree Pros",
           "mention_rate": 0.71
         },
         {
-          "name": "Tree Pros",
+          "name": "Masterscapes LLC",
           "mention_rate": 0.71
         },
         {
@@ -1215,11 +1215,11 @@
           "mention_rate": 0.57
         },
         {
-          "name": "Diamond Stone & Synthetic Grass",
+          "name": "E&E Landscape Services",
           "mention_rate": 0.43
         },
         {
-          "name": "E&E Landscape Services",
+          "name": "Diamond Stone & Synthetic Grass",
           "mention_rate": 0.43
         },
         {
@@ -1247,11 +1247,11 @@
       "slug": "landscaper-in-seattle-wa",
       "top": [
         {
-          "name": "Devonshire Landscapes Inc",
+          "name": "New Life Rockeries & Retaining Walls",
           "mention_rate": 0.92
         },
         {
-          "name": "New Life Rockeries & Retaining Walls",
+          "name": "Devonshire Landscapes Inc",
           "mention_rate": 0.92
         },
         {
@@ -1259,11 +1259,11 @@
           "mention_rate": 0.75
         },
         {
-          "name": "Seattle Times Best in PNW Nominee",
+          "name": "New Life Rockeries",
           "mention_rate": 0.08
         },
         {
-          "name": "New Life Rockeries",
+          "name": "Seattle Times Best in PNW Nominee",
           "mention_rate": 0.08
         },
         {
@@ -1335,11 +1335,11 @@
       "slug": "landscaper-in-sydney-australia",
       "top": [
         {
-          "name": "Secret Gardens",
+          "name": "Top Sydney Landscaping",
           "mention_rate": 1.0
         },
         {
-          "name": "Top Sydney Landscaping",
+          "name": "Secret Gardens",
           "mention_rate": 1.0
         },
         {
@@ -1371,7 +1371,7 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Harrisons Landscaping",
+          "name": "Airtasker",
           "mention_rate": 0.25
         }
       ]
@@ -1387,11 +1387,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Concept Landscaping",
+          "name": "Love Landscapes",
           "mention_rate": 1.0
         },
         {
-          "name": "Love Landscapes",
+          "name": "Concept Landscaping",
           "mention_rate": 1.0
         },
         {
@@ -1419,7 +1419,7 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Sydney landscaper services",
+          "name": "Hipages",
           "mention_rate": 0.25
         }
       ]

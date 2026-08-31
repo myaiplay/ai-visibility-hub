@@ -18,8 +18,8 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Mile High Landscaping | 92% |
-| 2 | Designs by Sundown | 92% |
+| 1 | Designs by Sundown | 92% |
+| 2 | Mile High Landscaping | 92% |
 | 3 | Designscapes Colorado | 92% |
 | 4 | Little Foot Landscaping | 62% |
 | 5 | The Fisherman LLC | 31% |

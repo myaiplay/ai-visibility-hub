@@ -19,15 +19,15 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Human Nature Landscapes | 100% |
-| 2 | Clare James Landscape Design | 67% |
-| 3 | Designer Image | 67% |
+| 2 | Designer Image | 67% |
+| 3 | Clare James Landscape Design | 67% |
 | 4 | Clare James | 33% |
-| 5 | Logan Lawn Mowing & Garden Care | 33% |
-| 6 | Mow on lawn solutions | 33% |
-| 7 | Greenscene Gardenscope | 33% |
-| 8 | Award Finalists | 33% |
+| 5 | Mow on lawn solutions | 33% |
+| 6 | Logan Lawn Mowing & Garden Care | 33% |
+| 7 | Highly Commended | 33% |
+| 8 | Greenscene Gardenscope | 33% |
 | 9 | BGL Services | 33% |
-| 10 | Highly Commended | 33% |
+| 10 | Award Finalists | 33% |
 
 *Based on 3 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

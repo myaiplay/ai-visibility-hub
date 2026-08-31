@@ -23,10 +23,10 @@ utm: index_page
 | 3 | Green Kings Landscaping | 60% |
 | 4 | Must Have Maintenance | 60% |
 | 5 | Lush Landscaping Melbourne | 40% |
-| 6 | Luxe Landscapes | 40% |
-| 7 | Garden More Landscaping | 40% |
+| 6 | Garden More Landscaping | 40% |
+| 7 | Luxe Landscapes | 40% |
 | 8 | KD Landscapes | 40% |
-| 9 | Brisk Landscaping | 20% |
+| 9 | Vividgreen Landscapes | 20% |
 | 10 | Sprouts and Shoots | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
