@@ -23,9 +23,9 @@ utm: index_page
 | 3 | Royal Dental Hospital of Melbourne | 73% |
 | 4 | Melbourne Dental Clinic | 55% |
 | 5 | Collins Street Dental | 36% |
-| 6 | Word of Mouth | 18% |
+| 6 | The Royal Dental Hospital of Melbourne | 18% |
 | 7 | Australian Dentists Clinic | 18% |
-| 8 | The Royal Dental Hospital of Melbourne | 18% |
+| 8 | Word of Mouth | 18% |
 | 9 | Location | 18% |
 | 10 | Availability | 18% |
 

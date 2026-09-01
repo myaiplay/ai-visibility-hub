@@ -2,43 +2,56 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-08-31
+date: 2026-09-01
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 31 August 2026, 06:11 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 01 September 2026, 03:30 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $1.72 | $5.00/mo |
-| X posts | 13 | 31/mo |
+| Data engine (Perplexity) | $0.12 | $5.00/mo |
+| X posts | 14 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
 ## Coverage
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 15 |
-| Buyer prompts tested | 284 |
-| Stat pages live | 30 |
-| Articles syndicated to Dev.to | 8 |
-| Bluesky posts made | 1 (last: 30 Aug, 13:45 UTC) |
+| Test days recorded | 16 |
+| Buyer prompts tested | 304 |
+| Stat pages live | 31 |
+| Articles syndicated to Dev.to | 9 |
+| Bluesky posts made | 2 (last: 31 Aug, 13:45 UTC) |
 
 ## Traffic
 
-_Traffic APIs not reachable from this environment._
+| Signal | Value |
+|---|---|
+| Clicks through to aicantfindme.com (14d) | 0 |
+|   top page: /ai-visibility-hub | 4 |
+|   top page: /ai-visibility-hub/dashboard | 4 |
+|   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 1 |
+|   top page: /ai-visibility-hub/articles/ai-visibility-glossary | 1 |
+|   referrer:  | 4 |
+|   referrer: myaiplay.github.io/ai-visibility-hub | 3 |
+|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 2 |
+|   referrer: github.com | 1 |
+| Dev.to article views | 6 |
+| Dev.to reactions | 0 |
+| Bluesky followers | 1 |
 
 ## Next scheduled runs
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Tue 01 Sep, 03:17 local |
-| Bluesky post | Mon 31 Aug, 13:37 local |
-| X post | Mon 31 Aug, 21:43 local |
+| Data engine (12 AI tests) | Wed 02 Sep, 03:17 local |
+| Bluesky post | Tue 01 Sep, 13:37 local |
+| X post | Tue 01 Sep, 21:43 local |
 | Dev.to catch-up | Mon 07 Sep, 05:11 local |
 | Weekly data article | Mon 07 Sep, 06:07 local |
 | Weekly report | Sun 06 Sep, 18:22 local |

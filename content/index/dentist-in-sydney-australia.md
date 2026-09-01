@@ -18,16 +18,16 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Quay Dental Clinic | 100% |
-| 2 | Pitt Street Dental Centre | 100% |
+| 1 | Pitt Street Dental Centre | 100% |
+| 2 | Quay Dental Clinic | 100% |
 | 3 | Paramount Dental Sydney | 67% |
-| 4 | Spa Dental Sydney CBD | 50% |
-| 5 | Sydney CBD Dentistry | 50% |
+| 4 | Sydney CBD Dentistry | 50% |
+| 5 | Spa Dental Sydney CBD | 50% |
 | 6 | Location | 25% |
 | 7 | Macquarie Dental Clinic | 17% |
-| 8 | No Gaps Dental Sydney CBD Haymarket | 17% |
-| 9 | Darlinghurst Smiles | 17% |
-| 10 | Aglow Dental Group | 17% |
+| 8 | Aglow Dental Group | 17% |
+| 9 | No Gaps Dental Sydney CBD Haymarket | 17% |
+| 10 | Darlinghurst Smiles | 17% |
 
 *Based on 12 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
