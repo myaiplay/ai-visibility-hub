@@ -27,7 +27,7 @@ utm: index_page
 | 7 | Austin Artistic Dental | 60% |
 | 8 | Tech Ridge Dental | 60% |
 | 9 | Toothbar | 40% |
-| 10 | Austin Dental Works | 20% |
+| 10 | Vesga Advanced Proodontics | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

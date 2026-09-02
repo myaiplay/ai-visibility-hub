@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Sydney, Australia?"
-description: "We ran 5 recorded AI search tests for landscaper in Sydney, Australia. These businesses get named most often."
+description: "We ran 6 recorded AI search tests for landscaper in Sydney, Australia. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Sydney, Australia", "description": "Recorded AI search test results (5 runs) showing which businesses AI engines name for landscaper in Sydney, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-sydney-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Sydney, Australia", "description": "Recorded AI search test results (6 runs) showing which businesses AI engines name for landscaper in Sydney, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-sydney-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Sydney, Australia?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Sydney, Australia", "who should I hire for landscaper services near Sydney, Australia?") across 5 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Sydney, Australia", "who should I hire for landscaper services near Sydney, Australia?") across 6 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Secret Gardens | 100% |
-| 2 | Top Sydney Landscaping | 100% |
-| 3 | Oneflare | 80% |
-| 4 | Hipages | 60% |
-| 5 | Bark | 40% |
-| 6 | Concept Landscaping | 40% |
-| 7 | Growing Well | 40% |
-| 8 | Harrisons Landscaping | 40% |
-| 9 | Localsearch | 20% |
-| 10 | Lawngreen | 20% |
+| 1 | Top Sydney Landscaping | 100% |
+| 2 | Secret Gardens | 100% |
+| 3 | Oneflare | 67% |
+| 4 | Concept Landscaping | 50% |
+| 5 | Hipages | 50% |
+| 6 | Harrisons Landscaping | 50% |
+| 7 | Bark | 33% |
+| 8 | Growing Well | 33% |
+| 9 | Localsearch | 17% |
+| 10 | Lawngreen | 17% |
 
-*Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
