@@ -2,47 +2,46 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-09-02
+date: 2026-09-03
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 02 September 2026, 03:29 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 03 September 2026, 05:31 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $0.24 | $5.00/mo |
-| X posts | 1 | 31/mo |
+| Data engine (Perplexity) | $0.36 | $5.00/mo |
+| X posts | 2 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
 ## Coverage
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 17 |
-| Buyer prompts tested | 324 |
-| Stat pages live | 32 |
+| Test days recorded | 18 |
+| Buyer prompts tested | 344 |
+| Stat pages live | 33 |
 | Articles syndicated to Dev.to | 9 |
-| Bluesky posts made | 3 (last: 01 Sep, 13:47 UTC) |
+| Bluesky posts made | 4 (last: 02 Sep, 13:48 UTC) |
 
 ## Traffic
 
 | Signal | Value |
 |---|---|
-| Hub pageviews (14d) | 9 |
-| Hub visits (14d) | 9 |
 | Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub | 4 |
-|   top page: /ai-visibility-hub/dashboard | 3 |
-|   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 1 |
+|   top page: /ai-visibility-hub | 3 |
+|   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 2 |
+|   top page: /ai-visibility-hub/dashboard | 2 |
 |   top page: /ai-visibility-hub/articles/ai-visibility-glossary | 1 |
 |   referrer:  | 3 |
-|   referrer: myaiplay.github.io/ai-visibility-hub | 3 |
-|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 2 |
+|   referrer: myaiplay.github.io/ai-visibility-hub | 2 |
 |   referrer: github.com | 1 |
+|   referrer: go.bsky.app | 1 |
+|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 1 |
 | Dev.to article views | 6 |
 | Dev.to reactions | 0 |
 | Bluesky followers | 1 |
@@ -51,9 +50,9 @@ date: 2026-09-02
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Thu 03 Sep, 03:17 local |
-| Bluesky post | Wed 02 Sep, 13:37 local |
-| X post | Wed 02 Sep, 21:43 local |
+| Data engine (12 AI tests) | Fri 04 Sep, 03:17 local |
+| Bluesky post | Thu 03 Sep, 13:37 local |
+| X post | Thu 03 Sep, 21:43 local |
 | Dev.to catch-up | Mon 07 Sep, 05:11 local |
 | Weekly data article | Mon 07 Sep, 06:07 local |
 | Weekly report | Sun 06 Sep, 18:22 local |

@@ -21,8 +21,8 @@ utm: index_page
 | 1 | Smile Solutions | 100% |
 | 2 | Pacific Smiles Dental Melbourne CBD | 91% |
 | 3 | Gorgeous Smiles | 82% |
-| 4 | DENTL East Melbourne | 55% |
-| 5 | Core Dental Southbank | 55% |
+| 4 | Core Dental Southbank | 55% |
+| 5 | DENTL East Melbourne | 55% |
 | 6 | Best Overall | 27% |
 | 7 | Melbourne Dental Group | 27% |
 | 8 | CBD convenience | 9% |
