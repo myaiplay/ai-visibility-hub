@@ -2,42 +2,44 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-09-03
+date: 2026-09-04
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 03 September 2026, 05:31 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 04 September 2026, 03:29 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $0.36 | $5.00/mo |
-| X posts | 2 | 31/mo |
+| Data engine (Perplexity) | $0.48 | $5.00/mo |
+| X posts | 3 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
 ## Coverage
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 18 |
-| Buyer prompts tested | 344 |
-| Stat pages live | 33 |
+| Test days recorded | 19 |
+| Buyer prompts tested | 364 |
+| Stat pages live | 34 |
 | Articles syndicated to Dev.to | 9 |
-| Bluesky posts made | 4 (last: 02 Sep, 13:48 UTC) |
+| Bluesky posts made | 5 (last: 03 Sep, 13:48 UTC) |
 
 ## Traffic
 
 | Signal | Value |
 |---|---|
+| Hub pageviews (14d) | 7 |
+| Hub visits (14d) | 7 |
 | Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub | 3 |
 |   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 2 |
+|   top page: /ai-visibility-hub | 2 |
 |   top page: /ai-visibility-hub/dashboard | 2 |
 |   top page: /ai-visibility-hub/articles/ai-visibility-glossary | 1 |
-|   referrer:  | 3 |
+|   referrer:  | 2 |
 |   referrer: myaiplay.github.io/ai-visibility-hub | 2 |
 |   referrer: github.com | 1 |
 |   referrer: go.bsky.app | 1 |
@@ -50,9 +52,9 @@ date: 2026-09-03
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Fri 04 Sep, 03:17 local |
-| Bluesky post | Thu 03 Sep, 13:37 local |
-| X post | Thu 03 Sep, 21:43 local |
+| Data engine (12 AI tests) | Sat 05 Sep, 03:17 local |
+| Bluesky post | Fri 04 Sep, 13:37 local |
+| X post | Fri 04 Sep, 21:43 local |
 | Dev.to catch-up | Mon 07 Sep, 05:11 local |
 | Weekly data article | Mon 07 Sep, 06:07 local |
 | Weekly report | Sun 06 Sep, 18:22 local |

@@ -26,7 +26,7 @@ utm: index_page
 | 6 | Specialty | 20% |
 | 7 | Insurance network | 20% |
 | 8 | Downtown Phoenix Dental | 20% |
-| 9 | WebMD | 10% |
+| 9 | Phoenix Magazine Top Dentist profiles | 10% |
 | 10 | Patient ratings and review volume | 10% |
 
 *Based on 10 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

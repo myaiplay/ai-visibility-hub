@@ -7,11 +7,11 @@
       "slug": "dentist-in-austin-tx",
       "top": [
         {
-          "name": "Walden Dental",
+          "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
-          "name": "Holly Phillip DDS",
+          "name": "Walden Dental",
           "mention_rate": 1.0
         },
         {
@@ -47,28 +47,24 @@
       "slug": "dentist-in-austin-tx?",
       "top": [
         {
-          "name": "Waterloo Dental",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
-          "name": "ATX Family Dental",
-          "mention_rate": 0.8
+          "name": "Waterloo Dental",
+          "mention_rate": 1.0
         },
         {
           "name": "North Austin Dentistry",
           "mention_rate": 0.8
         },
         {
-          "name": "Grove Austin Family Dentistry",
+          "name": "ATX Family Dental",
           "mention_rate": 0.8
         },
         {
-          "name": "Tech Ridge Dental",
-          "mention_rate": 0.6
+          "name": "Grove Austin Family Dentistry",
+          "mention_rate": 0.8
         },
         {
           "name": "David J. Gordon II, DDS",
@@ -79,11 +75,15 @@
           "mention_rate": 0.6
         },
         {
+          "name": "Tech Ridge Dental",
+          "mention_rate": 0.6
+        },
+        {
           "name": "Toothbar",
           "mention_rate": 0.4
         },
         {
-          "name": "Austin Dental Works",
+          "name": "Vesga Advanced Proodontics",
           "mention_rate": 0.2
         }
       ]
@@ -95,15 +95,15 @@
       "slug": "dentist-in-brisbane-australia",
       "top": [
         {
+          "name": "Brisbane Dental and Denture Clinic",
+          "mention_rate": 1.0
+        },
+        {
           "name": "North Brisbane Dental Clinic",
           "mention_rate": 1.0
         },
         {
           "name": "Brisbane Dental",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "Brisbane Dental and Denture Clinic",
           "mention_rate": 1.0
         },
         {
@@ -199,11 +199,11 @@
           "mention_rate": 0.38
         },
         {
-          "name": "University Associates in Dentistry",
+          "name": "Smile Science Chicago",
           "mention_rate": 0.38
         },
         {
-          "name": "Smile Science Chicago",
+          "name": "University Associates in Dentistry",
           "mention_rate": 0.38
         },
         {
@@ -219,15 +219,15 @@
           "mention_rate": 0.12
         },
         {
-          "name": "WebMD",
-          "mention_rate": 0.12
-        },
-        {
           "name": "Healthgrades",
           "mention_rate": 0.12
         },
         {
           "name": "Chicago Style Smiles",
+          "mention_rate": 0.12
+        },
+        {
+          "name": "WebMD",
           "mention_rate": 0.12
         }
       ]
@@ -291,11 +291,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Pearl Dentistry",
+          "name": "OG Dental Denver",
           "mention_rate": 0.67
         },
         {
-          "name": "OG Dental Denver",
+          "name": "Pearl Dentistry",
           "mention_rate": 0.67
         },
         {
@@ -303,11 +303,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Metropolitan Dental Care",
+          "name": "Dental Elements",
           "mention_rate": 0.67
         },
         {
-          "name": "Dental Elements",
+          "name": "Metropolitan Dental Care",
           "mention_rate": 0.67
         },
         {
@@ -315,15 +315,15 @@
           "mention_rate": 0.33
         },
         {
-          "name": "ZIP code",
-          "mention_rate": 0.33
-        },
-        {
           "name": "Smile Studio Dental",
           "mention_rate": 0.33
         },
         {
-          "name": "Distance from home or work",
+          "name": "ZIP code",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Availability for new patients",
           "mention_rate": 0.33
         }
       ]
@@ -347,19 +347,19 @@
           "mention_rate": 0.82
         },
         {
-          "name": "Core Dental Southbank",
-          "mention_rate": 0.55
-        },
-        {
           "name": "DENTL East Melbourne",
           "mention_rate": 0.55
         },
         {
-          "name": "Best Overall",
-          "mention_rate": 0.27
+          "name": "Core Dental Southbank",
+          "mention_rate": 0.55
         },
         {
           "name": "Melbourne Dental Group",
+          "mention_rate": 0.27
+        },
+        {
+          "name": "Best Overall",
           "mention_rate": 0.27
         },
         {
@@ -371,7 +371,7 @@
           "mention_rate": 0.09
         },
         {
-          "name": "Whether they offer the treatment you need",
+          "name": "Hours",
           "mention_rate": 0.09
         }
       ]
@@ -383,11 +383,11 @@
       "slug": "dentist-in-melbourne-australia?",
       "top": [
         {
-          "name": "Smile Solutions",
+          "name": "MC Dental",
           "mention_rate": 1.0
         },
         {
-          "name": "MC Dental",
+          "name": "Smile Solutions",
           "mention_rate": 1.0
         },
         {
@@ -403,15 +403,15 @@
           "mention_rate": 0.36
         },
         {
+          "name": "Australian Dentists Clinic",
+          "mention_rate": 0.18
+        },
+        {
           "name": "The Royal Dental Hospital of Melbourne",
           "mention_rate": 0.18
         },
         {
           "name": "Word of Mouth",
-          "mention_rate": 0.18
-        },
-        {
-          "name": "Australian Dentists Clinic",
           "mention_rate": 0.18
         },
         {
@@ -463,7 +463,7 @@
           "mention_rate": 0.2
         },
         {
-          "name": "WebMD",
+          "name": "Phoenix Magazine Top Dentist profiles",
           "mention_rate": 0.1
         },
         {
@@ -487,11 +487,11 @@
           "mention_rate": 0.6
         },
         {
-          "name": "The Biting Edge Family Dentistry",
+          "name": "North Mountain Dentistry",
           "mention_rate": 0.4
         },
         {
-          "name": "Life Smiles Dental Care",
+          "name": "The Biting Edge Family Dentistry",
           "mention_rate": 0.4
         },
         {
@@ -499,15 +499,15 @@
           "mention_rate": 0.4
         },
         {
-          "name": "North Mountain Dentistry",
+          "name": "Life Smiles Dental Care",
           "mention_rate": 0.4
         },
         {
-          "name": "Downtown Phoenix Dental",
+          "name": "Phoenician Dentistry",
           "mention_rate": 0.3
         },
         {
-          "name": "Phoenician Dentistry",
+          "name": "Downtown Phoenix Dental",
           "mention_rate": 0.3
         },
         {
@@ -531,15 +531,15 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Dr. Anthony A. Santorsola",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Best Dentistry",
           "mention_rate": 1.0
         },
         {
           "name": "Dr. Chris Pickel",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Dr. Anthony A. Santorsola",
           "mention_rate": 1.0
         },
         {
@@ -555,11 +555,11 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Location and convenience",
+          "name": "Recent patient reviews and appointment availability",
           "mention_rate": 0.17
         },
         {
-          "name": "Recent patient reviews and appointment availability",
+          "name": "Location and convenience",
           "mention_rate": 0.17
         },
         {
@@ -611,7 +611,7 @@
           "mention_rate": 0.14
         },
         {
-          "name": "Low-cost or community dental care",
+          "name": "A highly rated Seattle practice",
           "mention_rate": 0.14
         }
       ]
@@ -635,11 +635,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Spa Dental Sydney CBD",
+          "name": "Sydney CBD Dentistry",
           "mention_rate": 0.5
         },
         {
-          "name": "Sydney CBD Dentistry",
+          "name": "Spa Dental Sydney CBD",
           "mention_rate": 0.5
         },
         {
@@ -651,15 +651,15 @@
           "mention_rate": 0.17
         },
         {
-          "name": "No Gaps Dental Sydney CBD Haymarket",
-          "mention_rate": 0.17
-        },
-        {
-          "name": "Aglow Dental Group",
+          "name": "Green Apple Dental Care CBD",
           "mention_rate": 0.17
         },
         {
           "name": "Darlinghurst Smiles",
+          "mention_rate": 0.17
+        },
+        {
+          "name": "Aglow Dental Group",
           "mention_rate": 0.17
         }
       ]
@@ -714,8 +714,56 @@
     },
     {
       "category": "house cleaner",
+      "city": "Austin, TX",
+      "runs": 3,
+      "slug": "house-cleaner-in-austin-tx",
+      "top": [
+        {
+          "name": "Tidy Hands Cleaners",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Eleven Friends of Grumpy Brush",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Sparkly Maid Austin Cleaning Services",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Maids and Moore",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "DF CLEANING LLC",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Mystik Cleaning Service",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Trustworthy Cleaning Services",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "MoreHands Maid Service",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Purple Fig Eco Cleaning Co.",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Austin Cleaning Crew",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "house cleaner",
       "city": "Denver, CO",
-      "runs": 4,
+      "runs": 5,
       "slug": "house-cleaner-in-denver-co",
       "top": [
         {
@@ -727,43 +775,43 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Merit Maids",
-          "mention_rate": 0.75
+          "name": "MaidPro Denver",
+          "mention_rate": 0.8
         },
         {
-          "name": "MaidPro Denver",
-          "mention_rate": 0.75
+          "name": "Merit Maids",
+          "mention_rate": 0.8
         },
         {
           "name": "Superb Maids Denver",
-          "mention_rate": 0.5
+          "mention_rate": 0.6
         },
         {
           "name": "Kathy Clean",
-          "mention_rate": 0.5
+          "mention_rate": 0.4
         },
         {
           "name": "Sparkulous",
-          "mention_rate": 0.5
+          "mention_rate": 0.4
         },
         {
           "name": "Broom Denver",
-          "mention_rate": 0.25
-        },
-        {
-          "name": "Yelp",
-          "mention_rate": 0.25
+          "mention_rate": 0.2
         },
         {
           "name": "Thumbtack",
-          "mention_rate": 0.25
+          "mention_rate": 0.2
+        },
+        {
+          "name": "CottageCare",
+          "mention_rate": 0.2
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Denver, CO?",
-      "runs": 3,
+      "runs": 4,
       "slug": "house-cleaner-in-denver-co?",
       "top": [
         {
@@ -771,47 +819,47 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Merit Maids",
-          "mention_rate": 0.67
-        },
-        {
           "name": "MaidPro Denver",
-          "mention_rate": 0.67
+          "mention_rate": 0.75
         },
         {
           "name": "The Maids",
-          "mention_rate": 0.67
+          "mention_rate": 0.75
         },
         {
-          "name": "Denver and surrounding areas",
-          "mention_rate": 0.33
+          "name": "Merit Maids",
+          "mention_rate": 0.75
         },
         {
           "name": "Kathy Clean",
-          "mention_rate": 0.33
+          "mention_rate": 0.25
         },
         {
           "name": "Denver-based local business",
-          "mention_rate": 0.33
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Denver and surrounding areas",
+          "mention_rate": 0.25
         },
         {
           "name": "Superb Maids",
-          "mention_rate": 0.33
+          "mention_rate": 0.25
         },
         {
           "name": "Thumbtack",
-          "mention_rate": 0.33
+          "mention_rate": 0.25
         },
         {
-          "name": "Taskrabbit",
-          "mention_rate": 0.33
+          "name": "Merry Maids South Denver",
+          "mention_rate": 0.25
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Austin, TX",
-      "runs": 16,
+      "runs": 17,
       "slug": "landscaper-in-austin-tx",
       "top": [
         {
@@ -824,19 +872,19 @@
         },
         {
           "name": "Ground & Garden",
-          "mention_rate": 0.38
+          "mention_rate": 0.35
         },
         {
           "name": "Top Choice Lawn Care",
-          "mention_rate": 0.25
+          "mention_rate": 0.24
         },
         {
           "name": "Austin Pro Landscape",
-          "mention_rate": 0.19
+          "mention_rate": 0.18
         },
         {
           "name": "Austin Home",
-          "mention_rate": 0.12
+          "mention_rate": 0.18
         },
         {
           "name": "Austin Creative Landscaping",
@@ -851,7 +899,7 @@
           "mention_rate": 0.06
         },
         {
-          "name": "Angi",
+          "name": "Houzz",
           "mention_rate": 0.06
         }
       ]
@@ -859,199 +907,199 @@
     {
       "category": "landscaper",
       "city": "Austin, TX?",
-      "runs": 16,
+      "runs": 17,
       "slug": "landscaper-in-austin-tx?",
       "top": [
         {
           "name": "Southern Love Landscaping & Design",
-          "mention_rate": 0.81
+          "mention_rate": 0.82
         },
         {
           "name": "Ground & Garden",
-          "mention_rate": 0.75
+          "mention_rate": 0.76
         },
         {
           "name": "Top Choice Lawn Care",
-          "mention_rate": 0.62
+          "mention_rate": 0.59
         },
         {
           "name": "Austin Creative Landscaping",
-          "mention_rate": 0.56
+          "mention_rate": 0.53
         },
         {
           "name": "Anderson Landscapes",
-          "mention_rate": 0.5
+          "mention_rate": 0.47
         },
         {
           "name": "Maas Verde",
-          "mention_rate": 0.38
+          "mention_rate": 0.35
         },
         {
           "name": "Best of Texas Landscapes",
-          "mention_rate": 0.31
+          "mention_rate": 0.29
         },
         {
           "name": "ABC Home & Commercial Services",
-          "mention_rate": 0.25
+          "mention_rate": 0.24
         },
         {
-          "name": "Maas Verde Landscape Restoration",
-          "mention_rate": 0.19
+          "name": "Thrive Landscape and Design",
+          "mention_rate": 0.18
         },
         {
           "name": "Southern Love",
-          "mention_rate": 0.19
+          "mention_rate": 0.18
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Brisbane, Australia",
-      "runs": 6,
+      "runs": 7,
       "slug": "landscaper-in-brisbane-australia",
       "top": [
         {
           "name": "Human Nature Landscapes",
-          "mention_rate": 0.83
+          "mention_rate": 0.86
         },
         {
           "name": "Designer Image",
-          "mention_rate": 0.67
-        },
-        {
-          "name": "Clare James Landscape Design",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "Mow on lawn solutions",
-          "mention_rate": 0.33
+          "mention_rate": 0.71
         },
         {
           "name": "Logan Lawn Mowing & Garden Care",
-          "mention_rate": 0.33
+          "mention_rate": 0.43
         },
         {
           "name": "BGL Services",
-          "mention_rate": 0.33
+          "mention_rate": 0.43
+        },
+        {
+          "name": "Clare James Landscape Design",
+          "mention_rate": 0.29
+        },
+        {
+          "name": "Mow on lawn solutions",
+          "mention_rate": 0.29
         },
         {
           "name": "Clare James",
-          "mention_rate": 0.17
-        },
-        {
-          "name": "Highly Commended",
-          "mention_rate": 0.17
-        },
-        {
-          "name": "Greenscene Gardenscope",
-          "mention_rate": 0.17
+          "mention_rate": 0.14
         },
         {
           "name": "Award Finalists",
-          "mention_rate": 0.17
+          "mention_rate": 0.14
+        },
+        {
+          "name": "Highly Commended",
+          "mention_rate": 0.14
+        },
+        {
+          "name": "Greenscene Gardenscope",
+          "mention_rate": 0.14
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Brisbane, Australia?",
-      "runs": 5,
+      "runs": 6,
       "slug": "landscaper-in-brisbane-australia?",
       "top": [
         {
-          "name": "Human Nature Landscapes",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "Instant Greenscene",
-          "mention_rate": 0.8
-        },
-        {
           "name": "Aboveground Landscapes",
-          "mention_rate": 0.8
+          "mention_rate": 0.83
+        },
+        {
+          "name": "Human Nature Landscapes",
+          "mention_rate": 0.83
         },
         {
           "name": "Martin Brothers",
-          "mention_rate": 0.8
+          "mention_rate": 0.83
+        },
+        {
+          "name": "Instant Greenscene",
+          "mention_rate": 0.67
         },
         {
           "name": "Oneflare",
-          "mention_rate": 0.4
+          "mention_rate": 0.33
         },
         {
-          "name": "Recent local reviews",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Insurance",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Localsearch",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Whotohire",
-          "mention_rate": 0.2
+          "name": "Trimscapes",
+          "mention_rate": 0.33
         },
         {
           "name": "Whole Yards",
-          "mention_rate": 0.2
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Brizscapes",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Insurance",
+          "mention_rate": 0.17
+        },
+        {
+          "name": "Recent local reviews",
+          "mention_rate": 0.17
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Chicago, IL",
-      "runs": 13,
+      "runs": 14,
       "slug": "landscaper-in-chicago-il",
       "top": [
         {
           "name": "Cityscape Landscape",
-          "mention_rate": 0.85
+          "mention_rate": 0.86
         },
         {
           "name": "Patch Landscaping",
-          "mention_rate": 0.62
+          "mention_rate": 0.64
         },
         {
           "name": "Christy Webber Landscapes",
-          "mention_rate": 0.46
+          "mention_rate": 0.5
         },
         {
           "name": "Christy Webber",
-          "mention_rate": 0.31
+          "mention_rate": 0.29
         },
         {
           "name": "Greenpal Lawn Care of Chicago",
-          "mention_rate": 0.23
+          "mention_rate": 0.21
         },
         {
           "name": "Christy Webber Landscaping",
-          "mention_rate": 0.23
+          "mention_rate": 0.21
         },
         {
           "name": "Bruce Lawn Service",
-          "mention_rate": 0.23
-        },
-        {
-          "name": "LawnStarter",
-          "mention_rate": 0.15
-        },
-        {
-          "name": "Chicago Lawn Pros",
-          "mention_rate": 0.15
+          "mention_rate": 0.21
         },
         {
           "name": "Urban Roots Inc.",
-          "mention_rate": 0.15
+          "mention_rate": 0.14
+        },
+        {
+          "name": "Chicago Lawn Pros",
+          "mention_rate": 0.14
+        },
+        {
+          "name": "LawnStarter",
+          "mention_rate": 0.14
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Chicago, IL?",
-      "runs": 12,
+      "runs": 13,
       "slug": "landscaper-in-chicago-il?",
       "top": [
         {
@@ -1060,39 +1108,39 @@
         },
         {
           "name": "Mariani Landscape",
-          "mention_rate": 0.83
+          "mention_rate": 0.85
         },
         {
           "name": "Topiarius",
-          "mention_rate": 0.83
+          "mention_rate": 0.77
         },
         {
           "name": "Cityscape Landscape",
-          "mention_rate": 0.58
+          "mention_rate": 0.54
         },
         {
           "name": "Beary Landscaping",
-          "mention_rate": 0.42
-        },
-        {
-          "name": "LawnStarter",
-          "mention_rate": 0.25
-        },
-        {
-          "name": "Patch Landscaping",
-          "mention_rate": 0.25
+          "mention_rate": 0.38
         },
         {
           "name": "Cityscape Landscape LLC",
-          "mention_rate": 0.25
+          "mention_rate": 0.31
+        },
+        {
+          "name": "LawnStarter",
+          "mention_rate": 0.23
+        },
+        {
+          "name": "Patch Landscaping",
+          "mention_rate": 0.23
         },
         {
           "name": "Chicago Specialty Gardens",
-          "mention_rate": 0.25
+          "mention_rate": 0.23
         },
         {
-          "name": "Grant & Power Landscaping",
-          "mention_rate": 0.17
+          "name": "R&L Landscaping Corporation",
+          "mention_rate": 0.23
         }
       ]
     },
@@ -1147,7 +1195,7 @@
     {
       "category": "landscaper",
       "city": "Denver, CO?",
-      "runs": 16,
+      "runs": 17,
       "slug": "landscaper-in-denver-co?",
       "top": [
         {
@@ -1156,94 +1204,94 @@
         },
         {
           "name": "JR Landscapes LLC",
-          "mention_rate": 0.62
+          "mention_rate": 0.59
         },
         {
           "name": "Mile High Landscaping",
-          "mention_rate": 0.5
+          "mention_rate": 0.53
         },
         {
           "name": "Designs by Sundown",
-          "mention_rate": 0.44
+          "mention_rate": 0.41
         },
         {
           "name": "Designs By Sundown",
-          "mention_rate": 0.38
-        },
-        {
-          "name": "A Cut Above Landscape",
-          "mention_rate": 0.38
+          "mention_rate": 0.35
         },
         {
           "name": "Weston Landscape & Design",
-          "mention_rate": 0.31
+          "mention_rate": 0.35
+        },
+        {
+          "name": "A Cut Above Landscape",
+          "mention_rate": 0.35
         },
         {
           "name": "Elite Landscape & Outdoor Living",
-          "mention_rate": 0.31
+          "mention_rate": 0.29
         },
         {
           "name": "C&H Landscaping",
-          "mention_rate": 0.25
+          "mention_rate": 0.24
         },
         {
-          "name": "Green Mountain Landscape and Sprinkler",
-          "mention_rate": 0.19
+          "name": "Denver Sprinkler and Landscape, Inc.",
+          "mention_rate": 0.18
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Melbourne, Australia",
-      "runs": 9,
+      "runs": 10,
       "slug": "landscaper-in-melbourne-australia",
       "top": [
         {
+          "name": "Ian Barker Gardens",
+          "mention_rate": 0.5
+        },
+        {
           "name": "Augusta Lawn Care",
-          "mention_rate": 0.56
+          "mention_rate": 0.5
         },
         {
           "name": "Melbourne Decking and Landscaping",
-          "mention_rate": 0.56
-        },
-        {
-          "name": "Ian Barker Gardens",
-          "mention_rate": 0.56
-        },
-        {
-          "name": "Oneflare",
-          "mention_rate": 0.44
+          "mention_rate": 0.5
         },
         {
           "name": "Grassroots Landscaping & Maintenance",
-          "mention_rate": 0.33
+          "mention_rate": 0.4
         },
         {
-          "name": "Gardenology Services",
-          "mention_rate": 0.22
-        },
-        {
-          "name": "Must Have Maintenance",
-          "mention_rate": 0.22
-        },
-        {
-          "name": "Ozzie Mowing & Gardening",
-          "mention_rate": 0.22
-        },
-        {
-          "name": "Artificial Lawn Melbourne",
-          "mention_rate": 0.22
+          "name": "Oneflare",
+          "mention_rate": 0.4
         },
         {
           "name": "Garden More Landscaping",
-          "mention_rate": 0.22
+          "mention_rate": 0.3
+        },
+        {
+          "name": "Gardenology Services",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Must Have Maintenance",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Ozzie Mowing & Gardening",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Artificial Lawn Melbourne",
+          "mention_rate": 0.2
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Melbourne, Australia?",
-      "runs": 8,
+      "runs": 9,
       "slug": "landscaper-in-melbourne-australia?",
       "top": [
         {
@@ -1252,190 +1300,190 @@
         },
         {
           "name": "Ian Barker Gardens",
-          "mention_rate": 0.88
-        },
-        {
-          "name": "Green Kings Landscaping",
-          "mention_rate": 0.5
-        },
-        {
-          "name": "Must Have Maintenance",
-          "mention_rate": 0.5
+          "mention_rate": 0.78
         },
         {
           "name": "Lush Landscaping Melbourne",
-          "mention_rate": 0.38
+          "mention_rate": 0.44
+        },
+        {
+          "name": "Green Kings Landscaping",
+          "mention_rate": 0.44
+        },
+        {
+          "name": "Must Have Maintenance",
+          "mention_rate": 0.44
         },
         {
           "name": "Garden More Landscaping",
-          "mention_rate": 0.38
+          "mention_rate": 0.44
         },
         {
           "name": "KD Landscapes",
-          "mention_rate": 0.38
+          "mention_rate": 0.44
         },
         {
           "name": "Sprouts and Shoots",
-          "mention_rate": 0.25
+          "mention_rate": 0.22
         },
         {
           "name": "Luxe Landscapes",
-          "mention_rate": 0.25
+          "mention_rate": 0.22
         },
         {
           "name": "Love It Landscaping",
-          "mention_rate": 0.25
+          "mention_rate": 0.22
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Phoenix, AZ",
-      "runs": 11,
+      "runs": 12,
       "slug": "landscaper-in-phoenix-az",
       "top": [
         {
           "name": "Merit Landworks",
-          "mention_rate": 0.64
+          "mention_rate": 0.58
         },
         {
           "name": "Diamond Stone & Synthetic Grass",
-          "mention_rate": 0.55
-        },
-        {
-          "name": "Franks Hardscape & Landscape Design LLC",
-          "mention_rate": 0.45
+          "mention_rate": 0.58
         },
         {
           "name": "BIG BOSS Landscape",
-          "mention_rate": 0.45
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Franks Hardscape & Landscape Design LLC",
+          "mention_rate": 0.42
         },
         {
           "name": "Unwind Landscapes",
-          "mention_rate": 0.36
-        },
-        {
-          "name": "Best of Houzz",
-          "mention_rate": 0.27
+          "mention_rate": 0.42
         },
         {
           "name": "Paradise Hardscapes",
-          "mention_rate": 0.27
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Best of Houzz",
+          "mention_rate": 0.25
         },
         {
           "name": "NuView Pools & Landscape",
-          "mention_rate": 0.27
+          "mention_rate": 0.25
         },
         {
           "name": "ABC Scapes",
-          "mention_rate": 0.18
+          "mention_rate": 0.17
         },
         {
           "name": "Divine Design Landscaping",
-          "mention_rate": 0.18
+          "mention_rate": 0.17
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Phoenix, AZ?",
-      "runs": 10,
+      "runs": 11,
       "slug": "landscaper-in-phoenix-az?",
       "top": [
         {
           "name": "R&R Landscaping & Outdoor Design",
-          "mention_rate": 0.9
-        },
-        {
-          "name": "Tree Pros",
-          "mention_rate": 0.6
+          "mention_rate": 0.82
         },
         {
           "name": "E&E Landscape Services",
-          "mention_rate": 0.6
+          "mention_rate": 0.64
         },
         {
           "name": "Masterscapes LLC",
-          "mention_rate": 0.6
+          "mention_rate": 0.64
+        },
+        {
+          "name": "Tree Pros",
+          "mention_rate": 0.55
         },
         {
           "name": "Valley of the Sun Landscaping",
-          "mention_rate": 0.6
-        },
-        {
-          "name": "Divine Design Landscaping",
-          "mention_rate": 0.4
+          "mention_rate": 0.55
         },
         {
           "name": "Diamond Stone & Synthetic Grass",
-          "mention_rate": 0.3
+          "mention_rate": 0.36
         },
         {
-          "name": "Mountainscapers Landscaping",
-          "mention_rate": 0.3
-        },
-        {
-          "name": "Houzz",
-          "mention_rate": 0.3
+          "name": "Divine Design Landscaping",
+          "mention_rate": 0.36
         },
         {
           "name": "Unwind Landscapes",
-          "mention_rate": 0.2
+          "mention_rate": 0.27
+        },
+        {
+          "name": "BIG BOSS Landscape",
+          "mention_rate": 0.27
+        },
+        {
+          "name": "Mountainscapers Landscaping",
+          "mention_rate": 0.27
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Seattle, WA",
-      "runs": 15,
+      "runs": 16,
       "slug": "landscaper-in-seattle-wa",
       "top": [
         {
           "name": "Devonshire Landscapes Inc",
-          "mention_rate": 0.87
+          "mention_rate": 0.88
         },
         {
           "name": "New Life Rockeries & Retaining Walls",
-          "mention_rate": 0.8
+          "mention_rate": 0.81
         },
         {
           "name": "Urban Oasis Design & Construction LLC",
-          "mention_rate": 0.67
+          "mention_rate": 0.69
         },
         {
           "name": "Seattle Times Best in PNW nominee",
-          "mention_rate": 0.13
-        },
-        {
-          "name": "New Life Rockeries",
-          "mention_rate": 0.07
+          "mention_rate": 0.12
         },
         {
           "name": "Seattle Times Best in PNW Nominee",
-          "mention_rate": 0.07
+          "mention_rate": 0.06
+        },
+        {
+          "name": "New Life Rockeries",
+          "mention_rate": 0.06
         },
         {
           "name": "Devonshire Landscapes",
-          "mention_rate": 0.07
+          "mention_rate": 0.06
         },
         {
           "name": "Seattle Gardening Co.",
-          "mention_rate": 0.07
+          "mention_rate": 0.06
+        },
+        {
+          "name": "Review volume and rating",
+          "mention_rate": 0.06
         },
         {
           "name": "Houzz-listed Seattle professionals",
-          "mention_rate": 0.07
-        },
-        {
-          "name": "Licensing, insurance, and estimate responsiveness",
-          "mention_rate": 0.07
+          "mention_rate": 0.06
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Seattle, WA?",
-      "runs": 14,
+      "runs": 15,
       "slug": "landscaper-in-seattle-wa?",
       "top": [
         {
@@ -1444,46 +1492,46 @@
         },
         {
           "name": "Devonshire Landscapes Inc",
-          "mention_rate": 0.71
+          "mention_rate": 0.73
         },
         {
           "name": "Eagle Rock Landscaping Inc.",
-          "mention_rate": 0.64
+          "mention_rate": 0.67
         },
         {
           "name": "Landcrafters",
-          "mention_rate": 0.36
+          "mention_rate": 0.33
         },
         {
           "name": "Seattle Gardening Co.",
-          "mention_rate": 0.29
+          "mention_rate": 0.27
         },
         {
           "name": "New Life Rockeries & Retaining Walls",
-          "mention_rate": 0.21
+          "mention_rate": 0.2
         },
         {
           "name": "Houzz",
-          "mention_rate": 0.21
+          "mention_rate": 0.2
         },
         {
           "name": "Economy Landscaping",
-          "mention_rate": 0.21
+          "mention_rate": 0.2
         },
         {
           "name": "Devonshire Landscapes Inc.",
-          "mention_rate": 0.14
+          "mention_rate": 0.13
         },
         {
-          "name": "Angi",
-          "mention_rate": 0.14
+          "name": "Urban Oasis Design & Construction LLC",
+          "mention_rate": 0.13
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Sydney, Australia",
-      "runs": 7,
+      "runs": 8,
       "slug": "landscaper-in-sydney-australia",
       "top": [
         {
@@ -1496,42 +1544,42 @@
         },
         {
           "name": "Oneflare",
-          "mention_rate": 0.57
-        },
-        {
-          "name": "Harrisons Landscaping",
-          "mention_rate": 0.57
+          "mention_rate": 0.62
         },
         {
           "name": "Concept Landscaping",
-          "mention_rate": 0.43
+          "mention_rate": 0.5
         },
         {
-          "name": "Hipages",
-          "mention_rate": 0.43
-        },
-        {
-          "name": "Bark",
-          "mention_rate": 0.29
+          "name": "Harrisons Landscaping",
+          "mention_rate": 0.5
         },
         {
           "name": "Growing Well",
-          "mention_rate": 0.29
+          "mention_rate": 0.38
+        },
+        {
+          "name": "Hipages",
+          "mention_rate": 0.38
+        },
+        {
+          "name": "Bark",
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Airtasker",
+          "mention_rate": 0.25
         },
         {
           "name": "Localsearch",
-          "mention_rate": 0.14
-        },
-        {
-          "name": "Lawngreen",
-          "mention_rate": 0.14
+          "mention_rate": 0.12
         }
       ]
     },
     {
       "category": "landscaper",
       "city": "Sydney, Australia?",
-      "runs": 7,
+      "runs": 8,
       "slug": "landscaper-in-sydney-australia?",
       "top": [
         {
@@ -1540,39 +1588,39 @@
         },
         {
           "name": "Love Landscapes",
-          "mention_rate": 0.86
+          "mention_rate": 0.88
         },
         {
           "name": "Sydney Landscaping Pty Ltd",
-          "mention_rate": 0.71
-        },
-        {
-          "name": "Concept Landscaping",
-          "mention_rate": 0.57
+          "mention_rate": 0.75
         },
         {
           "name": "Dr Garden",
-          "mention_rate": 0.57
+          "mention_rate": 0.62
+        },
+        {
+          "name": "Concept Landscaping",
+          "mention_rate": 0.5
         },
         {
           "name": "Master Groups",
-          "mention_rate": 0.43
-        },
-        {
-          "name": "Growing Well",
-          "mention_rate": 0.29
+          "mention_rate": 0.5
         },
         {
           "name": "Dr. Garden",
-          "mention_rate": 0.29
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Growing Well",
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Hipages",
+          "mention_rate": 0.25
         },
         {
           "name": "Top Sydney Landscaping",
-          "mention_rate": 0.29
-        },
-        {
-          "name": "Lone Pine Landscapes",
-          "mention_rate": 0.29
+          "mention_rate": 0.25
         }
       ]
     }
