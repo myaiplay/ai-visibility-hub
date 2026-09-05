@@ -25,9 +25,9 @@ utm: index_page
 | 5 | Spa Dental Sydney CBD | 50% |
 | 6 | Location | 25% |
 | 7 | Macquarie Dental Clinic | 17% |
-| 8 | Green Apple Dental Care CBD | 17% |
-| 9 | Darlinghurst Smiles | 17% |
-| 10 | Aglow Dental Group | 17% |
+| 8 | Aglow Dental Group | 17% |
+| 9 | Green Apple Dental Care CBD | 17% |
+| 10 | Darlinghurst Smiles | 17% |
 
 *Based on 12 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

@@ -19,11 +19,11 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Lowry Advanced Dentistry | 100% |
-| 2 | OG Dental Denver | 67% |
-| 3 | Pearl Dentistry | 67% |
-| 4 | Wynkoop Dentistry | 67% |
+| 2 | Pearl Dentistry | 67% |
+| 3 | OG Dental Denver | 67% |
+| 4 | Metropolitan Dental Care | 67% |
 | 5 | Dental Elements | 67% |
-| 6 | Metropolitan Dental Care | 67% |
+| 6 | Wynkoop Dentistry | 67% |
 | 7 | Cherry Creek Family Dentistry | 33% |
 | 8 | Smile Studio Dental | 33% |
 | 9 | ZIP code | 33% |
