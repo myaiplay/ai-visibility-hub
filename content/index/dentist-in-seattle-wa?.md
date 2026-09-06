@@ -22,10 +22,10 @@ utm: index_page
 | 2 | Wedgwood Family Dentistry | 71% |
 | 3 | Fidler On The Tooth | 71% |
 | 4 | Dental Care Seattle | 43% |
-| 5 | ICHS Dental Care | 43% |
-| 6 | Sage Family Dental | 43% |
-| 7 | Seattle, WA 98115 | 14% |
-| 8 | Roosevelt Dental | 14% |
+| 5 | Sage Family Dental | 43% |
+| 6 | ICHS Dental Care | 43% |
+| 7 | Roosevelt Dental | 14% |
+| 8 | Seattle, WA 98115 | 14% |
 | 9 | Top Dentists | 14% |
 | 10 | Northwest Seattle | 14% |
 

@@ -2,31 +2,31 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-09-05
+date: 2026-09-06
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 05 September 2026, 03:28 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 06 September 2026, 03:29 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $0.60 | $5.00/mo |
-| X posts | 4 | 31/mo |
+| Data engine (Perplexity) | $0.72 | $5.00/mo |
+| X posts | 5 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
 ## Coverage
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 20 |
-| Buyer prompts tested | 384 |
-| Stat pages live | 35 |
+| Test days recorded | 21 |
+| Buyer prompts tested | 404 |
+| Stat pages live | 36 |
 | Articles syndicated to Dev.to | 9 |
-| Bluesky posts made | 0 (last: 04 Sep, 13:48 UTC) |
+| Bluesky posts made | 1 (last: 05 Sep, 13:45 UTC) |
 
 ## Traffic
 
@@ -48,9 +48,9 @@ date: 2026-09-05
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Sun 06 Sep, 03:17 local |
-| Bluesky post | Sat 05 Sep, 13:37 local |
-| X post | Sat 05 Sep, 21:43 local |
+| Data engine (12 AI tests) | Mon 07 Sep, 03:17 local |
+| Bluesky post | Sun 06 Sep, 13:37 local |
+| X post | Sun 06 Sep, 21:43 local |
 | Dev.to catch-up | Mon 07 Sep, 05:11 local |
 | Weekly data article | Mon 07 Sep, 06:07 local |
 | Weekly report | Sun 06 Sep, 18:22 local |
