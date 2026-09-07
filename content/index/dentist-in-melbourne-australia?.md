@@ -18,8 +18,8 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Smile Solutions | 100% |
-| 2 | MC Dental | 100% |
+| 1 | MC Dental | 100% |
+| 2 | Smile Solutions | 100% |
 | 3 | Royal Dental Hospital of Melbourne | 73% |
 | 4 | Melbourne Dental Clinic | 55% |
 | 5 | Collins Street Dental | 36% |

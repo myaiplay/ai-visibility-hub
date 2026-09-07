@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Phoenix, AZ?"
-description: "We ran 14 recorded AI search tests for landscaper in Phoenix, AZ. These businesses get named most often."
+description: "We ran 15 recorded AI search tests for landscaper in Phoenix, AZ. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Phoenix, AZ", "description": "Recorded AI search test results (14 runs) showing which businesses AI engines name for landscaper in Phoenix, AZ.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-phoenix-az/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Phoenix, AZ", "description": "Recorded AI search test results (15 runs) showing which businesses AI engines name for landscaper in Phoenix, AZ.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-phoenix-az/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Phoenix, AZ?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Phoenix, AZ", "who should I hire for landscaper services near Phoenix, AZ?") across 14 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Phoenix, AZ", "who should I hire for landscaper services near Phoenix, AZ?") across 15 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Diamond Stone & Synthetic Grass | 64% |
-| 2 | BIG BOSS Landscape | 57% |
-| 3 | Merit Landworks | 50% |
-| 4 | Unwind Landscapes | 50% |
-| 5 | Franks Hardscape & Landscape Design LLC | 36% |
-| 6 | Best of Houzz | 21% |
-| 7 | Paradise Hardscapes | 21% |
-| 8 | NuView Pools & Landscape | 21% |
-| 9 | ABC Scapes | 14% |
-| 10 | Divine Design Landscaping | 14% |
+| 1 | Diamond Stone & Synthetic Grass | 67% |
+| 2 | BIG BOSS Landscape | 60% |
+| 3 | Unwind Landscapes | 53% |
+| 4 | Merit Landworks | 47% |
+| 5 | Franks Hardscape & Landscape Design LLC | 40% |
+| 6 | Paradise Hardscapes | 20% |
+| 7 | Best of Houzz | 20% |
+| 8 | NuView Pools & Landscape | 20% |
+| 9 | ABC Scapes | 13% |
+| 10 | Divine Design Landscaping | 13% |
 
-*Based on 14 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 15 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
