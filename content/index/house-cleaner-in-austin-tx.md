@@ -22,12 +22,12 @@ utm: index_page
 | 2 | Eleven Friends of Grumpy Brush | 83% |
 | 3 | Tidy Hands Cleaners | 50% |
 | 4 | Maids and Moore | 50% |
-| 5 | Mystik Cleaning Service | 17% |
-| 6 | DF CLEANING LLC | 17% |
+| 5 | DF CLEANING LLC | 17% |
+| 6 | Mystik Cleaning Service | 17% |
 | 7 | Trustworthy Cleaning Services | 17% |
-| 8 | MoreHands Maid Service | 17% |
+| 8 | Purple Fig Eco Cleaning Co. | 17% |
 | 9 | Austin Cleaning Crew | 17% |
-| 10 | Purple Fig Eco Cleaning Co. | 17% |
+| 10 | MoreHands Maid Service | 17% |
 
 *Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

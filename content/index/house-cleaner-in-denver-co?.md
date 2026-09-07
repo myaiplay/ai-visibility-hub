@@ -22,12 +22,12 @@ utm: index_page
 | 2 | Merit Maids | 86% |
 | 3 | The Maids | 86% |
 | 4 | MaidPro Denver | 86% |
-| 5 | Denver-based local business | 14% |
-| 6 | Denver and surrounding areas | 14% |
-| 7 | Kathy Clean | 14% |
+| 5 | Kathy Clean | 14% |
+| 6 | Denver-based local business | 14% |
+| 7 | Denver and surrounding areas | 14% |
 | 8 | Superb Maids | 14% |
-| 9 | Thumbtack | 14% |
-| 10 | Taskrabbit | 14% |
+| 9 | Taskrabbit | 14% |
+| 10 | Spruce | 14% |
 
 *Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

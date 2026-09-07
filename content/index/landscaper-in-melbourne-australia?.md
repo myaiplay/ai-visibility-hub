@@ -19,8 +19,8 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Bayside Landscaping | 100% |
-| 2 | Garden More Landscaping | 58% |
-| 3 | Ian Barker Gardens | 58% |
+| 2 | Ian Barker Gardens | 58% |
+| 3 | Garden More Landscaping | 58% |
 | 4 | KD Landscapes | 58% |
 | 5 | Green Kings Landscaping | 42% |
 | 6 | Lush Landscaping Melbourne | 42% |

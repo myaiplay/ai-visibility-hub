@@ -8,13 +8,13 @@ date: 2026-09-07
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 07 September 2026, 03:31 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 07 September 2026, 06:25 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $0.84 | $5.00/mo |
+| Data engine (Perplexity) | $0.85 | $5.00/mo |
 | X posts | 6 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
@@ -25,24 +25,12 @@ date: 2026-09-07
 | Test days recorded | 22 |
 | Buyer prompts tested | 424 |
 | Stat pages live | 37 |
-| Articles syndicated to Dev.to | 9 |
+| Articles syndicated to Dev.to | 10 |
 | Bluesky posts made | 2 (last: 06 Sep, 13:45 UTC) |
 
 ## Traffic
 
-| Signal | Value |
-|---|---|
-| Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 2 |
-|   top page: /ai-visibility-hub | 1 |
-|   top page: /ai-visibility-hub/dashboard | 1 |
-|   referrer:  | 1 |
-|   referrer: go.bsky.app | 1 |
-|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 1 |
-|   referrer: myaiplay.github.io/ai-visibility-hub | 1 |
-| Dev.to article views | 16 |
-| Dev.to reactions | 0 |
-| Bluesky followers | 1 |
+_Traffic APIs not reachable from this environment._
 
 ## Next scheduled runs
 
@@ -51,8 +39,8 @@ date: 2026-09-07
 | Data engine (12 AI tests) | Tue 08 Sep, 03:17 local |
 | Bluesky post | Mon 07 Sep, 13:37 local |
 | X post | Mon 07 Sep, 21:43 local |
-| Dev.to catch-up | Mon 07 Sep, 05:11 local |
-| Weekly data article | Mon 07 Sep, 06:07 local |
+| Dev.to catch-up | Mon 14 Sep, 05:11 local |
+| Weekly data article | Mon 14 Sep, 06:07 local |
 | Weekly report | Sun 13 Sep, 18:22 local |
 
 ## Data

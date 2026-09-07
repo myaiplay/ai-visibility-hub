@@ -27,7 +27,7 @@ utm: index_page
 | 7 | Kathy Clean | 25% |
 | 8 | Sparkulous | 25% |
 | 9 | Broom Denver | 12% |
-| 10 | Thumbtack | 12% |
+| 10 | CottageCare | 12% |
 
 *Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

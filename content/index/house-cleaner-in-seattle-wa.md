@@ -20,9 +20,9 @@ utm: index_page
 |---|---|---|
 | 1 | Seattle Green Cleaning Fairy | 100% |
 | 2 | Seattle Simply Clean | 75% |
-| 3 | Rain City Maids | 50% |
+| 3 | Seatown Cleaners | 50% |
 | 4 | Dazzle | 50% |
-| 5 | Seatown Cleaners | 50% |
+| 5 | Rain City Maids | 50% |
 | 6 | Simply Clean | 25% |
 | 7 | Seattle Green Maids | 25% |
 | 8 | Dazzle Company | 25% |

@@ -27,7 +27,7 @@ utm: index_page
 | 7 | Houzz | 17% |
 | 8 | Economy Landscaping | 17% |
 | 9 | Devonshire Landscapes Inc. | 11% |
-| 10 | Urban Oasis Design & Construction LLC | 11% |
+| 10 | Angi | 11% |
 
 *Based on 18 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

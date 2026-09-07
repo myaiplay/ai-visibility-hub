@@ -18,11 +18,11 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Rain City Maids | 100% |
-| 2 | Northlane Clean | 100% |
-| 3 | Simply Clean | 100% |
-| 4 | Dazzle | 100% |
-| 5 | Seatown Cleaners | 100% |
+| 1 | Seatown Cleaners | 100% |
+| 2 | Simply Clean | 100% |
+| 3 | Dazzle | 100% |
+| 4 | Northlane Clean | 100% |
+| 5 | Rain City Maids | 100% |
 | 6 | Seattle Green Earth Cleaning | 33% |
 | 7 | Seattle Green Cleaning Fairy | 33% |
 

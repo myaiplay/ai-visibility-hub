@@ -25,9 +25,9 @@ utm: index_page
 | 5 | Augusta Lawn Care | 38% |
 | 6 | Garden More Landscaping | 38% |
 | 7 | Artificial Lawn Melbourne | 23% |
-| 8 | Hipages | 23% |
+| 8 | Love It Landscaping | 23% |
 | 9 | Bark | 23% |
-| 10 | Love It Landscaping | 23% |
+| 10 | Hipages | 23% |
 
 *Based on 13 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

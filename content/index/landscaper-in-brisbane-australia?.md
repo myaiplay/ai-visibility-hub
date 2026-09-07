@@ -19,8 +19,8 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Human Nature Landscapes | 89% |
-| 2 | Aboveground Landscapes | 89% |
-| 3 | Martin Brothers | 89% |
+| 2 | Martin Brothers | 89% |
+| 3 | Aboveground Landscapes | 89% |
 | 4 | Instant Greenscene | 44% |
 | 5 | Brizscapes | 44% |
 | 6 | Oneflare | 33% |

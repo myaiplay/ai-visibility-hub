@@ -18,13 +18,13 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Human Nature Landscapes | 80% |
-| 2 | Designer Image | 80% |
+| 1 | Designer Image | 80% |
+| 2 | Human Nature Landscapes | 80% |
 | 3 | Logan Lawn Mowing & Garden Care | 60% |
 | 4 | Mow on lawn solutions | 40% |
 | 5 | BGL Services | 40% |
-| 6 | Brisbane Gardening and Landscaping | 30% |
-| 7 | EcoQuiet Mowing & Garden Care Brisbane | 30% |
+| 6 | EcoQuiet Mowing & Garden Care Brisbane | 30% |
+| 7 | Brisbane Gardening and Landscaping | 30% |
 | 8 | Clare James Landscape Design | 20% |
 | 9 | Highly Commended | 20% |
 | 10 | Clare James | 10% |

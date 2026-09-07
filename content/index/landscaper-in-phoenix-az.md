@@ -23,8 +23,8 @@ utm: index_page
 | 3 | Unwind Landscapes | 53% |
 | 4 | Merit Landworks | 47% |
 | 5 | Franks Hardscape & Landscape Design LLC | 40% |
-| 6 | Paradise Hardscapes | 20% |
-| 7 | Best of Houzz | 20% |
+| 6 | Best of Houzz | 20% |
+| 7 | Paradise Hardscapes | 20% |
 | 8 | NuView Pools & Landscape | 20% |
 | 9 | ABC Scapes | 13% |
 | 10 | Divine Design Landscaping | 13% |

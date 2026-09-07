@@ -47,11 +47,11 @@
       "slug": "dentist-in-austin-tx?",
       "top": [
         {
-          "name": "Waterloo Dental",
+          "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
-          "name": "Holly Phillip DDS",
+          "name": "Waterloo Dental",
           "mention_rate": 1.0
         },
         {
@@ -67,6 +67,10 @@
           "mention_rate": 0.8
         },
         {
+          "name": "Austin Artistic Dental",
+          "mention_rate": 0.6
+        },
+        {
           "name": "Tech Ridge Dental",
           "mention_rate": 0.6
         },
@@ -75,15 +79,11 @@
           "mention_rate": 0.6
         },
         {
-          "name": "Austin Artistic Dental",
-          "mention_rate": 0.6
-        },
-        {
           "name": "Toothbar",
           "mention_rate": 0.4
         },
         {
-          "name": "Swish Dental Downtown",
+          "name": "Vesga Advanced Proodontics",
           "mention_rate": 0.2
         }
       ]
@@ -95,7 +95,7 @@
       "slug": "dentist-in-brisbane-australia",
       "top": [
         {
-          "name": "Brisbane Dental",
+          "name": "Brisbane Dental and Denture Clinic",
           "mention_rate": 1.0
         },
         {
@@ -103,7 +103,7 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Brisbane Dental and Denture Clinic",
+          "name": "Brisbane Dental",
           "mention_rate": 1.0
         },
         {
@@ -199,11 +199,11 @@
           "mention_rate": 0.38
         },
         {
-          "name": "University Associates in Dentistry",
+          "name": "Smile Science Chicago",
           "mention_rate": 0.38
         },
         {
-          "name": "Smile Science Chicago",
+          "name": "University Associates in Dentistry",
           "mention_rate": 0.38
         },
         {
@@ -211,15 +211,15 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Dr. Jessica Mehta",
-          "mention_rate": 0.12
-        },
-        {
           "name": "Always There Dental Care",
           "mention_rate": 0.12
         },
         {
-          "name": "WebMD",
+          "name": "Dr. Jessica Mehta",
+          "mention_rate": 0.12
+        },
+        {
+          "name": "Chicago Style Smiles",
           "mention_rate": 0.12
         },
         {
@@ -227,7 +227,7 @@
           "mention_rate": 0.12
         },
         {
-          "name": "Chicago Style Smiles",
+          "name": "WebMD",
           "mention_rate": 0.12
         }
       ]
@@ -291,11 +291,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "OG Dental Denver",
+          "name": "Pearl Dentistry",
           "mention_rate": 0.67
         },
         {
-          "name": "Pearl Dentistry",
+          "name": "OG Dental Denver",
           "mention_rate": 0.67
         },
         {
@@ -315,15 +315,15 @@
           "mention_rate": 0.33
         },
         {
-          "name": "ZIP code",
-          "mention_rate": 0.33
-        },
-        {
           "name": "Smile Studio Dental",
           "mention_rate": 0.33
         },
         {
-          "name": "Distance from home or work",
+          "name": "ZIP code",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "OG Dental",
           "mention_rate": 0.33
         }
       ]
@@ -383,11 +383,11 @@
       "slug": "dentist-in-melbourne-australia?",
       "top": [
         {
-          "name": "MC Dental",
+          "name": "Smile Solutions",
           "mention_rate": 1.0
         },
         {
-          "name": "Smile Solutions",
+          "name": "MC Dental",
           "mention_rate": 1.0
         },
         {
@@ -415,11 +415,11 @@
           "mention_rate": 0.18
         },
         {
-          "name": "Location",
+          "name": "Availability",
           "mention_rate": 0.18
         },
         {
-          "name": "Availability",
+          "name": "Location",
           "mention_rate": 0.18
         }
       ]
@@ -487,19 +487,19 @@
           "mention_rate": 0.6
         },
         {
-          "name": "The Biting Edge Family Dentistry",
-          "mention_rate": 0.4
-        },
-        {
-          "name": "North Mountain Dentistry",
-          "mention_rate": 0.4
-        },
-        {
           "name": "Arizona Biltmore Dentistry",
           "mention_rate": 0.4
         },
         {
           "name": "Life Smiles Dental Care",
+          "mention_rate": 0.4
+        },
+        {
+          "name": "The Biting Edge Family Dentistry",
+          "mention_rate": 0.4
+        },
+        {
+          "name": "North Mountain Dentistry",
           "mention_rate": 0.4
         },
         {
@@ -527,6 +527,14 @@
       "slug": "dentist-in-seattle-wa",
       "top": [
         {
+          "name": "Dr. Chris Pickel",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Dr. Anthony A. Santorsola",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Dr. Spencer Face",
           "mention_rate": 1.0
         },
@@ -535,27 +543,19 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Dr. Anthony A. Santorsola",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "Dr. Chris Pickel",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Seattle Met Top Dentists 2026",
           "mention_rate": 0.33
-        },
-        {
-          "name": "North Seattle Dental",
-          "mention_rate": 0.17
         },
         {
           "name": "Top Dentists 2026",
           "mention_rate": 0.17
         },
         {
-          "name": "Location and convenience",
+          "name": "North Seattle Dental",
+          "mention_rate": 0.17
+        },
+        {
+          "name": "Insurance acceptance",
           "mention_rate": 0.17
         },
         {
@@ -563,7 +563,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Insurance acceptance",
+          "name": "Location and convenience",
           "mention_rate": 0.17
         }
       ]
@@ -599,11 +599,11 @@
           "mention_rate": 0.43
         },
         {
-          "name": "Roosevelt Dental",
+          "name": "Seattle, WA 98115",
           "mention_rate": 0.14
         },
         {
-          "name": "Seattle, WA 98115",
+          "name": "Roosevelt Dental",
           "mention_rate": 0.14
         },
         {
@@ -611,7 +611,7 @@
           "mention_rate": 0.14
         },
         {
-          "name": "Northwest Seattle",
+          "name": "A highly rated Seattle practice",
           "mention_rate": 0.14
         }
       ]
@@ -635,11 +635,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Sydney CBD Dentistry",
+          "name": "Spa Dental Sydney CBD",
           "mention_rate": 0.5
         },
         {
-          "name": "Spa Dental Sydney CBD",
+          "name": "Sydney CBD Dentistry",
           "mention_rate": 0.5
         },
         {
@@ -651,7 +651,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Aglow Dental Group",
+          "name": "No Gaps Dental Sydney CBD Haymarket",
           "mention_rate": 0.17
         },
         {
@@ -659,7 +659,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "No Gaps Dental Sydney CBD Haymarket",
+          "name": "Aglow Dental Group",
           "mention_rate": 0.17
         }
       ]
@@ -671,11 +671,11 @@
       "slug": "dentist-in-sydney-australia?",
       "top": [
         {
-          "name": "Spa Dental Sydney CBD",
+          "name": "Paramount Dental Sydney",
           "mention_rate": 1.0
         },
         {
-          "name": "Paramount Dental Sydney",
+          "name": "Spa Dental Sydney CBD",
           "mention_rate": 1.0
         },
         {
@@ -699,11 +699,11 @@
           "mention_rate": 0.23
         },
         {
-          "name": "The Paddington Dental Surgery",
+          "name": "Emergency Dentist Sydney",
           "mention_rate": 0.15
         },
         {
-          "name": "Emergency Dentist Sydney",
+          "name": "The Paddington Dental Surgery",
           "mention_rate": 0.15
         },
         {
@@ -735,11 +735,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "Mystik Cleaning Service",
+          "name": "DF CLEANING LLC",
           "mention_rate": 0.17
         },
         {
-          "name": "DF CLEANING LLC",
+          "name": "Mystik Cleaning Service",
           "mention_rate": 0.17
         },
         {
@@ -747,7 +747,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "MoreHands Maid Service",
+          "name": "Purple Fig Eco Cleaning Co.",
           "mention_rate": 0.17
         },
         {
@@ -755,7 +755,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Purple Fig Eco Cleaning Co.",
+          "name": "MoreHands Maid Service",
           "mention_rate": 0.17
         }
       ]
@@ -783,15 +783,15 @@
           "mention_rate": 0.6
         },
         {
+          "name": "DF CLEANING LLC",
+          "mention_rate": 0.6
+        },
+        {
           "name": "Mystik Cleaning Service",
           "mention_rate": 0.6
         },
         {
           "name": "Eleven Friends of Grumpy Brush",
-          "mention_rate": 0.6
-        },
-        {
-          "name": "DF CLEANING LLC",
           "mention_rate": 0.6
         },
         {
@@ -851,7 +851,7 @@
           "mention_rate": 0.12
         },
         {
-          "name": "Thumbtack",
+          "name": "CottageCare",
           "mention_rate": 0.12
         }
       ]
@@ -879,6 +879,10 @@
           "mention_rate": 0.86
         },
         {
+          "name": "Kathy Clean",
+          "mention_rate": 0.14
+        },
+        {
           "name": "Denver-based local business",
           "mention_rate": 0.14
         },
@@ -887,19 +891,15 @@
           "mention_rate": 0.14
         },
         {
-          "name": "Kathy Clean",
-          "mention_rate": 0.14
-        },
-        {
           "name": "Superb Maids",
           "mention_rate": 0.14
         },
         {
-          "name": "Thumbtack",
+          "name": "Taskrabbit",
           "mention_rate": 0.14
         },
         {
-          "name": "Taskrabbit",
+          "name": "Spruce",
           "mention_rate": 0.14
         }
       ]
@@ -919,7 +919,7 @@
           "mention_rate": 0.75
         },
         {
-          "name": "Rain City Maids",
+          "name": "Seatown Cleaners",
           "mention_rate": 0.5
         },
         {
@@ -927,7 +927,7 @@
           "mention_rate": 0.5
         },
         {
-          "name": "Seatown Cleaners",
+          "name": "Rain City Maids",
           "mention_rate": 0.5
         },
         {
@@ -951,11 +951,7 @@
       "slug": "house-cleaner-in-seattle-wa?",
       "top": [
         {
-          "name": "Rain City Maids",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "Northlane Clean",
+          "name": "Seatown Cleaners",
           "mention_rate": 1.0
         },
         {
@@ -967,7 +963,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Seatown Cleaners",
+          "name": "Northlane Clean",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Rain City Maids",
           "mention_rate": 1.0
         },
         {
@@ -1023,7 +1023,7 @@
           "mention_rate": 0.06
         },
         {
-          "name": "Houzz",
+          "name": "Angi",
           "mention_rate": 0.06
         }
       ]
@@ -1083,11 +1083,11 @@
       "slug": "landscaper-in-brisbane-australia",
       "top": [
         {
-          "name": "Human Nature Landscapes",
+          "name": "Designer Image",
           "mention_rate": 0.8
         },
         {
-          "name": "Designer Image",
+          "name": "Human Nature Landscapes",
           "mention_rate": 0.8
         },
         {
@@ -1103,11 +1103,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Brisbane Gardening and Landscaping",
+          "name": "EcoQuiet Mowing & Garden Care Brisbane",
           "mention_rate": 0.3
         },
         {
-          "name": "EcoQuiet Mowing & Garden Care Brisbane",
+          "name": "Brisbane Gardening and Landscaping",
           "mention_rate": 0.3
         },
         {
@@ -1135,11 +1135,11 @@
           "mention_rate": 0.89
         },
         {
-          "name": "Aboveground Landscapes",
+          "name": "Martin Brothers",
           "mention_rate": 0.89
         },
         {
-          "name": "Martin Brothers",
+          "name": "Aboveground Landscapes",
           "mention_rate": 0.89
         },
         {
@@ -1251,11 +1251,11 @@
           "mention_rate": 0.31
         },
         {
-          "name": "Beary Landscaping",
+          "name": "Chicago Specialty Gardens",
           "mention_rate": 0.31
         },
         {
-          "name": "Chicago Specialty Gardens",
+          "name": "Beary Landscaping",
           "mention_rate": 0.31
         },
         {
@@ -1399,7 +1399,7 @@
           "mention_rate": 0.23
         },
         {
-          "name": "Hipages",
+          "name": "Love It Landscaping",
           "mention_rate": 0.23
         },
         {
@@ -1407,7 +1407,7 @@
           "mention_rate": 0.23
         },
         {
-          "name": "Love It Landscaping",
+          "name": "Hipages",
           "mention_rate": 0.23
         }
       ]
@@ -1423,11 +1423,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Garden More Landscaping",
+          "name": "Ian Barker Gardens",
           "mention_rate": 0.58
         },
         {
-          "name": "Ian Barker Gardens",
+          "name": "Garden More Landscaping",
           "mention_rate": 0.58
         },
         {
@@ -1487,11 +1487,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Paradise Hardscapes",
+          "name": "Best of Houzz",
           "mention_rate": 0.2
         },
         {
-          "name": "Best of Houzz",
+          "name": "Paradise Hardscapes",
           "mention_rate": 0.2
         },
         {
@@ -1579,11 +1579,11 @@
           "mention_rate": 0.26
         },
         {
-          "name": "Seattle Times Best in PNW Nominee",
+          "name": "New Life Rockeries",
           "mention_rate": 0.05
         },
         {
-          "name": "New Life Rockeries",
+          "name": "Seattle Times Best in PNW Nominee",
           "mention_rate": 0.05
         },
         {
@@ -1595,7 +1595,7 @@
           "mention_rate": 0.05
         },
         {
-          "name": "Licensing, insurance, and estimate responsiveness",
+          "name": "Houzz-listed Seattle professionals",
           "mention_rate": 0.05
         },
         {
@@ -1647,7 +1647,7 @@
           "mention_rate": 0.11
         },
         {
-          "name": "Urban Oasis Design & Construction LLC",
+          "name": "Angi",
           "mention_rate": 0.11
         }
       ]
@@ -1707,27 +1707,27 @@
       "slug": "landscaper-in-sydney-australia?",
       "top": [
         {
-          "name": "NBG Landscapes",
-          "mention_rate": 0.91
-        },
-        {
           "name": "Love Landscapes",
           "mention_rate": 0.91
         },
         {
-          "name": "Dr Garden",
-          "mention_rate": 0.73
+          "name": "NBG Landscapes",
+          "mention_rate": 0.91
         },
         {
           "name": "Sydney Landscaping Pty Ltd",
           "mention_rate": 0.73
         },
         {
-          "name": "Master Groups",
-          "mention_rate": 0.55
+          "name": "Dr Garden",
+          "mention_rate": 0.73
         },
         {
           "name": "Concept Landscaping",
+          "mention_rate": 0.55
+        },
+        {
+          "name": "Master Groups",
           "mention_rate": 0.55
         },
         {
@@ -1735,11 +1735,11 @@
           "mention_rate": 0.36
         },
         {
-          "name": "Hipages",
+          "name": "Dr. Garden",
           "mention_rate": 0.18
         },
         {
-          "name": "Dr. Garden",
+          "name": "Hipages",
           "mention_rate": 0.18
         },
         {
