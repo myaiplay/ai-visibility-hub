@@ -27,7 +27,7 @@ utm: index_page
 | 7 | Austin Creative Landscaping | 11% |
 | 8 | ABC Home & Commercial Services | 6% |
 | 9 | Maas Verde | 6% |
-| 10 | Angi | 6% |
+| 10 | Houzz | 6% |
 
 *Based on 18 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

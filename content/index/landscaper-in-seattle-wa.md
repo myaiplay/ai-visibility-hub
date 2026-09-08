@@ -27,7 +27,7 @@ utm: index_page
 | 7 | Devonshire Landscapes | 5% |
 | 8 | Seattle Gardening Co. | 5% |
 | 9 | Houzz-listed Seattle professionals | 5% |
-| 10 | Review volume and rating | 5% |
+| 10 | Licensing, insurance, and estimate responsiveness | 5% |
 
 *Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

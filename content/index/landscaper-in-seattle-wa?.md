@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Seattle, WA??"
-description: "We ran 18 recorded AI search tests for landscaper in Seattle, WA?. These businesses get named most often."
+description: "We ran 19 recorded AI search tests for landscaper in Seattle, WA?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Seattle, WA?", "description": "Recorded AI search test results (18 runs) showing which businesses AI engines name for landscaper in Seattle, WA?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-seattle-wa?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Seattle, WA?", "description": "Recorded AI search test results (19 runs) showing which businesses AI engines name for landscaper in Seattle, WA?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-seattle-wa?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Seattle, WA??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Seattle, WA?", "who should I hire for landscaper services near Seattle, WA??") across 18 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Seattle, WA?", "who should I hire for landscaper services near Seattle, WA??") across 19 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Seattle Sustainable Landscapes | 94% |
-| 2 | Devonshire Landscapes Inc | 78% |
-| 3 | Eagle Rock Landscaping Inc. | 67% |
-| 4 | Landcrafters | 33% |
-| 5 | Seattle Gardening Co. | 22% |
-| 6 | New Life Rockeries & Retaining Walls | 17% |
-| 7 | Houzz | 17% |
-| 8 | Economy Landscaping | 17% |
+| 1 | Seattle Sustainable Landscapes | 95% |
+| 2 | Devonshire Landscapes Inc | 79% |
+| 3 | Eagle Rock Landscaping Inc. | 68% |
+| 4 | Landcrafters | 32% |
+| 5 | Seattle Gardening Co. | 21% |
+| 6 | Economy Landscaping | 21% |
+| 7 | New Life Rockeries & Retaining Walls | 16% |
+| 8 | Houzz | 16% |
 | 9 | Devonshire Landscapes Inc. | 11% |
-| 10 | Angi | 11% |
+| 10 | Seattle landscaping services | 11% |
 
-*Based on 18 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for house cleaner in Austin, TX?"
-description: "We ran 6 recorded AI search tests for house cleaner in Austin, TX. These businesses get named most often."
+description: "We ran 7 recorded AI search tests for house cleaner in Austin, TX. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Austin, TX", "description": "Recorded AI search test results (6 runs) showing which businesses AI engines name for house cleaner in Austin, TX.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-austin-tx/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Austin, TX", "description": "Recorded AI search test results (7 runs) showing which businesses AI engines name for house cleaner in Austin, TX.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-austin-tx/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a house cleaner in Austin, TX?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Austin, TX", "who should I hire for house cleaner services near Austin, TX?") across 6 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Austin, TX", "who should I hire for house cleaner services near Austin, TX?") across 7 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Sparkly Maid Austin Cleaning Services | 83% |
-| 2 | Eleven Friends of Grumpy Brush | 83% |
-| 3 | Tidy Hands Cleaners | 50% |
-| 4 | Maids and Moore | 50% |
-| 5 | DF CLEANING LLC | 17% |
-| 6 | Mystik Cleaning Service | 17% |
-| 7 | Trustworthy Cleaning Services | 17% |
-| 8 | Purple Fig Eco Cleaning Co. | 17% |
-| 9 | Austin Cleaning Crew | 17% |
-| 10 | MoreHands Maid Service | 17% |
+| 1 | Sparkly Maid Austin Cleaning Services | 86% |
+| 2 | Eleven Friends of Grumpy Brush | 86% |
+| 3 | Tidy Hands Cleaners | 57% |
+| 4 | Maids and Moore | 43% |
+| 5 | Mystik Cleaning Service | 29% |
+| 6 | DF CLEANING LLC | 29% |
+| 7 | Austin Cleaning Crew | 14% |
+| 8 | Purple Fig Eco Cleaning Co. | 14% |
+| 9 | Trustworthy Cleaning Services | 14% |
+| 10 | MoreHands Maid Service | 14% |
 
-*Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
