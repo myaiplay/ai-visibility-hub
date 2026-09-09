@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Melbourne, Australia?"
-description: "We ran 14 recorded AI search tests for landscaper in Melbourne, Australia. These businesses get named most often."
+description: "We ran 15 recorded AI search tests for landscaper in Melbourne, Australia. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Melbourne, Australia", "description": "Recorded AI search test results (14 runs) showing which businesses AI engines name for landscaper in Melbourne, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-melbourne-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Melbourne, Australia", "description": "Recorded AI search test results (15 runs) showing which businesses AI engines name for landscaper in Melbourne, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-melbourne-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Melbourne, Australia?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Melbourne, Australia", "who should I hire for landscaper services near Melbourne, Australia?") across 14 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Melbourne, Australia", "who should I hire for landscaper services near Melbourne, Australia?") across 15 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Ian Barker Gardens | 57% |
-| 2 | Oneflare | 57% |
-| 3 | Grassroots Landscaping & Maintenance | 50% |
-| 4 | Augusta Lawn Care | 36% |
-| 5 | Melbourne Decking and Landscaping | 36% |
-| 6 | Garden More Landscaping | 36% |
-| 7 | Artificial Lawn Melbourne | 21% |
-| 8 | Hipages | 21% |
-| 9 | Bark | 21% |
-| 10 | Love It Landscaping | 21% |
+| 1 | Ian Barker Gardens | 60% |
+| 2 | Oneflare | 60% |
+| 3 | Grassroots Landscaping & Maintenance | 47% |
+| 4 | Garden More Landscaping | 40% |
+| 5 | Melbourne Decking and Landscaping | 33% |
+| 6 | Augusta Lawn Care | 33% |
+| 7 | Love It Landscaping | 27% |
+| 8 | Artificial Lawn Melbourne | 20% |
+| 9 | Bark | 20% |
+| 10 | Bayside Landscaping | 20% |
 
-*Based on 14 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 15 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

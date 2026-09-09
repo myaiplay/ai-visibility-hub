@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for house cleaner in Denver, CO??"
-description: "We ran 8 recorded AI search tests for house cleaner in Denver, CO?. These businesses get named most often."
+description: "We ran 9 recorded AI search tests for house cleaner in Denver, CO?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Denver, CO?", "description": "Recorded AI search test results (8 runs) showing which businesses AI engines name for house cleaner in Denver, CO?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-denver-co?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Denver, CO?", "description": "Recorded AI search test results (9 runs) showing which businesses AI engines name for house cleaner in Denver, CO?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-denver-co?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a house cleaner in Denver, CO??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Denver, CO?", "who should I hire for house cleaner services near Denver, CO??") across 8 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Denver, CO?", "who should I hire for house cleaner services near Denver, CO??") across 9 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Alpine Maids | 100% |
-| 2 | The Maids | 88% |
-| 3 | Merit Maids | 88% |
-| 4 | MaidPro Denver | 88% |
-| 5 | Neat N Tidy | 25% |
-| 6 | Denver-based local business | 12% |
-| 7 | Kathy Clean | 12% |
-| 8 | Denver and surrounding areas | 12% |
-| 9 | Superb Maids | 12% |
-| 10 | Taskrabbit | 12% |
+| 2 | Merit Maids | 89% |
+| 3 | MaidPro Denver | 89% |
+| 4 | The Maids | 89% |
+| 5 | Kathy Clean | 22% |
+| 6 | Neat N Tidy | 22% |
+| 7 | Denver and surrounding areas | 11% |
+| 8 | Denver-based local business | 11% |
+| 9 | Superb Maids | 11% |
+| 10 | Read verified reviews | 11% |
 
-*Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 9 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

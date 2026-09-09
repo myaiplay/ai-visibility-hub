@@ -26,8 +26,8 @@ utm: index_page
 | 6 | Dr. Jessica Mehta | 12% |
 | 7 | Always There Dental Care | 12% |
 | 8 | WebMD | 12% |
-| 9 | Chicago Style Smiles | 12% |
-| 10 | Healthgrades | 12% |
+| 9 | Healthgrades | 12% |
+| 10 | Chicago Style Smiles | 12% |
 
 *Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
