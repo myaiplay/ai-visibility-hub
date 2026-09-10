@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Brisbane, Australia?"
-description: "We ran 12 recorded AI search tests for landscaper in Brisbane, Australia. These businesses get named most often."
+description: "We ran 13 recorded AI search tests for landscaper in Brisbane, Australia. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Brisbane, Australia", "description": "Recorded AI search test results (12 runs) showing which businesses AI engines name for landscaper in Brisbane, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-brisbane-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Brisbane, Australia", "description": "Recorded AI search test results (13 runs) showing which businesses AI engines name for landscaper in Brisbane, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-brisbane-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Brisbane, Australia?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Brisbane, Australia", "who should I hire for landscaper services near Brisbane, Australia?") across 12 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Brisbane, Australia", "who should I hire for landscaper services near Brisbane, Australia?") across 13 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Human Nature Landscapes | 83% |
-| 2 | Designer Image | 83% |
-| 3 | Logan Lawn Mowing & Garden Care | 58% |
-| 4 | Mow on lawn solutions | 42% |
-| 5 | BGL Services | 42% |
-| 6 | Brisbane Gardening and Landscaping | 33% |
-| 7 | EcoQuiet Mowing & Garden Care Brisbane | 33% |
-| 8 | Clare James Landscape Design | 25% |
-| 9 | Highly Commended | 25% |
-| 10 | Award Finalists | 17% |
+| 1 | Human Nature Landscapes | 85% |
+| 2 | Designer Image | 77% |
+| 3 | Logan Lawn Mowing & Garden Care | 54% |
+| 4 | BGL Services | 46% |
+| 5 | Mow on lawn solutions | 38% |
+| 6 | EcoQuiet Mowing & Garden Care Brisbane | 31% |
+| 7 | Brisbane Gardening and Landscaping | 31% |
+| 8 | Clare James Landscape Design | 23% |
+| 9 | Highly Commended | 23% |
+| 10 | Award Finalists | 15% |
 
-*Based on 12 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 13 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

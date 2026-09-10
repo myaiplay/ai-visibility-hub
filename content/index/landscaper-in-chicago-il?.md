@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Chicago, IL??"
-description: "We ran 18 recorded AI search tests for landscaper in Chicago, IL?. These businesses get named most often."
+description: "We ran 19 recorded AI search tests for landscaper in Chicago, IL?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Chicago, IL?", "description": "Recorded AI search test results (18 runs) showing which businesses AI engines name for landscaper in Chicago, IL?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-chicago-il?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Chicago, IL?", "description": "Recorded AI search test results (19 runs) showing which businesses AI engines name for landscaper in Chicago, IL?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-chicago-il?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Chicago, IL??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Chicago, IL?", "who should I hire for landscaper services near Chicago, IL??") across 18 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Chicago, IL?", "who should I hire for landscaper services near Chicago, IL??") across 19 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Christy Webber Landscapes | 100% |
-| 2 | Mariani Landscape | 78% |
-| 3 | Topiarius | 56% |
-| 4 | Cityscape Landscape LLC | 44% |
-| 5 | Cityscape Landscape | 39% |
-| 6 | Chicago Specialty Gardens | 39% |
-| 7 | LawnStarter | 28% |
-| 8 | Patch Landscaping | 28% |
-| 9 | Grant & Power Landscaping | 28% |
-| 10 | Beary Landscaping | 28% |
+| 2 | Mariani Landscape | 79% |
+| 3 | Topiarius | 53% |
+| 4 | Cityscape Landscape LLC | 47% |
+| 5 | Chicago Specialty Gardens | 42% |
+| 6 | Cityscape Landscape | 37% |
+| 7 | Grant & Power Landscaping | 32% |
+| 8 | LawnStarter | 26% |
+| 9 | Patch Landscaping | 26% |
+| 10 | Beary Landscaping | 26% |
 
-*Based on 18 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
