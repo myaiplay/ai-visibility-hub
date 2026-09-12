@@ -2,48 +2,41 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-09-11
+date: 2026-09-12
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 11 September 2026, 03:30 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 12 September 2026, 03:29 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $1.33 | $5.00/mo |
-| X posts | 10 | 31/mo |
+| Data engine (Perplexity) | $1.45 | $5.00/mo |
+| X posts | 11 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
 ## Coverage
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 26 |
-| Buyer prompts tested | 504 |
-| Stat pages live | 41 |
+| Test days recorded | 27 |
+| Buyer prompts tested | 524 |
+| Stat pages live | 42 |
 | Articles syndicated to Dev.to | 11 |
-| Bluesky posts made | 0 (last: 10 Sep, 13:48 UTC) |
+| Bluesky posts made | 1 (last: 11 Sep, 13:48 UTC) |
 
 ## Traffic
 
 | Signal | Value |
 |---|---|
-| Hub pageviews (14d) | 5 |
-| Hub visits (14d) | 5 |
 | Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 2 |
 |   top page: /ai-visibility-hub/articles/ai-crawler-robots-txt- | 1 |
-|   top page: /ai-visibility-hub | 1 |
-|   top page: /ai-visibility-hub/dashboard | 1 |
-|   referrer:  | 1 |
+|   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 1 |
 |   referrer: www.bing.com | 1 |
 |   referrer: go.bsky.app | 1 |
-|   referrer: myaiplay.github.io/ai-visibility-hub/articles/why- | 1 |
-|   referrer: myaiplay.github.io/ai-visibility-hub | 1 |
 | Dev.to article views | 16 |
 | Dev.to reactions | 0 |
 | Bluesky followers | 1 |
@@ -52,9 +45,9 @@ date: 2026-09-11
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Sat 12 Sep, 03:17 local |
-| Bluesky post | Fri 11 Sep, 13:37 local |
-| X post | Fri 11 Sep, 21:43 local |
+| Data engine (12 AI tests) | Sun 13 Sep, 03:17 local |
+| Bluesky post | Sat 12 Sep, 13:37 local |
+| X post | Sat 12 Sep, 21:43 local |
 | Dev.to catch-up | Mon 14 Sep, 05:11 local |
 | Weekly data article | Mon 14 Sep, 06:07 local |
 | Weekly report | Sun 13 Sep, 18:22 local |

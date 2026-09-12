@@ -24,10 +24,10 @@ utm: index_page
 | 4 | ATX Family Dental | 80% |
 | 5 | Grove Austin Family Dentistry | 80% |
 | 6 | Austin Artistic Dental | 60% |
-| 7 | David J. Gordon II, DDS | 60% |
-| 8 | Tech Ridge Dental | 60% |
+| 7 | Tech Ridge Dental | 60% |
+| 8 | David J. Gordon II, DDS | 60% |
 | 9 | Toothbar | 40% |
-| 10 | Swish Dental Downtown | 20% |
+| 10 | Vesga Advanced Proodontics | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

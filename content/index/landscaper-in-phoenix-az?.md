@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Phoenix, AZ??"
-description: "We ran 18 recorded AI search tests for landscaper in Phoenix, AZ?. These businesses get named most often."
+description: "We ran 19 recorded AI search tests for landscaper in Phoenix, AZ?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Phoenix, AZ?", "description": "Recorded AI search test results (18 runs) showing which businesses AI engines name for landscaper in Phoenix, AZ?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-phoenix-az?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Phoenix, AZ?", "description": "Recorded AI search test results (19 runs) showing which businesses AI engines name for landscaper in Phoenix, AZ?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-phoenix-az?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Phoenix, AZ??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Phoenix, AZ?", "who should I hire for landscaper services near Phoenix, AZ??") across 18 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Phoenix, AZ?", "who should I hire for landscaper services near Phoenix, AZ??") across 19 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | R&R Landscaping & Outdoor Design | 67% |
-| 2 | E&E Landscape Services | 56% |
-| 3 | Valley of the Sun Landscaping | 50% |
-| 4 | Divine Design Landscaping | 50% |
-| 5 | Masterscapes LLC | 44% |
-| 6 | Family Landscaping LLC | 44% |
-| 7 | Tree Pros | 39% |
-| 8 | Diamond Stone & Synthetic Grass | 33% |
-| 9 | Unwind Landscapes | 22% |
-| 10 | BIG BOSS Landscape | 22% |
+| 1 | R&R Landscaping & Outdoor Design | 63% |
+| 2 | E&E Landscape Services | 53% |
+| 3 | Valley of the Sun Landscaping | 47% |
+| 4 | Divine Design Landscaping | 47% |
+| 5 | Masterscapes LLC | 42% |
+| 6 | Family Landscaping LLC | 42% |
+| 7 | Tree Pros | 37% |
+| 8 | Diamond Stone & Synthetic Grass | 32% |
+| 9 | Unwind Landscapes | 21% |
+| 10 | BIG BOSS Landscape | 21% |
 
-*Based on 18 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
