@@ -27,7 +27,7 @@ utm: index_page
 | 7 | New Life Rockeries & Retaining Walls | 16% |
 | 8 | Houzz | 16% |
 | 9 | Devonshire Landscapes Inc. | 11% |
-| 10 | Seattle landscaping services | 11% |
+| 10 | Urban Oasis Design & Construction LLC | 11% |
 
 *Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

@@ -22,12 +22,12 @@ utm: index_page
 | 2 | New Life Rockeries & Retaining Walls | 79% |
 | 3 | Urban Oasis Design & Construction LLC | 74% |
 | 4 | Seattle Times Best in PNW nominee | 26% |
-| 5 | Seattle Times Best in PNW Nominee | 5% |
-| 6 | New Life Rockeries | 5% |
+| 5 | New Life Rockeries | 5% |
+| 6 | Seattle Times Best in PNW Nominee | 5% |
 | 7 | Devonshire Landscapes | 5% |
 | 8 | Seattle Gardening Co. | 5% |
-| 9 | Houzz-listed Seattle professionals | 5% |
-| 10 | Review volume and rating | 5% |
+| 9 | Review volume and rating | 5% |
+| 10 | Licensing, insurance, and estimate responsiveness | 5% |
 
 *Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

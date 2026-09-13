@@ -24,8 +24,8 @@ utm: index_page
 | 4 | Dental Care Seattle | 43% |
 | 5 | ICHS Dental Care | 43% |
 | 6 | Sage Family Dental | 43% |
-| 7 | Roosevelt Dental | 14% |
-| 8 | Seattle, WA 98115 | 14% |
+| 7 | Seattle, WA 98115 | 14% |
+| 8 | Roosevelt Dental | 14% |
 | 9 | Top Dentists | 14% |
 | 10 | A highly rated Seattle practice | 14% |
 
