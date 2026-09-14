@@ -19,15 +19,15 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | MaidPro Phoenix | 100% |
-| 2 | The Maids | 100% |
-| 3 | Tidy Casa | 100% |
+| 2 | Tidy Casa | 100% |
+| 3 | The Maids | 100% |
 | 4 | De La Rosa House Cleaning | 67% |
 | 5 | Muck Maids | 67% |
 | 6 | The Cleaning Authority | 33% |
 | 7 | What is included | 17% |
 | 8 | Verified reviews | 17% |
 | 9 | Maid Brigade | 17% |
-| 10 | Budget | 17% |
+| 10 | Service type | 17% |
 
 *Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

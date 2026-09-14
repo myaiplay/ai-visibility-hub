@@ -23,11 +23,11 @@ utm: index_page
 | 3 | Maid in Melbourne | 60% |
 | 4 | Airtasker | 40% |
 | 5 | Cleaning Professionals | 40% |
-| 6 | Clean House Melbourne | 40% |
-| 7 | Word of Mouth | 40% |
-| 8 | Airtasker cleaners in Melbourne | 20% |
-| 9 | Airtasker-rated cleaners | 20% |
-| 10 | Squeaky Lemon | 20% |
+| 6 | Word of Mouth | 40% |
+| 7 | Clean House Melbourne | 40% |
+| 8 | Squeaky Lemon | 20% |
+| 9 | Airtasker cleaners in Melbourne | 20% |
+| 10 | Airtasker-rated cleaners | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

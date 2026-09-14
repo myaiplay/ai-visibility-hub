@@ -23,11 +23,11 @@ utm: index_page
 | 3 | Sweep Home Chicago | 62% |
 | 4 | King of Maids | 50% |
 | 5 | Fresh Tech Maid | 38% |
-| 6 | MaidPro Chicago-Lincoln Park | 25% |
-| 7 | Care.com | 25% |
-| 8 | Sparkly Maid | 25% |
-| 9 | Sparkly Maid Chicago | 25% |
-| 10 | Best Maids | 25% |
+| 6 | Care.com | 25% |
+| 7 | MaidPro Chicago-Lincoln Park | 25% |
+| 8 | Sparkly Maid Chicago | 25% |
+| 9 | Best Maids | 25% |
+| 10 | Sparkly Maid | 25% |
 
 *Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

@@ -55,11 +55,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "North Austin Dentistry",
+          "name": "ATX Family Dental",
           "mention_rate": 0.8
         },
         {
-          "name": "ATX Family Dental",
+          "name": "North Austin Dentistry",
           "mention_rate": 0.8
         },
         {
@@ -95,7 +95,7 @@
       "slug": "dentist-in-brisbane-australia",
       "top": [
         {
-          "name": "Brisbane Dental",
+          "name": "North Brisbane Dental Clinic",
           "mention_rate": 1.0
         },
         {
@@ -103,7 +103,7 @@
           "mention_rate": 1.0
         },
         {
-          "name": "North Brisbane Dental Clinic",
+          "name": "Brisbane Dental",
           "mention_rate": 1.0
         },
         {
@@ -219,15 +219,15 @@
           "mention_rate": 0.12
         },
         {
+          "name": "Chicago Style Smiles",
+          "mention_rate": 0.12
+        },
+        {
           "name": "Healthgrades",
           "mention_rate": 0.12
         },
         {
           "name": "WebMD",
-          "mention_rate": 0.12
-        },
-        {
-          "name": "Chicago Style Smiles",
           "mention_rate": 0.12
         }
       ]
@@ -267,11 +267,11 @@
           "mention_rate": 0.33
         },
         {
-          "name": "All in One Dentistry",
+          "name": "DentArt Chicago",
           "mention_rate": 0.22
         },
         {
-          "name": "DentArt Chicago",
+          "name": "All in One Dentistry",
           "mention_rate": 0.22
         },
         {
@@ -299,7 +299,7 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Wynkoop Dentistry",
+          "name": "Dental Elements",
           "mention_rate": 0.67
         },
         {
@@ -307,7 +307,7 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Dental Elements",
+          "name": "Wynkoop Dentistry",
           "mention_rate": 0.67
         },
         {
@@ -323,7 +323,7 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Need",
+          "name": "OG Dental",
           "mention_rate": 0.33
         }
       ]
@@ -355,11 +355,11 @@
           "mention_rate": 0.55
         },
         {
-          "name": "Melbourne Dental Group",
+          "name": "Best Overall",
           "mention_rate": 0.27
         },
         {
-          "name": "Best Overall",
+          "name": "Melbourne Dental Group",
           "mention_rate": 0.27
         },
         {
@@ -371,7 +371,7 @@
           "mention_rate": 0.09
         },
         {
-          "name": "Location",
+          "name": "Hours",
           "mention_rate": 0.09
         }
       ]
@@ -383,11 +383,11 @@
       "slug": "dentist-in-melbourne-australia?",
       "top": [
         {
-          "name": "MC Dental",
+          "name": "Smile Solutions",
           "mention_rate": 1.0
         },
         {
-          "name": "Smile Solutions",
+          "name": "MC Dental",
           "mention_rate": 1.0
         },
         {
@@ -403,11 +403,11 @@
           "mention_rate": 0.36
         },
         {
-          "name": "Australian Dentists Clinic",
+          "name": "Word of Mouth",
           "mention_rate": 0.18
         },
         {
-          "name": "Word of Mouth",
+          "name": "Australian Dentists Clinic",
           "mention_rate": 0.18
         },
         {
@@ -415,11 +415,11 @@
           "mention_rate": 0.18
         },
         {
-          "name": "Location",
+          "name": "Availability",
           "mention_rate": 0.18
         },
         {
-          "name": "Availability",
+          "name": "Location",
           "mention_rate": 0.18
         }
       ]
@@ -447,11 +447,11 @@
           "mention_rate": 0.2
         },
         {
-          "name": "Specialty",
+          "name": "Insurance acceptance",
           "mention_rate": 0.2
         },
         {
-          "name": "Insurance acceptance",
+          "name": "Specialty",
           "mention_rate": 0.2
         },
         {
@@ -467,7 +467,7 @@
           "mention_rate": 0.1
         },
         {
-          "name": "WebMD",
+          "name": "Phoenix Magazine Top Dentist profiles",
           "mention_rate": 0.1
         }
       ]
@@ -491,6 +491,10 @@
           "mention_rate": 0.4
         },
         {
+          "name": "North Mountain Dentistry",
+          "mention_rate": 0.4
+        },
+        {
           "name": "Life Smiles Dental Care",
           "mention_rate": 0.4
         },
@@ -499,15 +503,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "North Mountain Dentistry",
-          "mention_rate": 0.4
-        },
-        {
-          "name": "Downtown Phoenix Dental",
+          "name": "Phoenician Dentistry",
           "mention_rate": 0.3
         },
         {
-          "name": "Phoenician Dentistry",
+          "name": "Downtown Phoenix Dental",
           "mention_rate": 0.3
         },
         {
@@ -527,6 +527,10 @@
       "slug": "dentist-in-seattle-wa",
       "top": [
         {
+          "name": "Dr. Chris Pickel",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Dr. Anthony A. Santorsola",
           "mention_rate": 1.0
         },
@@ -539,23 +543,15 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Dr. Chris Pickel",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Seattle Met Top Dentists 2026",
           "mention_rate": 0.33
-        },
-        {
-          "name": "Top Dentists 2026",
-          "mention_rate": 0.17
         },
         {
           "name": "North Seattle Dental",
           "mention_rate": 0.17
         },
         {
-          "name": "Location and convenience",
+          "name": "Top Dentists 2026",
           "mention_rate": 0.17
         },
         {
@@ -564,6 +560,10 @@
         },
         {
           "name": "Insurance acceptance",
+          "mention_rate": 0.17
+        },
+        {
+          "name": "Location and convenience",
           "mention_rate": 0.17
         }
       ]
@@ -599,11 +599,11 @@
           "mention_rate": 0.43
         },
         {
-          "name": "Seattle, WA 98115",
+          "name": "Roosevelt Dental",
           "mention_rate": 0.14
         },
         {
-          "name": "Roosevelt Dental",
+          "name": "Seattle, WA 98115",
           "mention_rate": 0.14
         },
         {
@@ -611,7 +611,7 @@
           "mention_rate": 0.14
         },
         {
-          "name": "Low-cost or community dental care",
+          "name": "General family dentistry",
           "mention_rate": 0.14
         }
       ]
@@ -623,11 +623,11 @@
       "slug": "dentist-in-sydney-australia",
       "top": [
         {
-          "name": "Quay Dental Clinic",
+          "name": "Pitt Street Dental Centre",
           "mention_rate": 1.0
         },
         {
-          "name": "Pitt Street Dental Centre",
+          "name": "Quay Dental Clinic",
           "mention_rate": 1.0
         },
         {
@@ -635,11 +635,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Spa Dental Sydney CBD",
+          "name": "Sydney CBD Dentistry",
           "mention_rate": 0.5
         },
         {
-          "name": "Sydney CBD Dentistry",
+          "name": "Spa Dental Sydney CBD",
           "mention_rate": 0.5
         },
         {
@@ -651,15 +651,15 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Darlinghurst Smiles",
-          "mention_rate": 0.17
-        },
-        {
           "name": "No Gaps Dental Sydney CBD Haymarket",
           "mention_rate": 0.17
         },
         {
           "name": "Aglow Dental Group",
+          "mention_rate": 0.17
+        },
+        {
+          "name": "Green Apple Dental Care CBD",
           "mention_rate": 0.17
         }
       ]
@@ -699,11 +699,11 @@
           "mention_rate": 0.23
         },
         {
-          "name": "The Paddington Dental Surgery",
+          "name": "Emergency Dentist Sydney",
           "mention_rate": 0.15
         },
         {
-          "name": "Emergency Dentist Sydney",
+          "name": "The Paddington Dental Surgery",
           "mention_rate": 0.15
         },
         {
@@ -719,11 +719,11 @@
       "slug": "house-cleaner-in-austin-tx",
       "top": [
         {
-          "name": "Sparkly Maid Austin Cleaning Services",
+          "name": "Eleven Friends of Grumpy Brush",
           "mention_rate": 0.92
         },
         {
-          "name": "Eleven Friends of Grumpy Brush",
+          "name": "Sparkly Maid Austin Cleaning Services",
           "mention_rate": 0.92
         },
         {
@@ -731,19 +731,19 @@
           "mention_rate": 0.46
         },
         {
-          "name": "DF CLEANING LLC",
-          "mention_rate": 0.38
-        },
-        {
           "name": "Mystik Cleaning Service",
           "mention_rate": 0.38
         },
         {
-          "name": "MoreHands Maid Service",
-          "mention_rate": 0.31
+          "name": "DF CLEANING LLC",
+          "mention_rate": 0.38
         },
         {
           "name": "Maids and Moore",
+          "mention_rate": 0.31
+        },
+        {
+          "name": "MoreHands Maid Service",
           "mention_rate": 0.31
         },
         {
@@ -779,7 +779,7 @@
           "mention_rate": 0.67
         },
         {
-          "name": "DF CLEANING LLC",
+          "name": "Eleven Friends of Grumpy Brush",
           "mention_rate": 0.58
         },
         {
@@ -787,7 +787,7 @@
           "mention_rate": 0.58
         },
         {
-          "name": "Eleven Friends of Grumpy Brush",
+          "name": "DF CLEANING LLC",
           "mention_rate": 0.58
         },
         {
@@ -883,15 +883,11 @@
           "mention_rate": 0.38
         },
         {
-          "name": "MaidPro Chicago-Lincoln Park",
-          "mention_rate": 0.25
-        },
-        {
           "name": "Care.com",
           "mention_rate": 0.25
         },
         {
-          "name": "Sparkly Maid",
+          "name": "MaidPro Chicago-Lincoln Park",
           "mention_rate": 0.25
         },
         {
@@ -900,6 +896,10 @@
         },
         {
           "name": "Best Maids",
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Sparkly Maid",
           "mention_rate": 0.25
         }
       ]
@@ -959,15 +959,15 @@
       "slug": "house-cleaner-in-denver-co?",
       "top": [
         {
-          "name": "MaidPro Denver",
-          "mention_rate": 0.93
-        },
-        {
           "name": "Alpine Maids",
           "mention_rate": 0.93
         },
         {
           "name": "The Maids",
+          "mention_rate": 0.93
+        },
+        {
+          "name": "MaidPro Denver",
           "mention_rate": 0.93
         },
         {
@@ -991,11 +991,11 @@
           "mention_rate": 0.14
         },
         {
-          "name": "Denver and surrounding areas",
+          "name": "Denver-based local business",
           "mention_rate": 0.07
         },
         {
-          "name": "Denver-based local business",
+          "name": "Denver and surrounding areas",
           "mention_rate": 0.07
         }
       ]
@@ -1027,12 +1027,16 @@
           "mention_rate": 0.4
         },
         {
+          "name": "Word of Mouth",
+          "mention_rate": 0.4
+        },
+        {
           "name": "Clean House Melbourne",
           "mention_rate": 0.4
         },
         {
-          "name": "Word of Mouth",
-          "mention_rate": 0.4
+          "name": "Squeaky Lemon",
+          "mention_rate": 0.2
         },
         {
           "name": "Airtasker cleaners in Melbourne",
@@ -1040,10 +1044,6 @@
         },
         {
           "name": "Airtasker-rated cleaners",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Squeaky Lemon",
           "mention_rate": 0.2
         }
       ]
@@ -1055,11 +1055,11 @@
       "slug": "house-cleaner-in-melbourne-australia?",
       "top": [
         {
-          "name": "Maid to Clean",
+          "name": "Inner City Maids",
           "mention_rate": 1.0
         },
         {
-          "name": "Inner City Maids",
+          "name": "Maid to Clean",
           "mention_rate": 1.0
         },
         {
@@ -1151,11 +1151,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "The Maids",
+          "name": "Tidy Casa",
           "mention_rate": 1.0
         },
         {
-          "name": "Tidy Casa",
+          "name": "The Maids",
           "mention_rate": 1.0
         },
         {
@@ -1183,7 +1183,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Budget",
+          "name": "Service type",
           "mention_rate": 0.17
         }
       ]
@@ -1291,19 +1291,19 @@
       "slug": "house-cleaner-in-sydney-australia",
       "top": [
         {
-          "name": "Dash & Shine",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Simply Maid",
           "mention_rate": 1.0
         },
         {
-          "name": "Pristine Home",
-          "mention_rate": 0.67
+          "name": "Dash & Shine",
+          "mention_rate": 1.0
         },
         {
           "name": "Airtasker",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Pristine Home",
           "mention_rate": 0.67
         },
         {
@@ -1311,7 +1311,7 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Insurance coverage",
+          "name": "Price for your home size",
           "mention_rate": 0.33
         },
         {
@@ -1319,7 +1319,7 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Price for your home size",
+          "name": "Insurance coverage",
           "mention_rate": 0.33
         }
       ]
@@ -1551,11 +1551,11 @@
           "mention_rate": 0.16
         },
         {
-          "name": "Urban Roots Inc.",
+          "name": "Chicago Lawn Pros",
           "mention_rate": 0.16
         },
         {
-          "name": "Chicago Lawn Pros",
+          "name": "Urban Roots Inc.",
           "mention_rate": 0.16
         },
         {
@@ -1635,11 +1635,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "C&H Landscaping",
+          "name": "The Fisherman LLC",
           "mention_rate": 0.25
         },
         {
-          "name": "The Fisherman LLC",
+          "name": "C&H Landscaping",
           "mention_rate": 0.25
         },
         {
@@ -1867,11 +1867,11 @@
           "mention_rate": 0.53
         },
         {
-          "name": "Divine Design Landscaping",
+          "name": "Valley of the Sun Landscaping",
           "mention_rate": 0.47
         },
         {
-          "name": "Valley of the Sun Landscaping",
+          "name": "Divine Design Landscaping",
           "mention_rate": 0.47
         },
         {
@@ -1923,11 +1923,11 @@
           "mention_rate": 0.26
         },
         {
-          "name": "Seattle Times Best in PNW Nominee",
+          "name": "New Life Rockeries",
           "mention_rate": 0.05
         },
         {
-          "name": "New Life Rockeries",
+          "name": "Seattle Times Best in PNW Nominee",
           "mention_rate": 0.05
         },
         {
@@ -1991,7 +1991,7 @@
           "mention_rate": 0.11
         },
         {
-          "name": "Seattle landscaping services",
+          "name": "Urban Oasis Design & Construction LLC",
           "mention_rate": 0.11
         }
       ]
@@ -2059,11 +2059,11 @@
           "mention_rate": 0.72
         },
         {
-          "name": "Concept Landscaping",
+          "name": "Love Landscapes",
           "mention_rate": 0.61
         },
         {
-          "name": "Love Landscapes",
+          "name": "Concept Landscaping",
           "mention_rate": 0.61
         },
         {

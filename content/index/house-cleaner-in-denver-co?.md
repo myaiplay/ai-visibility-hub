@@ -18,16 +18,16 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | MaidPro Denver | 93% |
-| 2 | Alpine Maids | 93% |
-| 3 | The Maids | 93% |
+| 1 | Alpine Maids | 93% |
+| 2 | The Maids | 93% |
+| 3 | MaidPro Denver | 93% |
 | 4 | Merit Maids | 86% |
 | 5 | Kathy Clean | 29% |
 | 6 | Thumbtack | 14% |
 | 7 | Care.com | 14% |
 | 8 | Neat N Tidy | 14% |
-| 9 | Denver and surrounding areas | 7% |
-| 10 | Denver-based local business | 7% |
+| 9 | Denver-based local business | 7% |
+| 10 | Denver and surrounding areas | 7% |
 
 *Based on 14 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

@@ -18,8 +18,8 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Maid to Clean | 100% |
-| 2 | Inner City Maids | 100% |
+| 1 | Inner City Maids | 100% |
+| 2 | Maid to Clean | 100% |
 | 3 | Bizzi Beez | 50% |
 | 4 | MyHome | 50% |
 | 5 | Naturo Group | 50% |

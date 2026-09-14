@@ -21,9 +21,9 @@ utm: index_page
 | 1 | Sparkly Maid Austin Cleaning Services | 92% |
 | 2 | Tidy Hands Cleaners | 75% |
 | 3 | MoreHands Maid Service | 67% |
-| 4 | DF CLEANING LLC | 58% |
+| 4 | Eleven Friends of Grumpy Brush | 58% |
 | 5 | Mystik Cleaning Service | 58% |
-| 6 | Eleven Friends of Grumpy Brush | 58% |
+| 6 | DF CLEANING LLC | 58% |
 | 7 | Austin Cleaning Crew | 33% |
 | 8 | Merry Maids South Austin | 33% |
 | 9 | Maids and Moore | 25% |

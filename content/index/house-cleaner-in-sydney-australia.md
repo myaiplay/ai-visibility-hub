@@ -18,14 +18,14 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Dash & Shine | 100% |
-| 2 | Simply Maid | 100% |
-| 3 | Pristine Home | 67% |
-| 4 | Airtasker | 67% |
+| 1 | Simply Maid | 100% |
+| 2 | Dash & Shine | 100% |
+| 3 | Airtasker | 67% |
+| 4 | Pristine Home | 67% |
 | 5 | Airtasker house cleaners | 33% |
-| 6 | Insurance coverage | 33% |
+| 6 | Price for your home size | 33% |
 | 7 | Google reviews and recent review volume | 33% |
-| 8 | Price for your home size | 33% |
+| 8 | Insurance coverage | 33% |
 
 *Based on 3 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
