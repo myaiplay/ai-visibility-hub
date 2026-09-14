@@ -2,19 +2,19 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-09-13
+date: 2026-09-14
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 13 September 2026, 03:29 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 14 September 2026, 03:32 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $1.57 | $5.00/mo |
+| Data engine (Perplexity) | $1.69 | $5.00/mo |
 | X posts | 11 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
@@ -22,19 +22,20 @@ date: 2026-09-13
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 28 |
-| Buyer prompts tested | 544 |
-| Stat pages live | 43 |
+| Test days recorded | 29 |
+| Buyer prompts tested | 564 |
+| Stat pages live | 44 |
 | Articles syndicated to Dev.to | 11 |
-| Bluesky posts made | 2 (last: 12 Sep, 13:45 UTC) |
+| Bluesky posts made | 3 (last: 13 Sep, 13:45 UTC) |
 
 ## Traffic
 
 | Signal | Value |
 |---|---|
 | Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub/articles/ai-crawler-robots-txt- | 1 |
+|   top page: /ai-visibility-hub/articles/ai-crawler-robots-txt- | 3 |
 |   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 1 |
+|   referrer:  | 2 |
 |   referrer: www.bing.com | 1 |
 |   referrer: go.bsky.app | 1 |
 | Dev.to article views | 16 |
@@ -45,12 +46,12 @@ date: 2026-09-13
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Mon 14 Sep, 03:17 local |
-| Bluesky post | Sun 13 Sep, 13:37 local |
-| X post | Sun 13 Sep, 21:43 local |
+| Data engine (12 AI tests) | Tue 15 Sep, 03:17 local |
+| Bluesky post | Mon 14 Sep, 13:37 local |
+| X post | Mon 14 Sep, 21:43 local |
 | Dev.to catch-up | Mon 14 Sep, 05:11 local |
 | Weekly data article | Mon 14 Sep, 06:07 local |
-| Weekly report | Sun 13 Sep, 18:22 local |
+| Weekly report | Sun 20 Sep, 18:22 local |
 
 ## Data
 

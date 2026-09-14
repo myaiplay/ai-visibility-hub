@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for house cleaner in Phoenix, AZ??"
-description: "We ran 5 recorded AI search tests for house cleaner in Phoenix, AZ?. These businesses get named most often."
+description: "We ran 6 recorded AI search tests for house cleaner in Phoenix, AZ?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Phoenix, AZ?", "description": "Recorded AI search test results (5 runs) showing which businesses AI engines name for house cleaner in Phoenix, AZ?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-phoenix-az?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Phoenix, AZ?", "description": "Recorded AI search test results (6 runs) showing which businesses AI engines name for house cleaner in Phoenix, AZ?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-phoenix-az?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a house cleaner in Phoenix, AZ??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Phoenix, AZ?", "who should I hire for house cleaner services near Phoenix, AZ??") across 5 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Phoenix, AZ?", "who should I hire for house cleaner services near Phoenix, AZ??") across 6 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | MaidPro Phoenix | 100% |
-| 2 | Tidy Casa | 100% |
-| 3 | The Maids | 100% |
-| 4 | De La Rosa House Cleaning | 80% |
-| 5 | Muck Maids | 60% |
-| 6 | The Cleaning Authority | 40% |
-| 7 | What is included | 20% |
-| 8 | Verified reviews | 20% |
-| 9 | Maid Brigade | 20% |
-| 10 | Service type | 20% |
+| 2 | The Maids | 100% |
+| 3 | Tidy Casa | 100% |
+| 4 | De La Rosa House Cleaning | 67% |
+| 5 | Muck Maids | 67% |
+| 6 | The Cleaning Authority | 33% |
+| 7 | What is included | 17% |
+| 8 | Verified reviews | 17% |
+| 9 | Maid Brigade | 17% |
+| 10 | Budget | 17% |
 
-*Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
