@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Sydney, Australia??"
-description: "We ran 18 recorded AI search tests for landscaper in Sydney, Australia?. These businesses get named most often."
+description: "We ran 19 recorded AI search tests for landscaper in Sydney, Australia?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Sydney, Australia?", "description": "Recorded AI search test results (18 runs) showing which businesses AI engines name for landscaper in Sydney, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-sydney-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Sydney, Australia?", "description": "Recorded AI search test results (19 runs) showing which businesses AI engines name for landscaper in Sydney, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-sydney-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Sydney, Australia??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Sydney, Australia?", "who should I hire for landscaper services near Sydney, Australia??") across 18 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Sydney, Australia?", "who should I hire for landscaper services near Sydney, Australia??") across 19 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | NBG Landscapes | 89% |
-| 2 | Dr Garden | 72% |
-| 3 | Love Landscapes | 61% |
-| 4 | Concept Landscaping | 61% |
-| 5 | Master Groups | 56% |
-| 6 | Sydney Landscaping Pty Ltd | 56% |
-| 7 | Growing Well | 39% |
-| 8 | Top Sydney Landscaping | 33% |
-| 9 | Lone Pine Landscapes | 28% |
-| 10 | North Sydney Landscapes | 22% |
+| 2 | Dr Garden | 74% |
+| 3 | Concept Landscaping | 58% |
+| 4 | Love Landscapes | 58% |
+| 5 | Master Groups | 53% |
+| 6 | Sydney Landscaping Pty Ltd | 53% |
+| 7 | Growing Well | 42% |
+| 8 | Top Sydney Landscaping | 37% |
+| 9 | Lone Pine Landscapes | 26% |
+| 10 | North Sydney Landscapes | 21% |
 
-*Based on 18 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
