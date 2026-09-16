@@ -23,8 +23,8 @@ utm: index_page
 | 3 | Gorgeous Smiles | 82% |
 | 4 | Core Dental Southbank | 55% |
 | 5 | DENTL East Melbourne | 55% |
-| 6 | Melbourne Dental Group | 27% |
-| 7 | Best Overall | 27% |
+| 6 | Best Overall | 27% |
+| 7 | Melbourne Dental Group | 27% |
 | 8 | CBD convenience | 9% |
 | 9 | Word of Mouth | 9% |
 | 10 | Whether they offer the treatment you need | 9% |

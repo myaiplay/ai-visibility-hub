@@ -25,8 +25,8 @@ utm: index_page
 | 5 | Pitt St Dental Centre | 38% |
 | 6 | AHPRA-registered | 31% |
 | 7 | Dental 99 | 23% |
-| 8 | The Paddington Dental Surgery | 15% |
-| 9 | Emergency Dentist Sydney | 15% |
+| 8 | Emergency Dentist Sydney | 15% |
+| 9 | The Paddington Dental Surgery | 15% |
 | 10 | Sydney | 8% |
 
 *Based on 13 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
