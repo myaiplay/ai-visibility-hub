@@ -2,19 +2,19 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-09-16
+date: 2026-09-17
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 16 September 2026, 03:30 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 17 September 2026, 08:44 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $1.93 | $5.00/mo |
+| Data engine (Perplexity) | $2.05 | $5.00/mo |
 | X posts | 11 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
@@ -22,24 +22,20 @@ date: 2026-09-16
 
 | Metric | Value |
 |---|---|
-| Test days recorded | 31 |
-| Buyer prompts tested | 604 |
-| Stat pages live | 46 |
+| Test days recorded | 32 |
+| Buyer prompts tested | 624 |
+| Stat pages live | 47 |
 | Articles syndicated to Dev.to | 13 |
-| Bluesky posts made | 5 (last: 15 Sep, 13:49 UTC) |
+| Bluesky posts made | 0 (last: 16 Sep, 13:50 UTC) |
 
 ## Traffic
 
 | Signal | Value |
 |---|---|
-| Hub pageviews (14d) | 4 |
-| Hub visits (14d) | 4 |
 | Clicks through to aicantfindme.com (14d) | 0 |
 |   top page: /ai-visibility-hub/articles/ai-crawler-robots-txt- | 3 |
-|   top page: /ai-visibility-hub/articles/why-chatgpt-doesnt-rec | 1 |
 |   referrer:  | 2 |
 |   referrer: www.bing.com | 1 |
-|   referrer: go.bsky.app | 1 |
 | Dev.to article views | 16 |
 | Dev.to reactions | 0 |
 | Bluesky followers | 1 |
@@ -48,9 +44,9 @@ date: 2026-09-16
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Thu 17 Sep, 03:17 local |
-| Bluesky post | Wed 16 Sep, 13:37 local |
-| X post | Wed 16 Sep, 21:43 local |
+| Data engine (12 AI tests) | Fri 18 Sep, 03:17 local |
+| Bluesky post | Thu 17 Sep, 13:37 local |
+| X post | Thu 17 Sep, 21:43 local |
 | Dev.to catch-up | Mon 21 Sep, 05:11 local |
 | Weekly data article | Mon 21 Sep, 06:07 local |
 | Weekly report | Sun 20 Sep, 18:22 local |

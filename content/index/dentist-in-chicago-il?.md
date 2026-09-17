@@ -25,8 +25,8 @@ utm: index_page
 | 5 | Bite Club | 44% |
 | 6 | Howard Brown Health Dental | 33% |
 | 7 | Grand Dentistry Loop | 33% |
-| 8 | DentArt Chicago | 22% |
-| 9 | All in One Dentistry | 22% |
+| 8 | All in One Dentistry | 22% |
+| 9 | DentArt Chicago | 22% |
 | 10 | Dr. Jessica Mehta | 22% |
 
 *Based on 9 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
