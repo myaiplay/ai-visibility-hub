@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for landscaper in Brisbane, Australia??"
-description: "We ran 19 recorded AI search tests for landscaper in Brisbane, Australia?. These businesses get named most often."
+description: "We ran 20 recorded AI search tests for landscaper in Brisbane, Australia?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Brisbane, Australia?", "description": "Recorded AI search test results (19 runs) showing which businesses AI engines name for landscaper in Brisbane, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-brisbane-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: landscaper in Brisbane, Australia?", "description": "Recorded AI search test results (20 runs) showing which businesses AI engines name for landscaper in Brisbane, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/landscaper-in-brisbane-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a landscaper in Brisbane, Australia??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Brisbane, Australia?", "who should I hire for landscaper services near Brisbane, Australia??") across 19 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best landscaper in Brisbane, Australia?", "who should I hire for landscaper services near Brisbane, Australia??") across 20 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Human Nature Landscapes | 84% |
-| 2 | Aboveground Landscapes | 79% |
-| 3 | Martin Brothers | 63% |
-| 4 | Crivello Landscapes | 47% |
-| 5 | Instant Greenscene | 42% |
-| 6 | Brizscapes | 42% |
-| 7 | Trimscapes | 37% |
-| 8 | Oneflare | 32% |
-| 9 | Yardbusters | 26% |
-| 10 | BGL Services | 21% |
+| 1 | Human Nature Landscapes | 80% |
+| 2 | Aboveground Landscapes | 80% |
+| 3 | Martin Brothers | 60% |
+| 4 | Crivello Landscapes | 50% |
+| 5 | Brizscapes | 45% |
+| 6 | Instant Greenscene | 40% |
+| 7 | Trimscapes | 35% |
+| 8 | Oneflare | 30% |
+| 9 | Yardbusters | 30% |
+| 10 | BGL Services | 20% |
 
-*Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 20 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
