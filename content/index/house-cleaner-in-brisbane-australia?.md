@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for house cleaner in Brisbane, Australia??"
-description: "We ran 4 recorded AI search tests for house cleaner in Brisbane, Australia?. These businesses get named most often."
+description: "We ran 5 recorded AI search tests for house cleaner in Brisbane, Australia?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Brisbane, Australia?", "description": "Recorded AI search test results (4 runs) showing which businesses AI engines name for house cleaner in Brisbane, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-brisbane-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Brisbane, Australia?", "description": "Recorded AI search test results (5 runs) showing which businesses AI engines name for house cleaner in Brisbane, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-brisbane-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a house cleaner in Brisbane, Australia??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Brisbane, Australia?", "who should I hire for house cleaner services near Brisbane, Australia??") across 4 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Brisbane, Australia?", "who should I hire for house cleaner services near Brisbane, Australia??") across 5 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Absolute Domestics | 100% |
-| 2 | Kleaning | 100% |
+| 1 | Kleaning | 100% |
+| 2 | Absolute Domestics | 100% |
 | 3 | Brisbane House Cleaners | 100% |
-| 4 | Airtasker | 50% |
-| 5 | Simple domestic cleaning across Queensland | 25% |
-| 6 | Local Brisbane-only feel | 25% |
-| 7 | Maid2Match | 25% |
-| 8 | Oneflare | 25% |
-| 9 | Easy Bliss | 25% |
-| 10 | Trem Clean | 25% |
+| 4 | Airtasker | 40% |
+| 5 | Trem Clean | 40% |
+| 6 | Easy Bliss | 40% |
+| 7 | Local Brisbane-only feel | 20% |
+| 8 | Maid2Match | 20% |
+| 9 | Simple domestic cleaning across Queensland | 20% |
+| 10 | Oneflare | 20% |
 
-*Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
