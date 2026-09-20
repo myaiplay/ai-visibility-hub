@@ -21,8 +21,8 @@ utm: index_page
 | 1 | Alpine Maids | 100% |
 | 2 | MaidPro Denver | 80% |
 | 3 | Merit Maids | 65% |
-| 4 | The Maids | 50% |
-| 5 | Superb Maids Denver | 50% |
+| 4 | Superb Maids Denver | 50% |
+| 5 | The Maids | 50% |
 | 6 | Superb Maids | 30% |
 | 7 | Healthy Happy Homes | 25% |
 | 8 | Sparkulous | 20% |

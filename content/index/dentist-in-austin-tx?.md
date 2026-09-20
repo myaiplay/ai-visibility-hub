@@ -18,8 +18,8 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Holly Phillip DDS | 100% |
-| 2 | Waterloo Dental | 100% |
+| 1 | Waterloo Dental | 100% |
+| 2 | Holly Phillip DDS | 100% |
 | 3 | North Austin Dentistry | 80% |
 | 4 | ATX Family Dental | 80% |
 | 5 | Grove Austin Family Dentistry | 80% |

@@ -7,11 +7,11 @@
       "slug": "dentist-in-austin-tx",
       "top": [
         {
-          "name": "Holly Phillip DDS",
+          "name": "Walden Dental",
           "mention_rate": 1.0
         },
         {
-          "name": "Walden Dental",
+          "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
@@ -47,11 +47,11 @@
       "slug": "dentist-in-austin-tx?",
       "top": [
         {
-          "name": "Holly Phillip DDS",
+          "name": "Waterloo Dental",
           "mention_rate": 1.0
         },
         {
-          "name": "Waterloo Dental",
+          "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
@@ -95,7 +95,7 @@
       "slug": "dentist-in-brisbane-australia",
       "top": [
         {
-          "name": "North Brisbane Dental Clinic",
+          "name": "Brisbane Dental and Denture Clinic",
           "mention_rate": 1.0
         },
         {
@@ -103,7 +103,7 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Brisbane Dental and Denture Clinic",
+          "name": "North Brisbane Dental Clinic",
           "mention_rate": 1.0
         },
         {
@@ -211,11 +211,11 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Always There Dental Care",
+          "name": "Dr. Jessica Mehta",
           "mention_rate": 0.12
         },
         {
-          "name": "Dr. Jessica Mehta",
+          "name": "Always There Dental Care",
           "mention_rate": 0.12
         },
         {
@@ -315,15 +315,15 @@
           "mention_rate": 0.33
         },
         {
-          "name": "Smile Studio Dental",
-          "mention_rate": 0.33
-        },
-        {
           "name": "ZIP code",
           "mention_rate": 0.33
         },
         {
-          "name": "Insurance acceptance",
+          "name": "Smile Studio Dental",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "OG Dental",
           "mention_rate": 0.33
         }
       ]
@@ -347,19 +347,19 @@
           "mention_rate": 0.82
         },
         {
-          "name": "DENTL East Melbourne",
-          "mention_rate": 0.55
-        },
-        {
           "name": "Core Dental Southbank",
           "mention_rate": 0.55
         },
         {
-          "name": "Best Overall",
-          "mention_rate": 0.27
+          "name": "DENTL East Melbourne",
+          "mention_rate": 0.55
         },
         {
           "name": "Melbourne Dental Group",
+          "mention_rate": 0.27
+        },
+        {
+          "name": "Best Overall",
           "mention_rate": 0.27
         },
         {
@@ -403,11 +403,11 @@
           "mention_rate": 0.36
         },
         {
-          "name": "The Royal Dental Hospital of Melbourne",
+          "name": "Word of Mouth",
           "mention_rate": 0.18
         },
         {
-          "name": "Word of Mouth",
+          "name": "The Royal Dental Hospital of Melbourne",
           "mention_rate": 0.18
         },
         {
@@ -415,11 +415,11 @@
           "mention_rate": 0.18
         },
         {
-          "name": "Location",
+          "name": "Availability",
           "mention_rate": 0.18
         },
         {
-          "name": "Availability",
+          "name": "Location",
           "mention_rate": 0.18
         }
       ]
@@ -443,15 +443,15 @@
           "mention_rate": 0.6
         },
         {
-          "name": "Insurance acceptance",
-          "mention_rate": 0.2
-        },
-        {
           "name": "Healthgrades",
           "mention_rate": 0.2
         },
         {
           "name": "Specialty",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Insurance acceptance",
           "mention_rate": 0.2
         },
         {
@@ -463,7 +463,7 @@
           "mention_rate": 0.2
         },
         {
-          "name": "WebMD",
+          "name": "Patient ratings and review volume",
           "mention_rate": 0.1
         },
         {
@@ -487,11 +487,7 @@
           "mention_rate": 0.6
         },
         {
-          "name": "Life Smiles Dental Care",
-          "mention_rate": 0.4
-        },
-        {
-          "name": "North Mountain Dentistry",
+          "name": "Arizona Biltmore Dentistry",
           "mention_rate": 0.4
         },
         {
@@ -499,7 +495,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Arizona Biltmore Dentistry",
+          "name": "North Mountain Dentistry",
+          "mention_rate": 0.4
+        },
+        {
+          "name": "Life Smiles Dental Care",
           "mention_rate": 0.4
         },
         {
@@ -531,15 +531,15 @@
           "mention_rate": 1.0
         },
         {
+          "name": "Dr. Spencer Face",
+          "mention_rate": 1.0
+        },
+        {
           "name": "Best Dentistry",
           "mention_rate": 1.0
         },
         {
           "name": "Dr. Chris Pickel",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "Dr. Spencer Face",
           "mention_rate": 1.0
         },
         {
@@ -555,7 +555,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Insurance acceptance",
+          "name": "Recent patient reviews and appointment availability",
           "mention_rate": 0.17
         },
         {
@@ -563,7 +563,7 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Recent patient reviews and appointment availability",
+          "name": "Insurance acceptance",
           "mention_rate": 0.17
         }
       ]
@@ -599,11 +599,11 @@
           "mention_rate": 0.43
         },
         {
-          "name": "Seattle, WA 98115",
+          "name": "Roosevelt Dental",
           "mention_rate": 0.14
         },
         {
-          "name": "Roosevelt Dental",
+          "name": "Seattle, WA 98115",
           "mention_rate": 0.14
         },
         {
@@ -623,11 +623,11 @@
       "slug": "dentist-in-sydney-australia",
       "top": [
         {
-          "name": "Quay Dental Clinic",
+          "name": "Pitt Street Dental Centre",
           "mention_rate": 1.0
         },
         {
-          "name": "Pitt Street Dental Centre",
+          "name": "Quay Dental Clinic",
           "mention_rate": 1.0
         },
         {
@@ -635,11 +635,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Sydney CBD Dentistry",
+          "name": "Spa Dental Sydney CBD",
           "mention_rate": 0.5
         },
         {
-          "name": "Spa Dental Sydney CBD",
+          "name": "Sydney CBD Dentistry",
           "mention_rate": 0.5
         },
         {
@@ -651,11 +651,11 @@
           "mention_rate": 0.17
         },
         {
-          "name": "Darlinghurst Smiles",
+          "name": "Aglow Dental Group",
           "mention_rate": 0.17
         },
         {
-          "name": "Aglow Dental Group",
+          "name": "Darlinghurst Smiles",
           "mention_rate": 0.17
         },
         {
@@ -671,11 +671,11 @@
       "slug": "dentist-in-sydney-australia?",
       "top": [
         {
-          "name": "Paramount Dental Sydney",
+          "name": "Spa Dental Sydney CBD",
           "mention_rate": 1.0
         },
         {
-          "name": "Spa Dental Sydney CBD",
+          "name": "Paramount Dental Sydney",
           "mention_rate": 1.0
         },
         {
@@ -699,11 +699,11 @@
           "mention_rate": 0.23
         },
         {
-          "name": "Emergency Dentist Sydney",
+          "name": "The Paddington Dental Surgery",
           "mention_rate": 0.15
         },
         {
-          "name": "The Paddington Dental Surgery",
+          "name": "Emergency Dentist Sydney",
           "mention_rate": 0.15
         },
         {
@@ -715,12 +715,12 @@
     {
       "category": "house cleaner",
       "city": "Austin, TX",
-      "runs": 18,
+      "runs": 19,
       "slug": "house-cleaner-in-austin-tx",
       "top": [
         {
           "name": "Eleven Friends of Grumpy Brush",
-          "mention_rate": 0.94
+          "mention_rate": 0.95
         },
         {
           "name": "Sparkly Maid Austin Cleaning Services",
@@ -728,186 +728,186 @@
         },
         {
           "name": "Tidy Hands Cleaners",
-          "mention_rate": 0.61
+          "mention_rate": 0.63
         },
         {
           "name": "Maids and Moore",
-          "mention_rate": 0.5
-        },
-        {
-          "name": "DF CLEANING LLC",
-          "mention_rate": 0.28
+          "mention_rate": 0.53
         },
         {
           "name": "Mystik Cleaning Service",
-          "mention_rate": 0.28
+          "mention_rate": 0.26
+        },
+        {
+          "name": "DF CLEANING LLC",
+          "mention_rate": 0.26
         },
         {
           "name": "MoreHands Maid Service",
-          "mention_rate": 0.22
+          "mention_rate": 0.21
         },
         {
           "name": "Purple Fig Eco Cleaning Co.",
-          "mention_rate": 0.17
+          "mention_rate": 0.16
         },
         {
           "name": "Trustworthy Cleaning Services",
-          "mention_rate": 0.06
+          "mention_rate": 0.05
         },
         {
           "name": "Austin Cleaning Crew",
-          "mention_rate": 0.06
+          "mention_rate": 0.05
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Austin, TX?",
-      "runs": 17,
+      "runs": 18,
       "slug": "house-cleaner-in-austin-tx?",
       "top": [
         {
           "name": "Sparkly Maid Austin Cleaning Services",
-          "mention_rate": 0.88
+          "mention_rate": 0.89
         },
         {
           "name": "Tidy Hands Cleaners",
-          "mention_rate": 0.76
+          "mention_rate": 0.78
         },
         {
           "name": "MoreHands Maid Service",
-          "mention_rate": 0.71
+          "mention_rate": 0.72
         },
         {
           "name": "Eleven Friends of Grumpy Brush",
-          "mention_rate": 0.59
-        },
-        {
-          "name": "Merry Maids South Austin",
-          "mention_rate": 0.47
+          "mention_rate": 0.61
         },
         {
           "name": "Maids and Moore",
-          "mention_rate": 0.41
+          "mention_rate": 0.44
         },
         {
-          "name": "DF CLEANING LLC",
-          "mention_rate": 0.41
+          "name": "Merry Maids South Austin",
+          "mention_rate": 0.44
         },
         {
           "name": "Mystik Cleaning Service",
-          "mention_rate": 0.41
+          "mention_rate": 0.39
+        },
+        {
+          "name": "DF CLEANING LLC",
+          "mention_rate": 0.39
         },
         {
           "name": "Molly Maid Austin",
-          "mention_rate": 0.35
+          "mention_rate": 0.33
         },
         {
           "name": "Austin Cleaning Crew",
-          "mention_rate": 0.29
+          "mention_rate": 0.28
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Brisbane, Australia",
-      "runs": 6,
+      "runs": 7,
       "slug": "house-cleaner-in-brisbane-australia",
       "top": [
         {
           "name": "Houseproud Cleaners",
-          "mention_rate": 0.67
+          "mention_rate": 0.57
         },
         {
           "name": "Absolute Domestics",
-          "mention_rate": 0.67
+          "mention_rate": 0.57
         },
         {
           "name": "Brisbane House Cleaners",
-          "mention_rate": 0.5
-        },
-        {
-          "name": "Houseproud",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "The Naturally Clean Co",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "Service.com.au",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "Maid2Match",
-          "mention_rate": 0.33
+          "mention_rate": 0.43
         },
         {
           "name": "Oneflare",
-          "mention_rate": 0.33
+          "mention_rate": 0.43
+        },
+        {
+          "name": "Service.com.au",
+          "mention_rate": 0.29
+        },
+        {
+          "name": "Houseproud",
+          "mention_rate": 0.29
+        },
+        {
+          "name": "The Naturally Clean Co",
+          "mention_rate": 0.29
+        },
+        {
+          "name": "Maid2Match",
+          "mention_rate": 0.29
         },
         {
           "name": "Easy Bliss",
-          "mention_rate": 0.33
+          "mention_rate": 0.29
         },
         {
-          "name": "Hipages",
-          "mention_rate": 0.17
+          "name": "Localsearch",
+          "mention_rate": 0.29
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Brisbane, Australia?",
-      "runs": 5,
+      "runs": 6,
       "slug": "house-cleaner-in-brisbane-australia?",
       "top": [
-        {
-          "name": "Kleaning",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "Absolute Domestics",
-          "mention_rate": 1.0
-        },
         {
           "name": "Brisbane House Cleaners",
           "mention_rate": 1.0
         },
         {
-          "name": "Airtasker",
-          "mention_rate": 0.4
+          "name": "Kleaning",
+          "mention_rate": 0.83
+        },
+        {
+          "name": "Absolute Domestics",
+          "mention_rate": 0.83
         },
         {
           "name": "Trem Clean",
-          "mention_rate": 0.4
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Airtasker",
+          "mention_rate": 0.33
         },
         {
           "name": "Easy Bliss",
-          "mention_rate": 0.4
+          "mention_rate": 0.33
         },
         {
-          "name": "Local Brisbane-only feel",
-          "mention_rate": 0.2
+          "name": "FYS Cleaning Services",
+          "mention_rate": 0.33
         },
         {
           "name": "Maid2Match",
-          "mention_rate": 0.2
+          "mention_rate": 0.17
+        },
+        {
+          "name": "Local Brisbane-only feel",
+          "mention_rate": 0.17
         },
         {
           "name": "Simple domestic cleaning across Queensland",
-          "mention_rate": 0.2
-        },
-        {
-          "name": "Oneflare",
-          "mention_rate": 0.2
+          "mention_rate": 0.17
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Chicago, IL",
-      "runs": 14,
+      "runs": 15,
       "slug": "house-cleaner-in-chicago-il",
       "top": [
         {
@@ -916,14 +916,62 @@
         },
         {
           "name": "House Keep Up",
-          "mention_rate": 0.57
+          "mention_rate": 0.6
         },
         {
           "name": "Sparkly Maid Chicago",
-          "mention_rate": 0.43
+          "mention_rate": 0.4
         },
         {
           "name": "Sparkly Maid",
+          "mention_rate": 0.4
+        },
+        {
+          "name": "Care.com",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Sweep Home Chicago",
+          "mention_rate": 0.27
+        },
+        {
+          "name": "Homeaglow",
+          "mention_rate": 0.27
+        },
+        {
+          "name": "Sparkle Elite Cleaning",
+          "mention_rate": 0.27
+        },
+        {
+          "name": "Handy",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Taskrabbit",
+          "mention_rate": 0.2
+        }
+      ]
+    },
+    {
+      "category": "house cleaner",
+      "city": "Chicago, IL?",
+      "runs": 14,
+      "slug": "house-cleaner-in-chicago-il?",
+      "top": [
+        {
+          "name": "The Deep Cleaners",
+          "mention_rate": 0.64
+        },
+        {
+          "name": "King of Maids",
+          "mention_rate": 0.57
+        },
+        {
+          "name": "House Keep Up",
+          "mention_rate": 0.43
+        },
+        {
+          "name": "Sweep Home Chicago",
           "mention_rate": 0.43
         },
         {
@@ -931,72 +979,24 @@
           "mention_rate": 0.36
         },
         {
-          "name": "Sweep Home Chicago",
-          "mention_rate": 0.29
-        },
-        {
-          "name": "Homeaglow",
-          "mention_rate": 0.29
-        },
-        {
-          "name": "Handy",
-          "mention_rate": 0.21
-        },
-        {
-          "name": "Taskrabbit",
-          "mention_rate": 0.21
-        },
-        {
-          "name": "Sparkle Elite Cleaning",
-          "mention_rate": 0.21
-        }
-      ]
-    },
-    {
-      "category": "house cleaner",
-      "city": "Chicago, IL?",
-      "runs": 13,
-      "slug": "house-cleaner-in-chicago-il?",
-      "top": [
-        {
-          "name": "The Deep Cleaners",
-          "mention_rate": 0.62
-        },
-        {
-          "name": "King of Maids",
-          "mention_rate": 0.54
-        },
-        {
-          "name": "House Keep Up",
-          "mention_rate": 0.46
-        },
-        {
-          "name": "Sweep Home Chicago",
-          "mention_rate": 0.46
-        },
-        {
-          "name": "Care.com",
-          "mention_rate": 0.31
-        },
-        {
-          "name": "E&K Cleaning Service",
-          "mention_rate": 0.31
-        },
-        {
           "name": "Happy Home Cleaning Chicago",
-          "mention_rate": 0.31
+          "mention_rate": 0.36
         },
         {
           "name": "Molly Maid",
-          "mention_rate": 0.31
+          "mention_rate": 0.36
+        },
+        {
+          "name": "E&K Cleaning Service",
+          "mention_rate": 0.29
         },
         {
           "name": "Fresh Tech Maid",
-          "mention_rate": 0.23
+          "mention_rate": 0.21
         },
         {
           "name": "Taskrabbit",
-          "mention_rate": 0.23
+          "mention_rate": 0.21
         }
       ]
     },
@@ -1019,11 +1019,11 @@
           "mention_rate": 0.65
         },
         {
-          "name": "The Maids",
+          "name": "Superb Maids Denver",
           "mention_rate": 0.5
         },
         {
-          "name": "Superb Maids Denver",
+          "name": "The Maids",
           "mention_rate": 0.5
         },
         {
@@ -1051,7 +1051,7 @@
     {
       "category": "house cleaner",
       "city": "Denver, CO?",
-      "runs": 19,
+      "runs": 20,
       "slug": "house-cleaner-in-denver-co?",
       "top": [
         {
@@ -1059,47 +1059,47 @@
           "mention_rate": 0.95
         },
         {
-          "name": "The Maids",
-          "mention_rate": 0.79
+          "name": "Alpine Maids",
+          "mention_rate": 0.8
         },
         {
-          "name": "Alpine Maids",
-          "mention_rate": 0.79
+          "name": "The Maids",
+          "mention_rate": 0.75
         },
         {
           "name": "Merit Maids",
-          "mention_rate": 0.74
+          "mention_rate": 0.7
         },
         {
           "name": "Kathy Clean",
-          "mention_rate": 0.37
+          "mention_rate": 0.35
         },
         {
           "name": "Care.com",
-          "mention_rate": 0.32
+          "mention_rate": 0.3
         },
         {
           "name": "Thumbtack",
-          "mention_rate": 0.21
-        },
-        {
-          "name": "Neat N Tidy",
-          "mention_rate": 0.11
+          "mention_rate": 0.2
         },
         {
           "name": "Central Park Cleaning",
-          "mention_rate": 0.11
+          "mention_rate": 0.15
+        },
+        {
+          "name": "Neat N Tidy",
+          "mention_rate": 0.1
         },
         {
           "name": "Molly Maid",
-          "mention_rate": 0.11
+          "mention_rate": 0.1
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Melbourne, Australia",
-      "runs": 10,
+      "runs": 11,
       "slug": "house-cleaner-in-melbourne-australia",
       "top": [
         {
@@ -1108,46 +1108,46 @@
         },
         {
           "name": "Maid to Clean",
-          "mention_rate": 0.9
+          "mention_rate": 0.91
         },
         {
           "name": "Maid in Melbourne",
-          "mention_rate": 0.5
+          "mention_rate": 0.45
         },
         {
           "name": "Airtasker",
-          "mention_rate": 0.4
+          "mention_rate": 0.36
         },
         {
           "name": "Cleaning Professionals",
-          "mention_rate": 0.4
+          "mention_rate": 0.36
         },
         {
           "name": "MyHome",
-          "mention_rate": 0.3
-        },
-        {
-          "name": "Clean House Melbourne",
-          "mention_rate": 0.2
+          "mention_rate": 0.27
         },
         {
           "name": "Word of Mouth",
-          "mention_rate": 0.2
+          "mention_rate": 0.27
+        },
+        {
+          "name": "Clean House Melbourne",
+          "mention_rate": 0.18
         },
         {
           "name": "Dustpan & Brush",
-          "mention_rate": 0.2
+          "mention_rate": 0.18
         },
         {
-          "name": "Airtasker-rated cleaners",
-          "mention_rate": 0.1
+          "name": "Calibre Cleaning",
+          "mention_rate": 0.18
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Melbourne, Australia?",
-      "runs": 9,
+      "runs": 10,
       "slug": "house-cleaner-in-melbourne-australia?",
       "top": [
         {
@@ -1156,46 +1156,46 @@
         },
         {
           "name": "Maid to Clean",
-          "mention_rate": 0.78
+          "mention_rate": 0.8
         },
         {
           "name": "Cleaning Professionals",
-          "mention_rate": 0.78
+          "mention_rate": 0.8
         },
         {
           "name": "Bizzi Beez",
-          "mention_rate": 0.56
-        },
-        {
-          "name": "Maid in Melbourne",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "MyHome",
-          "mention_rate": 0.22
-        },
-        {
-          "name": "Airtasker",
-          "mention_rate": 0.22
-        },
-        {
-          "name": "Naturo Group",
-          "mention_rate": 0.22
+          "mention_rate": 0.5
         },
         {
           "name": "Absolute Domestics",
-          "mention_rate": 0.22
+          "mention_rate": 0.3
         },
         {
-          "name": "Insurance",
-          "mention_rate": 0.22
+          "name": "Maid in Melbourne",
+          "mention_rate": 0.3
+        },
+        {
+          "name": "Fantastic Cleaners",
+          "mention_rate": 0.3
+        },
+        {
+          "name": "MyHome",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Airtasker",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Naturo Group",
+          "mention_rate": 0.2
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Phoenix, AZ",
-      "runs": 12,
+      "runs": 13,
       "slug": "house-cleaner-in-phoenix-az",
       "top": [
         {
@@ -1208,34 +1208,34 @@
         },
         {
           "name": "De La Rosa House Cleaning",
-          "mention_rate": 0.58
+          "mention_rate": 0.54
         },
         {
           "name": "Desert First Cleaning",
-          "mention_rate": 0.58
+          "mention_rate": 0.54
         },
         {
           "name": "The Maids",
-          "mention_rate": 0.33
+          "mention_rate": 0.38
         },
         {
           "name": "Molly Maid Phoenix",
-          "mention_rate": 0.25
+          "mention_rate": 0.23
         },
         {
           "name": "The Cleaning Authority",
-          "mention_rate": 0.17
+          "mention_rate": 0.23
         },
         {
-          "name": "Molly Maid",
-          "mention_rate": 0.08
+          "name": "Maid Easy",
+          "mention_rate": 0.15
         },
         {
           "name": "De La Rosa",
           "mention_rate": 0.08
         },
         {
-          "name": "The Perfect Clean",
+          "name": "Molly Maid",
           "mention_rate": 0.08
         }
       ]
@@ -1243,11 +1243,11 @@
     {
       "category": "house cleaner",
       "city": "Phoenix, AZ?",
-      "runs": 11,
+      "runs": 12,
       "slug": "house-cleaner-in-phoenix-az?",
       "top": [
         {
-          "name": "The Maids",
+          "name": "MaidPro Phoenix",
           "mention_rate": 1.0
         },
         {
@@ -1255,80 +1255,80 @@
           "mention_rate": 1.0
         },
         {
-          "name": "MaidPro Phoenix",
+          "name": "The Maids",
           "mention_rate": 1.0
         },
         {
-          "name": "De La Rosa House Cleaning",
-          "mention_rate": 0.45
+          "name": "Molly Maid",
+          "mention_rate": 0.5
         },
         {
-          "name": "Molly Maid",
-          "mention_rate": 0.45
+          "name": "De La Rosa House Cleaning",
+          "mention_rate": 0.42
         },
         {
           "name": "Muck Maids",
-          "mention_rate": 0.36
+          "mention_rate": 0.33
         },
         {
           "name": "The Cleaning Authority",
-          "mention_rate": 0.27
+          "mention_rate": 0.25
         },
         {
           "name": "Care.com",
-          "mention_rate": 0.18
+          "mention_rate": 0.25
         },
         {
           "name": "The Perfectionist Cleaning Services",
-          "mention_rate": 0.18
+          "mention_rate": 0.17
         },
         {
           "name": "What A Maid LLC",
-          "mention_rate": 0.18
+          "mention_rate": 0.17
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Seattle, WA",
-      "runs": 16,
+      "runs": 17,
       "slug": "house-cleaner-in-seattle-wa",
       "top": [
         {
           "name": "Seattle Green Cleaning Fairy",
-          "mention_rate": 0.69
-        },
-        {
-          "name": "Dazzle",
-          "mention_rate": 0.56
+          "mention_rate": 0.65
         },
         {
           "name": "Simply Clean",
-          "mention_rate": 0.56
+          "mention_rate": 0.59
         },
         {
           "name": "Rain City Maids",
-          "mention_rate": 0.56
+          "mention_rate": 0.59
+        },
+        {
+          "name": "Dazzle",
+          "mention_rate": 0.59
         },
         {
           "name": "AA Window and Gutter Cleaning",
-          "mention_rate": 0.44
+          "mention_rate": 0.41
         },
         {
           "name": "The Maids Seattle",
-          "mention_rate": 0.25
+          "mention_rate": 0.24
         },
         {
           "name": "Seattle Simply Clean",
-          "mention_rate": 0.19
+          "mention_rate": 0.18
         },
         {
           "name": "Seattle Green Maids",
-          "mention_rate": 0.19
+          "mention_rate": 0.18
         },
         {
           "name": "MaidPro Seattle",
-          "mention_rate": 0.19
+          "mention_rate": 0.18
         },
         {
           "name": "Seatown Cleaners",
@@ -1339,55 +1339,55 @@
     {
       "category": "house cleaner",
       "city": "Seattle, WA?",
-      "runs": 15,
+      "runs": 16,
       "slug": "house-cleaner-in-seattle-wa?",
       "top": [
         {
           "name": "Dazzle",
-          "mention_rate": 0.87
+          "mention_rate": 0.88
         },
         {
           "name": "Simply Clean",
-          "mention_rate": 0.6
+          "mention_rate": 0.62
         },
         {
           "name": "Rain City Maids",
-          "mention_rate": 0.53
-        },
-        {
-          "name": "Northlane Clean",
-          "mention_rate": 0.47
+          "mention_rate": 0.56
         },
         {
           "name": "Care.com",
-          "mention_rate": 0.47
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Northlane Clean",
+          "mention_rate": 0.44
         },
         {
           "name": "Thumbtack",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "Seatown Cleaners",
-          "mention_rate": 0.27
+          "mention_rate": 0.38
         },
         {
           "name": "The Maids",
-          "mention_rate": 0.27
+          "mention_rate": 0.31
+        },
+        {
+          "name": "Seatown Cleaners",
+          "mention_rate": 0.25
         },
         {
           "name": "NW Maids",
-          "mention_rate": 0.27
+          "mention_rate": 0.25
         },
         {
           "name": "Seattle Green Cleaning Fairy",
-          "mention_rate": 0.2
+          "mention_rate": 0.19
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Sydney, Australia",
-      "runs": 8,
+      "runs": 9,
       "slug": "house-cleaner-in-sydney-australia",
       "top": [
         {
@@ -1400,48 +1400,44 @@
         },
         {
           "name": "Pristine Home",
-          "mention_rate": 0.75
+          "mention_rate": 0.78
         },
         {
           "name": "Airtasker",
-          "mention_rate": 0.38
-        },
-        {
-          "name": "Airtasker cleaners",
-          "mention_rate": 0.25
+          "mention_rate": 0.33
         },
         {
           "name": "Maid2Go",
-          "mention_rate": 0.25
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Airtasker cleaners",
+          "mention_rate": 0.22
         },
         {
           "name": "Airtasker house cleaners",
-          "mention_rate": 0.12
-        },
-        {
-          "name": "Insurance coverage",
-          "mention_rate": 0.12
+          "mention_rate": 0.11
         },
         {
           "name": "Price for your home size",
-          "mention_rate": 0.12
+          "mention_rate": 0.11
+        },
+        {
+          "name": "Insurance coverage",
+          "mention_rate": 0.11
         },
         {
           "name": "Google reviews and recent review volume",
-          "mention_rate": 0.12
+          "mention_rate": 0.11
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Sydney, Australia?",
-      "runs": 7,
+      "runs": 8,
       "slug": "house-cleaner-in-sydney-australia?",
       "top": [
-        {
-          "name": "Dash & Shine",
-          "mention_rate": 1.0
-        },
         {
           "name": "Miracle Maid",
           "mention_rate": 1.0
@@ -1451,32 +1447,36 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Pristine Home",
-          "mention_rate": 0.57
+          "name": "Dash & Shine",
+          "mention_rate": 0.88
         },
         {
           "name": "Cleaning Ease",
-          "mention_rate": 0.43
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Pristine Home",
+          "mention_rate": 0.5
         },
         {
           "name": "Bebrite Cleaning Services",
-          "mention_rate": 0.43
+          "mention_rate": 0.38
         },
         {
           "name": "Maid2Go Cleaning",
-          "mention_rate": 0.29
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Maid2Go Cleaning Sydney",
+          "mention_rate": 0.25
         },
         {
           "name": "Helping Hands Cleaning Services",
-          "mention_rate": 0.14
+          "mention_rate": 0.12
         },
         {
           "name": "Naturo Group",
-          "mention_rate": 0.14
-        },
-        {
-          "name": "SOAP Professional Cleaning",
-          "mention_rate": 0.14
+          "mention_rate": 0.12
         }
       ]
     },
@@ -1603,11 +1603,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "EcoQuiet Mowing & Garden Care Brisbane",
+          "name": "Brisbane Gardening and Landscaping",
           "mention_rate": 0.4
         },
         {
-          "name": "Brisbane Gardening and Landscaping",
+          "name": "EcoQuiet Mowing & Garden Care Brisbane",
           "mention_rate": 0.4
         },
         {
@@ -1707,11 +1707,11 @@
           "mention_rate": 0.16
         },
         {
-          "name": "Chicago Lawn Pros",
+          "name": "Urban Roots Inc.",
           "mention_rate": 0.16
         },
         {
-          "name": "Urban Roots Inc.",
+          "name": "Chicago Lawn Pros",
           "mention_rate": 0.16
         },
         {
@@ -1791,11 +1791,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "The Fisherman LLC",
+          "name": "C&H Landscaping",
           "mention_rate": 0.25
         },
         {
-          "name": "C&H Landscaping",
+          "name": "The Fisherman LLC",
           "mention_rate": 0.25
         },
         {
@@ -2023,11 +2023,11 @@
           "mention_rate": 0.53
         },
         {
-          "name": "Divine Design Landscaping",
+          "name": "Valley of the Sun Landscaping",
           "mention_rate": 0.47
         },
         {
-          "name": "Valley of the Sun Landscaping",
+          "name": "Divine Design Landscaping",
           "mention_rate": 0.47
         },
         {
@@ -2047,11 +2047,11 @@
           "mention_rate": 0.32
         },
         {
-          "name": "BIG BOSS Landscape",
+          "name": "Unwind Landscapes",
           "mention_rate": 0.21
         },
         {
-          "name": "Unwind Landscapes",
+          "name": "BIG BOSS Landscape",
           "mention_rate": 0.21
         }
       ]
@@ -2095,7 +2095,7 @@
           "mention_rate": 0.05
         },
         {
-          "name": "Licensing, insurance, and estimate responsiveness",
+          "name": "Houzz-listed Seattle professionals",
           "mention_rate": 0.05
         },
         {
@@ -2147,7 +2147,7 @@
           "mention_rate": 0.11
         },
         {
-          "name": "Angi",
+          "name": "Urban Oasis Design & Construction LLC",
           "mention_rate": 0.11
         }
       ]
@@ -2250,56 +2250,104 @@
     },
     {
       "category": "personal injury lawyer",
+      "city": "Austin, TX",
+      "runs": 3,
+      "slug": "personal-injury-lawyer-in-austin-tx",
+      "top": [
+        {
+          "name": "FVF Law Firm",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Client reviews",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Howry, Breen & Herman, LLP",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Lorenz & Lorenz Accident & Injury Lawyers",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Joe Lopez Law",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "McMinn Personal Injury Lawyers",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Disciplinary history",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Case fit",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Reyes Law",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Personal attention",
+          "mention_rate": 0.33
+        }
+      ]
+    },
+    {
+      "category": "personal injury lawyer",
       "city": "Denver, CO",
-      "runs": 4,
+      "runs": 5,
       "slug": "personal-injury-lawyer-in-denver-co",
       "top": [
         {
           "name": "Bachus & Schanker",
-          "mention_rate": 1.0
-        },
-        {
-          "name": "Harding & Associates",
-          "mention_rate": 0.75
+          "mention_rate": 0.8
         },
         {
           "name": "Ramos Law",
-          "mention_rate": 0.5
+          "mention_rate": 0.6
         },
         {
           "name": "Zaner Law",
-          "mention_rate": 0.5
+          "mention_rate": 0.6
         },
         {
-          "name": "Jordan Law",
-          "mention_rate": 0.25
+          "name": "Harding & Associates",
+          "mention_rate": 0.6
         },
         {
           "name": "Denver Personal Injury Lawyers",
-          "mention_rate": 0.25
-        },
-        {
-          "name": "Crisham & Holman",
-          "mention_rate": 0.25
-        },
-        {
-          "name": "Caseload per attorney",
-          "mention_rate": 0.25
+          "mention_rate": 0.4
         },
         {
           "name": "Trial readiness",
-          "mention_rate": 0.25
+          "mention_rate": 0.4
         },
         {
-          "name": "Trial record",
-          "mention_rate": 0.25
+          "name": "Jordan Law",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Crisham & Holman",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Caseload per attorney",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Recent results",
+          "mention_rate": 0.2
         }
       ]
     },
     {
       "category": "personal injury lawyer",
       "city": "Denver, CO?",
-      "runs": 3,
+      "runs": 4,
       "slug": "personal-injury-lawyer-in-denver-co?",
       "top": [
         {
@@ -2307,40 +2355,40 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Harding & Associates",
-          "mention_rate": 0.67
-        },
-        {
-          "name": "Jordan Law",
-          "mention_rate": 0.67
-        },
-        {
           "name": "Bachus & Schanker",
-          "mention_rate": 0.67
-        },
-        {
-          "name": "Jeremy Rosenthal",
-          "mention_rate": 0.67
-        },
-        {
-          "name": "Bachus & Schanker, Frank Azar, or McDivitt Law Firm",
-          "mention_rate": 0.67
+          "mention_rate": 0.75
         },
         {
           "name": "Franklin D. Azar & Associates",
-          "mention_rate": 0.67
+          "mention_rate": 0.75
         },
         {
-          "name": "Denver Personal Injury Lawyers",
-          "mention_rate": 0.33
+          "name": "Jeremy Rosenthal",
+          "mention_rate": 0.75
         },
         {
-          "name": "Strong review presence",
-          "mention_rate": 0.33
+          "name": "McQuaid Injury Law",
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Harding & Associates",
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Jordan Law",
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Bachus & Schanker, Frank Azar, or McDivitt Law Firm",
+          "mention_rate": 0.5
         },
         {
           "name": "Established Denver office options",
-          "mention_rate": 0.33
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Strong review presence",
+          "mention_rate": 0.25
         }
       ]
     }
