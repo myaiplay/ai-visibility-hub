@@ -19,15 +19,15 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | FVF Law Firm | 100% |
-| 2 | Client reviews | 67% |
-| 3 | Howry, Breen & Herman, LLP | 67% |
-| 4 | Lorenz & Lorenz Accident & Injury Lawyers | 67% |
+| 2 | Howry, Breen & Herman, LLP | 67% |
+| 3 | Client reviews | 67% |
+| 4 | McMinn Personal Injury Lawyers | 67% |
 | 5 | Joe Lopez Law | 67% |
-| 6 | McMinn Personal Injury Lawyers | 67% |
-| 7 | Disciplinary history | 33% |
-| 8 | Case fit | 33% |
-| 9 | Reyes Law | 33% |
-| 10 | Personal attention | 33% |
+| 6 | Lorenz & Lorenz Accident & Injury Lawyers | 67% |
+| 7 | Case fit | 33% |
+| 8 | Trial record | 33% |
+| 9 | Heaton Injury Law, PLLC | 33% |
+| 10 | Thomas J. Henry Law | 33% |
 
 *Based on 3 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

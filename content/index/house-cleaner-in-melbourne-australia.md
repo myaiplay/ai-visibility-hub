@@ -21,13 +21,13 @@ utm: index_page
 | 1 | Inner City Maids | 100% |
 | 2 | Maid to Clean | 91% |
 | 3 | Maid in Melbourne | 45% |
-| 4 | Airtasker | 36% |
-| 5 | Cleaning Professionals | 36% |
+| 4 | Cleaning Professionals | 36% |
+| 5 | Airtasker | 36% |
 | 6 | MyHome | 27% |
 | 7 | Word of Mouth | 27% |
 | 8 | Clean House Melbourne | 18% |
 | 9 | Dustpan & Brush | 18% |
-| 10 | Calibre Cleaning | 18% |
+| 10 | Absolute Domestics | 18% |
 
 *Based on 11 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

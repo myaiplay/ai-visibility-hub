@@ -26,8 +26,8 @@ utm: index_page
 | 6 | Maid in Melbourne | 30% |
 | 7 | Fantastic Cleaners | 30% |
 | 8 | MyHome | 20% |
-| 9 | Airtasker | 20% |
-| 10 | Naturo Group | 20% |
+| 9 | Naturo Group | 20% |
+| 10 | Airtasker | 20% |
 
 *Based on 10 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

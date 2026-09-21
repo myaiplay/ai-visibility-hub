@@ -19,15 +19,15 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Brisbane House Cleaners | 100% |
-| 2 | Kleaning | 83% |
-| 3 | Absolute Domestics | 83% |
+| 2 | Absolute Domestics | 83% |
+| 3 | Kleaning | 83% |
 | 4 | Trem Clean | 50% |
 | 5 | Airtasker | 33% |
 | 6 | Easy Bliss | 33% |
 | 7 | FYS Cleaning Services | 33% |
-| 8 | Maid2Match | 17% |
-| 9 | Local Brisbane-only feel | 17% |
-| 10 | Simple domestic cleaning across Queensland | 17% |
+| 8 | Local Brisbane-only feel | 17% |
+| 9 | Simple domestic cleaning across Queensland | 17% |
+| 10 | Maid2Match | 17% |
 
 *Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

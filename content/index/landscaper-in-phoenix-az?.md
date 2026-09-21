@@ -26,8 +26,8 @@ utm: index_page
 | 6 | Family Landscaping LLC | 42% |
 | 7 | Tree Pros | 37% |
 | 8 | Diamond Stone & Synthetic Grass | 32% |
-| 9 | Unwind Landscapes | 21% |
-| 10 | BIG BOSS Landscape | 21% |
+| 9 | BIG BOSS Landscape | 21% |
+| 10 | Unwind Landscapes | 21% |
 
 *Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

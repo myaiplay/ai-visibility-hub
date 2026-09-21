@@ -20,8 +20,8 @@ utm: index_page
 |---|---|---|
 | 1 | NBG Landscapes | 85% |
 | 2 | Dr Garden | 70% |
-| 3 | Concept Landscaping | 55% |
-| 4 | Love Landscapes | 55% |
+| 3 | Love Landscapes | 55% |
+| 4 | Concept Landscaping | 55% |
 | 5 | Sydney Landscaping Pty Ltd | 55% |
 | 6 | Master Groups | 50% |
 | 7 | Growing Well | 45% |

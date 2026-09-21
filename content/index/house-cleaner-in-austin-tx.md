@@ -26,8 +26,8 @@ utm: index_page
 | 6 | DF CLEANING LLC | 26% |
 | 7 | MoreHands Maid Service | 21% |
 | 8 | Purple Fig Eco Cleaning Co. | 16% |
-| 9 | Trustworthy Cleaning Services | 5% |
-| 10 | Austin Cleaning Crew | 5% |
+| 9 | Austin Cleaning Crew | 5% |
+| 10 | Trustworthy Cleaning Services | 5% |
 
 *Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

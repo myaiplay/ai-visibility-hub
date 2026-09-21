@@ -22,9 +22,9 @@ utm: index_page
 | 2 | Absolute Domestics | 57% |
 | 3 | Brisbane House Cleaners | 43% |
 | 4 | Oneflare | 43% |
-| 5 | Service.com.au | 29% |
+| 5 | The Naturally Clean Co | 29% |
 | 6 | Houseproud | 29% |
-| 7 | The Naturally Clean Co | 29% |
+| 7 | Service.com.au | 29% |
 | 8 | Maid2Match | 29% |
 | 9 | Easy Bliss | 29% |
 | 10 | Localsearch | 29% |

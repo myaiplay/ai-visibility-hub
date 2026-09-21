@@ -20,8 +20,8 @@ utm: index_page
 |---|---|---|
 | 1 | The Deep Cleaners | 64% |
 | 2 | King of Maids | 57% |
-| 3 | House Keep Up | 43% |
-| 4 | Sweep Home Chicago | 43% |
+| 3 | Sweep Home Chicago | 43% |
+| 4 | House Keep Up | 43% |
 | 5 | Care.com | 36% |
 | 6 | Happy Home Cleaning Chicago | 36% |
 | 7 | Molly Maid | 36% |

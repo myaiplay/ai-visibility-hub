@@ -25,9 +25,9 @@ utm: index_page
 | 5 | Maid2Go | 33% |
 | 6 | Airtasker cleaners | 22% |
 | 7 | Airtasker house cleaners | 11% |
-| 8 | Price for your home size | 11% |
+| 8 | Google reviews and recent review volume | 11% |
 | 9 | Insurance coverage | 11% |
-| 10 | Google reviews and recent review volume | 11% |
+| 10 | Price for your home size | 11% |
 
 *Based on 9 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

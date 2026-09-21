@@ -27,7 +27,7 @@ utm: index_page
 | 7 | Jordan Law | 20% |
 | 8 | Crisham & Holman | 20% |
 | 9 | Caseload per attorney | 20% |
-| 10 | Recent results | 20% |
+| 10 | Trial record | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

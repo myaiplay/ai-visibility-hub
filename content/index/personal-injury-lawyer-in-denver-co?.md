@@ -22,12 +22,12 @@ utm: index_page
 | 2 | Bachus & Schanker | 75% |
 | 3 | Franklin D. Azar & Associates | 75% |
 | 4 | Jeremy Rosenthal | 75% |
-| 5 | McQuaid Injury Law | 50% |
-| 6 | Harding & Associates | 50% |
-| 7 | Jordan Law | 50% |
+| 5 | Harding & Associates | 50% |
+| 6 | Jordan Law | 50% |
+| 7 | McQuaid Injury Law | 50% |
 | 8 | Bachus & Schanker, Frank Azar, or McDivitt Law Firm | 50% |
-| 9 | Established Denver office options | 25% |
-| 10 | Strong review presence | 25% |
+| 9 | Strong review presence | 25% |
+| 10 | Denver Personal Injury Lawyers | 25% |
 
 *Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

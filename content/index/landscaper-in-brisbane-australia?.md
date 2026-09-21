@@ -18,8 +18,8 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Aboveground Landscapes | 80% |
-| 2 | Human Nature Landscapes | 80% |
+| 1 | Human Nature Landscapes | 80% |
+| 2 | Aboveground Landscapes | 80% |
 | 3 | Martin Brothers | 60% |
 | 4 | Crivello Landscapes | 50% |
 | 5 | Brizscapes | 45% |

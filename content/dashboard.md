@@ -2,19 +2,19 @@
 title: Automation dashboard
 description: Live status of the AI Visibility Index automation machine — data engine, social bots, syndication, spend.
 type: page
-date: 2026-09-20
+date: 2026-09-21
 ---
 
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 20 September 2026, 08:39 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 21 September 2026, 06:25 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
 | Channel | Used | Cap |
 |---|---|---|
-| Data engine (Perplexity) | $2.41 | $5.00/mo |
+| Data engine (Perplexity) | $2.42 | $5.00/mo |
 | X posts | 11 | 31/mo |
 | Bluesky, Dev.to, hosting | $0 | free |
 
@@ -25,31 +25,23 @@ date: 2026-09-20
 | Test days recorded | 35 |
 | Buyer prompts tested | 684 |
 | Stat pages live | 50 |
-| Articles syndicated to Dev.to | 13 |
-| Bluesky posts made | 3 (last: 19 Sep, 16:47 UTC) |
+| Articles syndicated to Dev.to | 14 |
+| Bluesky posts made | 4 (last: 20 Sep, 16:57 UTC) |
 
 ## Traffic
 
-| Signal | Value |
-|---|---|
-| Clicks through to aicantfindme.com (14d) | 0 |
-|   top page: /ai-visibility-hub/articles/ai-crawler-robots-txt- | 3 |
-|   referrer:  | 2 |
-|   referrer: www.bing.com | 1 |
-| Dev.to article views | 36 |
-| Dev.to reactions | 0 |
-| Bluesky followers | 1 |
+_Traffic APIs not reachable from this environment._
 
 ## Next scheduled runs
 
 | Job | Next run |
 |---|---|
-| Data engine (12 AI tests) | Mon 21 Sep, 03:17 local |
-| Bluesky post | Sun 20 Sep, 13:37 local |
-| X post | Sun 20 Sep, 21:43 local |
-| Dev.to catch-up | Mon 21 Sep, 05:11 local |
-| Weekly data article | Mon 21 Sep, 06:07 local |
-| Weekly report | Sun 20 Sep, 18:22 local |
+| Data engine (12 AI tests) | Tue 22 Sep, 03:17 local |
+| Bluesky post | Mon 21 Sep, 13:37 local |
+| X post | Mon 21 Sep, 21:43 local |
+| Dev.to catch-up | Mon 28 Sep, 05:11 local |
+| Weekly data article | Mon 28 Sep, 06:07 local |
+| Weekly report | Sun 27 Sep, 18:22 local |
 
 ## Data
 
