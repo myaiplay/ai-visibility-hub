@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for house cleaner in Chicago, IL??"
-description: "We ran 14 recorded AI search tests for house cleaner in Chicago, IL?. These businesses get named most often."
+description: "We ran 15 recorded AI search tests for house cleaner in Chicago, IL?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Chicago, IL?", "description": "Recorded AI search test results (14 runs) showing which businesses AI engines name for house cleaner in Chicago, IL?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-chicago-il?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Chicago, IL?", "description": "Recorded AI search test results (15 runs) showing which businesses AI engines name for house cleaner in Chicago, IL?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-chicago-il?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a house cleaner in Chicago, IL??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Chicago, IL?", "who should I hire for house cleaner services near Chicago, IL??") across 14 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Chicago, IL?", "who should I hire for house cleaner services near Chicago, IL??") across 15 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | The Deep Cleaners | 64% |
-| 2 | King of Maids | 57% |
-| 3 | Sweep Home Chicago | 43% |
-| 4 | House Keep Up | 43% |
-| 5 | Care.com | 36% |
-| 6 | Happy Home Cleaning Chicago | 36% |
-| 7 | Molly Maid | 36% |
-| 8 | E&K Cleaning Service | 29% |
-| 9 | Fresh Tech Maid | 21% |
-| 10 | Taskrabbit | 21% |
+| 1 | The Deep Cleaners | 67% |
+| 2 | King of Maids | 53% |
+| 3 | Sweep Home Chicago | 47% |
+| 4 | House Keep Up | 40% |
+| 5 | Happy Home Cleaning Chicago | 40% |
+| 6 | Care.com | 33% |
+| 7 | Molly Maid | 33% |
+| 8 | Fresh Tech Maid | 27% |
+| 9 | E&K Cleaning Service | 27% |
+| 10 | Best Maids | 20% |
 
-*Based on 14 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 15 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

@@ -20,8 +20,8 @@ utm: index_page
 |---|---|---|
 | 1 | R&R Landscaping & Outdoor Design | 63% |
 | 2 | E&E Landscape Services | 53% |
-| 3 | Valley of the Sun Landscaping | 47% |
-| 4 | Divine Design Landscaping | 47% |
+| 3 | Divine Design Landscaping | 47% |
+| 4 | Valley of the Sun Landscaping | 47% |
 | 5 | Masterscapes LLC | 42% |
 | 6 | Family Landscaping LLC | 42% |
 | 7 | Tree Pros | 37% |

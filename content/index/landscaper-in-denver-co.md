@@ -22,8 +22,8 @@ utm: index_page
 | 2 | Designscapes Colorado | 94% |
 | 3 | Mile High Landscaping | 81% |
 | 4 | Little Foot Landscaping | 50% |
-| 5 | The Fisherman LLC | 25% |
-| 6 | C&H Landscaping | 25% |
+| 5 | C&H Landscaping | 25% |
+| 6 | The Fisherman LLC | 25% |
 | 7 | Little Foot Landscaping Co | 25% |
 | 8 | Highlands Landscaping & Fencing | 19% |
 | 9 | Elite Landscape & Outdoor Living | 12% |
