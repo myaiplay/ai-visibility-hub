@@ -23,8 +23,8 @@ utm: index_page
 | 3 | Logan Lawn Mowing & Garden Care | 55% |
 | 4 | BGL Services | 45% |
 | 5 | Mow on lawn solutions | 40% |
-| 6 | Brisbane Gardening and Landscaping | 40% |
-| 7 | EcoQuiet Mowing & Garden Care Brisbane | 40% |
+| 6 | EcoQuiet Mowing & Garden Care Brisbane | 40% |
+| 7 | Brisbane Gardening and Landscaping | 40% |
 | 8 | Clare James Landscape Design | 25% |
 | 9 | Highly Commended | 25% |
 | 10 | Oneflare | 25% |

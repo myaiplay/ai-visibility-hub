@@ -25,9 +25,9 @@ utm: index_page
 | 5 | Dental Elements | 67% |
 | 6 | Metropolitan Dental Care | 67% |
 | 7 | Cherry Creek Family Dentistry | 33% |
-| 8 | ZIP code | 33% |
-| 9 | Smile Studio Dental | 33% |
-| 10 | Insurance acceptance | 33% |
+| 8 | Smile Studio Dental | 33% |
+| 9 | ZIP code | 33% |
+| 10 | Distance from home or work | 33% |
 
 *Based on 3 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
