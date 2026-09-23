@@ -25,9 +25,9 @@ utm: index_page
 | 5 | Sydney CBD Dentistry | 50% |
 | 6 | Location | 25% |
 | 7 | Macquarie Dental Clinic | 17% |
-| 8 | No Gaps Dental Sydney CBD Haymarket | 17% |
-| 9 | Darlinghurst Smiles | 17% |
-| 10 | Green Apple Dental Care CBD | 17% |
+| 8 | Green Apple Dental Care CBD | 17% |
+| 9 | No Gaps Dental Sydney CBD Haymarket | 17% |
+| 10 | Darlinghurst Smiles | 17% |
 
 *Based on 12 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
