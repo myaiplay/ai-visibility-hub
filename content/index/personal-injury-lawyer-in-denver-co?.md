@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for personal injury lawyer in Denver, CO??"
-description: "We ran 7 recorded AI search tests for personal injury lawyer in Denver, CO?. These businesses get named most often."
+description: "We ran 8 recorded AI search tests for personal injury lawyer in Denver, CO?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Denver, CO?", "description": "Recorded AI search test results (7 runs) showing which businesses AI engines name for personal injury lawyer in Denver, CO?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-denver-co?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Denver, CO?", "description": "Recorded AI search test results (8 runs) showing which businesses AI engines name for personal injury lawyer in Denver, CO?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-denver-co?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a personal injury lawyer in Denver, CO??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Denver, CO?", "who should I hire for personal injury lawyer services near Denver, CO??") across 7 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Denver, CO?", "who should I hire for personal injury lawyer services near Denver, CO??") across 8 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | The Wilhite Law Firm | 86% |
-| 2 | Jordan Law | 71% |
-| 3 | Franklin D. Azar & Associates | 71% |
-| 4 | McQuaid Injury Law | 57% |
-| 5 | Bachus & Schanker | 57% |
-| 6 | Jeremy Rosenthal | 57% |
-| 7 | Denver Trial Lawyers | 43% |
-| 8 | CGH Injury Lawyers | 43% |
-| 9 | Harding & Associates | 29% |
-| 10 | Bachus & Schanker, Frank Azar, or McDivitt Law Firm | 29% |
+| 1 | Jordan Law | 75% |
+| 2 | The Wilhite Law Firm | 75% |
+| 3 | Franklin D. Azar & Associates | 75% |
+| 4 | Bachus & Schanker | 50% |
+| 5 | McQuaid Injury Law | 50% |
+| 6 | Jeremy Rosenthal | 50% |
+| 7 | CGH Injury Lawyers | 50% |
+| 8 | Denver Trial Lawyers | 38% |
+| 9 | Harding & Associates | 25% |
+| 10 | Denver Personal Injury Lawyers | 25% |
 
-*Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

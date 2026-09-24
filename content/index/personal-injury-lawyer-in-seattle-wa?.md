@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for personal injury lawyer in Seattle, WA??"
-description: "We ran 3 recorded AI search tests for personal injury lawyer in Seattle, WA?. These businesses get named most often."
+description: "We ran 4 recorded AI search tests for personal injury lawyer in Seattle, WA?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Seattle, WA?", "description": "Recorded AI search test results (3 runs) showing which businesses AI engines name for personal injury lawyer in Seattle, WA?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-seattle-wa?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Seattle, WA?", "description": "Recorded AI search test results (4 runs) showing which businesses AI engines name for personal injury lawyer in Seattle, WA?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-seattle-wa?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a personal injury lawyer in Seattle, WA??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Seattle, WA?", "who should I hire for personal injury lawyer services near Seattle, WA??") across 3 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Seattle, WA?", "who should I hire for personal injury lawyer services near Seattle, WA??") across 4 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Dubin Law Group | 100% |
 | 2 | Davis Law Group | 100% |
-| 3 | Carpenter & Zuckerman | 67% |
-| 4 | Colburn Law | 67% |
-| 5 | Pendergast Law | 67% |
-| 6 | Bishop Legal | 67% |
-| 7 | Khan Injury Law | 33% |
-| 8 | Boohoff Law | 33% |
-| 9 | Morgan & Morgan | 33% |
-| 10 | Hagens Berman | 33% |
+| 3 | Pendergast Law | 75% |
+| 4 | Bishop Legal | 50% |
+| 5 | Carpenter & Zuckerman | 50% |
+| 6 | Colburn Law | 50% |
+| 7 | Boohoff Law | 50% |
+| 8 | Morgan & Morgan | 50% |
+| 9 | Khan Injury Law | 25% |
+| 10 | Boohoff Law, P.A. | 25% |
 
-*Based on 3 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

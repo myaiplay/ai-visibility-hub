@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for house cleaner in Seattle, WA??"
-description: "We ran 19 recorded AI search tests for house cleaner in Seattle, WA?. These businesses get named most often."
+description: "We ran 20 recorded AI search tests for house cleaner in Seattle, WA?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Seattle, WA?", "description": "Recorded AI search test results (19 runs) showing which businesses AI engines name for house cleaner in Seattle, WA?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-seattle-wa?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Seattle, WA?", "description": "Recorded AI search test results (20 runs) showing which businesses AI engines name for house cleaner in Seattle, WA?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-seattle-wa?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a house cleaner in Seattle, WA??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Seattle, WA?", "who should I hire for house cleaner services near Seattle, WA??") across 19 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Seattle, WA?", "who should I hire for house cleaner services near Seattle, WA??") across 20 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Dazzle | 89% |
-| 2 | Simply Clean | 63% |
-| 3 | Rain City Maids | 58% |
-| 4 | Care.com | 47% |
-| 5 | The Maids | 42% |
-| 6 | Northlane Clean | 37% |
-| 7 | Thumbtack | 32% |
-| 8 | Seatown Cleaners | 21% |
-| 9 | NW Maids | 21% |
-| 10 | Seattle Green Cleaning Fairy | 16% |
+| 1 | Dazzle | 90% |
+| 2 | Simply Clean | 65% |
+| 3 | Rain City Maids | 60% |
+| 4 | Care.com | 45% |
+| 5 | The Maids | 45% |
+| 6 | Northlane Clean | 35% |
+| 7 | Thumbtack | 30% |
+| 8 | Seatown Cleaners | 20% |
+| 9 | NW Maids | 20% |
+| 10 | Molly Maid | 20% |
 
-*Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 20 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

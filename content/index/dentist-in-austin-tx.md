@@ -18,8 +18,8 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Holly Phillip DDS | 100% |
-| 2 | Walden Dental | 100% |
+| 1 | Walden Dental | 100% |
+| 2 | Holly Phillip DDS | 100% |
 | 3 | South Austin Dental Associates | 50% |
 | 4 | Dr. Tor Gotun, DDS | 50% |
 | 5 | Toothbar | 25% |

@@ -24,8 +24,8 @@ utm: index_page
 | 4 | Life Smiles Dental Care | 40% |
 | 5 | Arizona Biltmore Dentistry | 40% |
 | 6 | North Mountain Dentistry | 40% |
-| 7 | Phoenician Dentistry | 30% |
-| 8 | Downtown Phoenix Dental | 30% |
+| 7 | Downtown Phoenix Dental | 30% |
+| 8 | Phoenician Dentistry | 30% |
 | 9 | Dr. Kevin Ortale, DDS | 30% |
 | 10 | Downtown Smiles Dental Care | 30% |
 

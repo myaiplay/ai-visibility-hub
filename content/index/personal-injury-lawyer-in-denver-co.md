@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for personal injury lawyer in Denver, CO?"
-description: "We ran 8 recorded AI search tests for personal injury lawyer in Denver, CO. These businesses get named most often."
+description: "We ran 9 recorded AI search tests for personal injury lawyer in Denver, CO. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Denver, CO", "description": "Recorded AI search test results (8 runs) showing which businesses AI engines name for personal injury lawyer in Denver, CO.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-denver-co/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Denver, CO", "description": "Recorded AI search test results (9 runs) showing which businesses AI engines name for personal injury lawyer in Denver, CO.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-denver-co/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a personal injury lawyer in Denver, CO?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Denver, CO", "who should I hire for personal injury lawyer services near Denver, CO?") across 8 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Denver, CO", "who should I hire for personal injury lawyer services near Denver, CO?") across 9 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Ramos Law | 62% |
-| 2 | Harding & Associates | 62% |
-| 3 | Bachus & Schanker | 50% |
-| 4 | Zaner Law | 50% |
-| 5 | Trial readiness | 50% |
-| 6 | Denver Personal Injury Lawyers | 38% |
-| 7 | Jordan Law | 38% |
-| 8 | Caseload per attorney | 38% |
-| 9 | Avvo | 38% |
-| 10 | Super Lawyers | 38% |
+| 1 | Ramos Law | 67% |
+| 2 | Zaner Law | 56% |
+| 3 | Harding & Associates | 56% |
+| 4 | Bachus & Schanker | 44% |
+| 5 | Jordan Law | 44% |
+| 6 | Trial readiness | 44% |
+| 7 | Denver Personal Injury Lawyers | 33% |
+| 8 | Caseload per attorney | 33% |
+| 9 | Avvo | 33% |
+| 10 | Super Lawyers | 33% |
 
-*Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 9 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

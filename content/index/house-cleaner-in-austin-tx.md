@@ -22,12 +22,12 @@ utm: index_page
 | 2 | Sparkly Maid Austin Cleaning Services | 90% |
 | 3 | Tidy Hands Cleaners | 65% |
 | 4 | Maids and Moore | 55% |
-| 5 | DF CLEANING LLC | 25% |
-| 6 | Mystik Cleaning Service | 25% |
+| 5 | Mystik Cleaning Service | 25% |
+| 6 | DF CLEANING LLC | 25% |
 | 7 | MoreHands Maid Service | 20% |
 | 8 | Purple Fig Eco Cleaning Co. | 15% |
 | 9 | The Cleaning Authority Austin | 10% |
-| 10 | Trustworthy Cleaning Services | 5% |
+| 10 | Austin Cleaning Crew | 5% |
 
 *Based on 20 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
