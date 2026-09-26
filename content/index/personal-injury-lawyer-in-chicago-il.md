@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for personal injury lawyer in Chicago, IL?"
-description: "We ran 4 recorded AI search tests for personal injury lawyer in Chicago, IL. These businesses get named most often."
+description: "We ran 5 recorded AI search tests for personal injury lawyer in Chicago, IL. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Chicago, IL", "description": "Recorded AI search test results (4 runs) showing which businesses AI engines name for personal injury lawyer in Chicago, IL.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-chicago-il/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Chicago, IL", "description": "Recorded AI search test results (5 runs) showing which businesses AI engines name for personal injury lawyer in Chicago, IL.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-chicago-il/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a personal injury lawyer in Chicago, IL?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Chicago, IL", "who should I hire for personal injury lawyer services near Chicago, IL?") across 4 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Chicago, IL", "who should I hire for personal injury lawyer services near Chicago, IL?") across 5 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Rosenfeld Injury Lawyers | 100% |
-| 2 | Disparti Law Group | 50% |
-| 3 | Salvi, Schostok & Pritchard P.C. | 50% |
-| 4 | Phillips Law Offices | 50% |
-| 5 | Morgan & Morgan | 50% |
-| 6 | Salvi, Schostok & Pritchard | 50% |
-| 7 | Smith LaCien LLP | 50% |
-| 8 | Corboy & Demetrio | 50% |
-| 9 | Justia | 25% |
-| 10 | Malman Law | 25% |
+| 2 | Corboy & Demetrio | 60% |
+| 3 | Salvi, Schostok & Pritchard | 60% |
+| 4 | Smith LaCien LLP | 60% |
+| 5 | Disparti Law Group | 40% |
+| 6 | Phillips Law Offices | 40% |
+| 7 | Salvi, Schostok & Pritchard P.C. | 40% |
+| 8 | Morgan & Morgan | 40% |
+| 9 | Malman Law | 20% |
+| 10 | FindLaw | 20% |
 
-*Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
