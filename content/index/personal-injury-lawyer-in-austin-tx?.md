@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for personal injury lawyer in Austin, TX??"
-description: "We ran 8 recorded AI search tests for personal injury lawyer in Austin, TX?. These businesses get named most often."
+description: "We ran 9 recorded AI search tests for personal injury lawyer in Austin, TX?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Austin, TX?", "description": "Recorded AI search test results (8 runs) showing which businesses AI engines name for personal injury lawyer in Austin, TX?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-austin-tx?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Austin, TX?", "description": "Recorded AI search test results (9 runs) showing which businesses AI engines name for personal injury lawyer in Austin, TX?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-austin-tx?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a personal injury lawyer in Austin, TX??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Austin, TX?", "who should I hire for personal injury lawyer services near Austin, TX??") across 8 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Austin, TX?", "who should I hire for personal injury lawyer services near Austin, TX??") across 9 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | FVF Law Firm | 100% |
-| 2 | TK Injury Lawyers | 62% |
-| 3 | Anderson Injury Lawyers | 50% |
-| 4 | Sandoval & James | 50% |
-| 5 | Thomas J. Henry Law | 50% |
-| 6 | Anderson Injury Lawyers Austin | 25% |
-| 7 | Experience with your injury type | 25% |
-| 8 | Thomas J. Henry | 25% |
-| 9 | Angel Reyes & Associates | 25% |
-| 10 | Cofer & Connelly | 25% |
+| 2 | TK Injury Lawyers | 56% |
+| 3 | Thomas J. Henry Law | 56% |
+| 4 | Sandoval & James | 44% |
+| 5 | Anderson Injury Lawyers | 44% |
+| 6 | Cofer & Connelly | 33% |
+| 7 | Howry, Breen & Herman | 33% |
+| 8 | Anderson Injury Lawyers Austin | 22% |
+| 9 | Experience with your injury type | 22% |
+| 10 | Thomas J. Henry | 22% |
 
-*Based on 8 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 9 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

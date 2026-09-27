@@ -26,7 +26,7 @@ utm: index_page
 | 6 | New Life Rockeries | 5% |
 | 7 | Devonshire Landscapes | 5% |
 | 8 | Seattle Gardening Co. | 5% |
-| 9 | Review volume and rating | 5% |
+| 9 | Licensing, insurance, and estimate responsiveness | 5% |
 | 10 | Houzz-listed Seattle professionals | 5% |
 
 *Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

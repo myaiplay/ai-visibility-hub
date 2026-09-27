@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for house cleaner in Melbourne, Australia?"
-description: "We ran 17 recorded AI search tests for house cleaner in Melbourne, Australia. These businesses get named most often."
+description: "We ran 18 recorded AI search tests for house cleaner in Melbourne, Australia. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Melbourne, Australia", "description": "Recorded AI search test results (17 runs) showing which businesses AI engines name for house cleaner in Melbourne, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-melbourne-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Melbourne, Australia", "description": "Recorded AI search test results (18 runs) showing which businesses AI engines name for house cleaner in Melbourne, Australia.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-melbourne-australia/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a house cleaner in Melbourne, Australia?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Melbourne, Australia", "who should I hire for house cleaner services near Melbourne, Australia?") across 17 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Melbourne, Australia", "who should I hire for house cleaner services near Melbourne, Australia?") across 18 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Maid to Clean | 94% |
-| 2 | Inner City Maids | 76% |
-| 3 | Cleaning Professionals | 41% |
-| 4 | Airtasker | 41% |
-| 5 | Maid in Melbourne | 35% |
-| 6 | Word of Mouth | 35% |
-| 7 | MyHome | 18% |
-| 8 | Absolute Domestics | 18% |
-| 9 | Calibre Cleaning | 18% |
-| 10 | Maid2Match | 18% |
+| 2 | Inner City Maids | 72% |
+| 3 | Cleaning Professionals | 44% |
+| 4 | Airtasker | 44% |
+| 5 | Maid in Melbourne | 33% |
+| 6 | Word of Mouth | 33% |
+| 7 | MyHome | 17% |
+| 8 | Calibre Cleaning | 17% |
+| 9 | Absolute Domestics | 17% |
+| 10 | Airtasker cleaners | 17% |
 
-*Based on 17 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 18 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
