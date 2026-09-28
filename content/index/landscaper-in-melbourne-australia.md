@@ -23,8 +23,8 @@ utm: index_page
 | 3 | Garden More Landscaping | 47% |
 | 4 | Grassroots Landscaping & Maintenance | 37% |
 | 5 | Love It Landscaping | 32% |
-| 6 | Augusta Lawn Care | 26% |
-| 7 | Melbourne Decking and Landscaping | 26% |
+| 6 | Melbourne Decking and Landscaping | 26% |
+| 7 | Augusta Lawn Care | 26% |
 | 8 | Bayside Landscaping | 26% |
 | 9 | Hipages | 21% |
 | 10 | Word of Mouth | 21% |

@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for house cleaner in Sydney, Australia??"
-description: "We ran 15 recorded AI search tests for house cleaner in Sydney, Australia?. These businesses get named most often."
+description: "We ran 16 recorded AI search tests for house cleaner in Sydney, Australia?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Sydney, Australia?", "description": "Recorded AI search test results (15 runs) showing which businesses AI engines name for house cleaner in Sydney, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-sydney-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: house cleaner in Sydney, Australia?", "description": "Recorded AI search test results (16 runs) showing which businesses AI engines name for house cleaner in Sydney, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/house-cleaner-in-sydney-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a house cleaner in Sydney, Australia??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Sydney, Australia?", "who should I hire for house cleaner services near Sydney, Australia??") across 15 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best house cleaner in Sydney, Australia?", "who should I hire for house cleaner services near Sydney, Australia??") across 16 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Simply Maid | 93% |
-| 2 | Miracle Maid | 93% |
-| 3 | Pristine Home | 53% |
-| 4 | Dash & Shine | 47% |
-| 5 | Airtasker | 33% |
-| 6 | Cleaning Ease | 27% |
-| 7 | Maid2Go Cleaning Sydney | 27% |
-| 8 | Bark | 27% |
-| 9 | Cleanright | 27% |
-| 10 | Bebrite Cleaning Services | 20% |
+| 1 | Simply Maid | 94% |
+| 2 | Miracle Maid | 94% |
+| 3 | Pristine Home | 50% |
+| 4 | Dash & Shine | 44% |
+| 5 | Airtasker | 31% |
+| 6 | Cleanright | 31% |
+| 7 | Cleaning Ease | 25% |
+| 8 | Maid2Go Cleaning Sydney | 25% |
+| 9 | Bark | 25% |
+| 10 | Bebrite Cleaning Services | 19% |
 
-*Based on 15 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 16 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
