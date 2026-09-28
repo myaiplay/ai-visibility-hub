@@ -22,8 +22,8 @@ utm: index_page
 | 2 | Cleaning Professionals | 78% |
 | 3 | Maid to Clean | 67% |
 | 4 | Maid in Melbourne | 50% |
-| 5 | Airtasker | 39% |
-| 6 | Absolute Domestics | 39% |
+| 5 | Absolute Domestics | 39% |
+| 6 | Airtasker | 39% |
 | 7 | Bark | 33% |
 | 8 | Bizzi Beez | 28% |
 | 9 | Word of Mouth | 28% |

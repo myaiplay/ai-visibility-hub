@@ -23,8 +23,8 @@ utm: index_page
 | 3 | Ramos Law | 75% |
 | 4 | Lerner & Rowe | 75% |
 | 5 | Lerner & Rowe Injury Attorneys | 50% |
-| 6 | Zinda Law Group | 50% |
-| 7 | Gallagher & Kennedy | 50% |
+| 6 | Gallagher & Kennedy | 50% |
+| 7 | Zinda Law Group | 50% |
 | 8 | Phillips Law Group | 50% |
 | 9 | Runion Law | 25% |
 

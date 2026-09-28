@@ -22,8 +22,8 @@ utm: index_page
 | 2 | Holly Phillip DDS | 100% |
 | 3 | South Austin Dental Associates | 50% |
 | 4 | Dr. Tor Gotun, DDS | 50% |
-| 5 | Toothbar | 25% |
-| 6 | Austin Dental Works | 25% |
+| 5 | Austin Dental Works | 25% |
+| 6 | Toothbar | 25% |
 | 7 | Celebrate Dental & Braces South Austin | 25% |
 | 8 | AK Dental of Austin | 25% |
 

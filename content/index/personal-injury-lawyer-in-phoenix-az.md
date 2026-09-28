@@ -23,11 +23,11 @@ utm: index_page
 | 3 | Friedl Richardson | 80% |
 | 4 | Zanes Law | 60% |
 | 5 | Gallagher & Kennedy | 60% |
-| 6 | Expertise | 40% |
-| 7 | Kelly Law Team | 40% |
+| 6 | Kelly Law Team | 40% |
+| 7 | Expertise | 40% |
 | 8 | Super Lawyers | 40% |
 | 9 | Ramos Law | 40% |
-| 10 | Best Law Firms | 20% |
+| 10 | Hirsch & Lyon Accident Law PLLC | 20% |
 
 *Based on 5 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

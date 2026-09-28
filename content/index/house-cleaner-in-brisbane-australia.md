@@ -25,8 +25,8 @@ utm: index_page
 | 5 | Brisbane House Cleaners | 20% |
 | 6 | The Naturally Clean Co | 20% |
 | 7 | Easy Bliss | 20% |
-| 8 | Service.com.au | 13% |
-| 9 | Hipages | 13% |
+| 8 | Hipages | 13% |
+| 9 | Service.com.au | 13% |
 | 10 | Houseproud | 13% |
 
 *Based on 15 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

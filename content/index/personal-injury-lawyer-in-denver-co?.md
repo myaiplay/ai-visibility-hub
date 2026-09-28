@@ -25,8 +25,8 @@ utm: index_page
 | 5 | Ramos Law | 50% |
 | 6 | Bachus & Schanker | 42% |
 | 7 | Jeremy Rosenthal | 42% |
-| 8 | Burg Simpson | 42% |
-| 9 | Morgan & Morgan | 42% |
+| 8 | Morgan & Morgan | 42% |
+| 9 | Burg Simpson | 42% |
 | 10 | McQuaid Injury Law | 33% |
 
 *Based on 12 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

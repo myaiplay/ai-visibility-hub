@@ -18,8 +18,8 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Simply Maid | 94% |
-| 2 | Miracle Maid | 94% |
+| 1 | Miracle Maid | 94% |
+| 2 | Simply Maid | 94% |
 | 3 | Pristine Home | 50% |
 | 4 | Dash & Shine | 44% |
 | 5 | Airtasker | 31% |

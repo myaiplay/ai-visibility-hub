@@ -18,12 +18,12 @@ utm: index_page
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Howry, Breen & Herman, LLP | 91% |
-| 2 | FVF Law Firm | 91% |
+| 1 | FVF Law Firm | 91% |
+| 2 | Howry, Breen & Herman, LLP | 91% |
 | 3 | Thomas J. Henry Law | 64% |
 | 4 | McMinn Personal Injury Lawyers | 36% |
-| 5 | Herrman & Herrman, P.L.L.C. | 36% |
-| 6 | Cofer & Connelly, PLLC | 36% |
+| 5 | Cofer & Connelly, PLLC | 36% |
+| 6 | Herrman & Herrman, P.L.L.C. | 36% |
 | 7 | Reyes Law | 27% |
 | 8 | Lorenz & Lorenz Accident & Injury Lawyers | 27% |
 | 9 | Avvo | 27% |

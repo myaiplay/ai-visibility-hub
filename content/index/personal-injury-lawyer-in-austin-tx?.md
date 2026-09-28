@@ -21,11 +21,11 @@ utm: index_page
 | 1 | FVF Law Firm | 100% |
 | 2 | Thomas J. Henry Law | 60% |
 | 3 | TK Injury Lawyers | 50% |
-| 4 | Anderson Injury Lawyers | 40% |
-| 5 | Sandoval & James | 40% |
+| 4 | Sandoval & James | 40% |
+| 5 | Anderson Injury Lawyers | 40% |
 | 6 | Howry, Breen & Herman | 40% |
-| 7 | Cofer & Connelly | 30% |
-| 8 | Herrman & Herrman | 30% |
+| 7 | Herrman & Herrman | 30% |
+| 8 | Cofer & Connelly | 30% |
 | 9 | Anderson Injury Lawyers Austin | 20% |
 | 10 | Experience with your injury type | 20% |
 

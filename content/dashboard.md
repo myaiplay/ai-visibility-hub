@@ -8,7 +8,7 @@ date: 2026-09-28
 # Automation dashboard
 
 <p class="lede">🟢 All systems running</p>
-<p class="meta">Last updated: 28 September 2026, 09:52 UTC · rebuilds nightly</p>
+<p class="meta">Last updated: 28 September 2026, 13:41 UTC · rebuilds nightly</p>
 
 ## Spend (hard-capped)
 
@@ -25,24 +25,19 @@ date: 2026-09-28
 | Test days recorded | 43 |
 | Buyer prompts tested | 844 |
 | Stat pages live | 58 |
-| Articles syndicated to Dev.to | 15 |
+| Articles syndicated to Dev.to | 16 |
 | Bluesky posts made | 5 (last: 27 Sep, 17:56 UTC) |
 
 ## Traffic
 
-| Signal | Value |
-|---|---|
-| Clicks through to aicantfindme.com (14d) | 0 |
-| Dev.to article views | 46 |
-| Dev.to reactions | 0 |
-| Bluesky followers | 1 |
+_Traffic APIs not reachable from this environment._
 
 ## Next scheduled runs
 
 | Job | Next run |
 |---|---|
 | Data engine (12 AI tests) | Tue 29 Sep, 03:17 local |
-| Bluesky post | Mon 28 Sep, 13:37 local |
+| Bluesky post | Tue 29 Sep, 13:37 local |
 | X post | Mon 28 Sep, 21:43 local |
 | Dev.to catch-up | Mon 05 Oct, 05:11 local |
 | Weekly data article | Mon 05 Oct, 06:07 local |

@@ -23,8 +23,8 @@ utm: index_page
 | 3 | Corboy & Demetrio | 71% |
 | 4 | Salvi, Schostok & Pritchard | 57% |
 | 5 | Salvi, Schostok & Pritchard P.C. | 43% |
-| 6 | Disparti Law Group | 29% |
-| 7 | Phillips Law Offices | 29% |
+| 6 | Phillips Law Offices | 29% |
+| 7 | Disparti Law Group | 29% |
 | 8 | Morgan & Morgan | 29% |
 | 9 | Case type | 29% |
 | 10 | Levin & Perconti | 29% |

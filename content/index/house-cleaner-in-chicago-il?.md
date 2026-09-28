@@ -23,8 +23,8 @@ utm: index_page
 | 3 | Sweep Home Chicago | 40% |
 | 4 | King of Maids | 40% |
 | 5 | Happy Home Cleaning Chicago | 35% |
-| 6 | House Keep Up | 30% |
-| 7 | Care.com | 30% |
+| 6 | Care.com | 30% |
+| 7 | House Keep Up | 30% |
 | 8 | Best Maids | 25% |
 | 9 | Taskrabbit | 25% |
 | 10 | MaidPro Chicago-Lincoln Park | 20% |

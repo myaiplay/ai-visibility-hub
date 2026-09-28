@@ -21,8 +21,8 @@ utm: index_page
 | 1 | Davis Law Group | 88% |
 | 2 | Dubin Law Group | 88% |
 | 3 | Pendergast Law | 75% |
-| 4 | Morgan & Morgan | 75% |
-| 5 | Boohoff Law | 75% |
+| 4 | Boohoff Law | 75% |
+| 5 | Morgan & Morgan | 75% |
 | 6 | Carpenter & Zuckerman | 38% |
 | 7 | Bishop Legal | 25% |
 | 8 | Colburn Law | 25% |

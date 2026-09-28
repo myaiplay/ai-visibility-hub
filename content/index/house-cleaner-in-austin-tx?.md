@@ -25,8 +25,8 @@ utm: index_page
 | 5 | Maids and Moore | 40% |
 | 6 | Merry Maids South Austin | 40% |
 | 7 | Molly Maid Austin | 40% |
-| 8 | DF CLEANING LLC | 35% |
-| 9 | Mystik Cleaning Service | 35% |
+| 8 | Mystik Cleaning Service | 35% |
+| 9 | DF CLEANING LLC | 35% |
 | 10 | Austin Cleaning Crew | 25% |
 
 *Based on 20 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*

@@ -20,8 +20,8 @@ utm: index_page
 |---|---|---|
 | 1 | Ramos Law | 69% |
 | 2 | Zaner Law | 46% |
-| 3 | Bachus & Schanker | 38% |
-| 4 | Jordan Law | 38% |
+| 3 | Jordan Law | 38% |
+| 4 | Bachus & Schanker | 38% |
 | 5 | Harding & Associates | 38% |
 | 6 | Trial readiness | 31% |
 | 7 | CGH Injury Lawyers | 31% |

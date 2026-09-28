@@ -21,12 +21,12 @@ utm: index_page
 | 1 | Shine Lawyers | 100% |
 | 2 | Slater & Gordon | 100% |
 | 3 | Maurice Blackburn | 100% |
-| 4 | Maxiom Injury Lawyers | 67% |
-| 5 | Brave Legal | 67% |
+| 4 | Brave Legal | 67% |
+| 5 | Maxiom Injury Lawyers | 67% |
 | 6 | Specialization | 33% |
 | 7 | Arnold Thomas & Becker | 33% |
-| 8 | Fittipaldi Injury Lawyers | 33% |
-| 9 | Gordon Legal | 33% |
+| 8 | Gordon Legal | 33% |
+| 9 | Fittipaldi Injury Lawyers | 33% |
 
 *Based on 3 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
