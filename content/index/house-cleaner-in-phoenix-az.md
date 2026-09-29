@@ -22,8 +22,8 @@ utm: index_page
 | 2 | MaidPro Phoenix | 90% |
 | 3 | The Maids | 50% |
 | 4 | The Cleaning Authority | 45% |
-| 5 | Desert First Cleaning | 40% |
-| 6 | De La Rosa House Cleaning | 40% |
+| 5 | De La Rosa House Cleaning | 40% |
+| 6 | Desert First Cleaning | 40% |
 | 7 | Molly Maid | 35% |
 | 8 | Molly Maid Phoenix | 20% |
 | 9 | Maid Easy | 15% |

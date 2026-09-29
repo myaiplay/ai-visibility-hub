@@ -21,13 +21,13 @@ utm: index_page
 | 1 | The Deep Cleaners | 85% |
 | 2 | House Keep Up | 45% |
 | 3 | Homeaglow | 35% |
-| 4 | Sparkly Maid | 30% |
-| 5 | Sparkly Maid Chicago | 30% |
+| 4 | Sparkly Maid Chicago | 30% |
+| 5 | Sparkly Maid | 30% |
 | 6 | Care.com | 25% |
 | 7 | King of Maids | 25% |
 | 8 | Sparkle Elite Cleaning | 25% |
-| 9 | Sweep Home Chicago | 20% |
-| 10 | Angi | 20% |
+| 9 | Angi | 20% |
+| 10 | Sweep Home Chicago | 20% |
 
 *Based on 20 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

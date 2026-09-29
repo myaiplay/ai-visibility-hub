@@ -20,14 +20,14 @@ utm: index_page
 |---|---|---|
 | 1 | R&R Landscaping & Outdoor Design | 63% |
 | 2 | E&E Landscape Services | 53% |
-| 3 | Valley of the Sun Landscaping | 47% |
-| 4 | Divine Design Landscaping | 47% |
+| 3 | Divine Design Landscaping | 47% |
+| 4 | Valley of the Sun Landscaping | 47% |
 | 5 | Masterscapes LLC | 42% |
 | 6 | Family Landscaping LLC | 42% |
 | 7 | Tree Pros | 37% |
 | 8 | Diamond Stone & Synthetic Grass | 32% |
-| 9 | Unwind Landscapes | 21% |
-| 10 | BIG BOSS Landscape | 21% |
+| 9 | BIG BOSS Landscape | 21% |
+| 10 | Unwind Landscapes | 21% |
 
 *Based on 19 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

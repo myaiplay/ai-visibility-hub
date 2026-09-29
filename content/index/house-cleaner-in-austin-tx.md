@@ -27,7 +27,7 @@ utm: index_page
 | 7 | MoreHands Maid Service | 20% |
 | 8 | Purple Fig Eco Cleaning Co. | 15% |
 | 9 | The Cleaning Authority Austin | 10% |
-| 10 | Austin Cleaning Crew | 5% |
+| 10 | Trustworthy Cleaning Services | 5% |
 
 *Based on 20 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 

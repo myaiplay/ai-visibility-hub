@@ -19,8 +19,8 @@ utm: index_page
 | Rank | Business | Named in % of answers |
 |---|---|---|
 | 1 | Dazzle | 65% |
-| 2 | Rain City Maids | 60% |
-| 3 | Seattle Green Cleaning Fairy | 60% |
+| 2 | Seattle Green Cleaning Fairy | 60% |
+| 3 | Rain City Maids | 60% |
 | 4 | Simply Clean | 50% |
 | 5 | AA Window and Gutter Cleaning | 35% |
 | 6 | The Maids | 25% |
