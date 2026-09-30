@@ -22,8 +22,8 @@ utm: index_page
 | 2 | Absolute Domestics | 44% |
 | 3 | Oneflare | 38% |
 | 4 | Houseproud Cleaners | 25% |
-| 5 | Brisbane House Cleaners | 19% |
-| 6 | The Naturally Clean Co | 19% |
+| 5 | The Naturally Clean Co | 19% |
+| 6 | Brisbane House Cleaners | 19% |
 | 7 | Easy Bliss | 19% |
 | 8 | Brisbane Commercial Cleaning and Pest Control | 19% |
 | 9 | Houseproud | 12% |

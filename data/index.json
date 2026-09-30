@@ -7,11 +7,11 @@
       "slug": "dentist-in-austin-tx",
       "top": [
         {
-          "name": "Walden Dental",
+          "name": "Holly Phillip DDS",
           "mention_rate": 1.0
         },
         {
-          "name": "Holly Phillip DDS",
+          "name": "Walden Dental",
           "mention_rate": 1.0
         },
         {
@@ -23,11 +23,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "Austin Dental Works",
+          "name": "Toothbar",
           "mention_rate": 0.25
         },
         {
-          "name": "Toothbar",
+          "name": "Austin Dental Works",
           "mention_rate": 0.25
         },
         {
@@ -67,7 +67,7 @@
           "mention_rate": 0.8
         },
         {
-          "name": "Tech Ridge Dental",
+          "name": "Austin Artistic Dental",
           "mention_rate": 0.6
         },
         {
@@ -75,7 +75,7 @@
           "mention_rate": 0.6
         },
         {
-          "name": "Austin Artistic Dental",
+          "name": "Tech Ridge Dental",
           "mention_rate": 0.6
         },
         {
@@ -83,7 +83,7 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Austin Dental Works",
+          "name": "Vesga Advanced Proodontics",
           "mention_rate": 0.2
         }
       ]
@@ -199,11 +199,11 @@
           "mention_rate": 0.38
         },
         {
-          "name": "Smile Science Chicago",
+          "name": "University Associates in Dentistry",
           "mention_rate": 0.38
         },
         {
-          "name": "University Associates in Dentistry",
+          "name": "Smile Science Chicago",
           "mention_rate": 0.38
         },
         {
@@ -267,11 +267,11 @@
           "mention_rate": 0.33
         },
         {
-          "name": "DentArt Chicago",
+          "name": "All in One Dentistry",
           "mention_rate": 0.22
         },
         {
-          "name": "All in One Dentistry",
+          "name": "DentArt Chicago",
           "mention_rate": 0.22
         },
         {
@@ -291,11 +291,11 @@
           "mention_rate": 1.0
         },
         {
-          "name": "OG Dental Denver",
+          "name": "Pearl Dentistry",
           "mention_rate": 0.67
         },
         {
-          "name": "Pearl Dentistry",
+          "name": "OG Dental Denver",
           "mention_rate": 0.67
         },
         {
@@ -315,15 +315,15 @@
           "mention_rate": 0.33
         },
         {
-          "name": "ZIP code",
-          "mention_rate": 0.33
-        },
-        {
           "name": "Smile Studio Dental",
           "mention_rate": 0.33
         },
         {
-          "name": "Need",
+          "name": "ZIP code",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Insurance acceptance",
           "mention_rate": 0.33
         }
       ]
@@ -371,7 +371,7 @@
           "mention_rate": 0.09
         },
         {
-          "name": "Hours",
+          "name": "Location",
           "mention_rate": 0.09
         }
       ]
@@ -407,19 +407,19 @@
           "mention_rate": 0.18
         },
         {
-          "name": "Word of Mouth",
-          "mention_rate": 0.18
-        },
-        {
           "name": "Australian Dentists Clinic",
           "mention_rate": 0.18
         },
         {
-          "name": "Availability",
+          "name": "Word of Mouth",
           "mention_rate": 0.18
         },
         {
           "name": "Location",
+          "mention_rate": 0.18
+        },
+        {
+          "name": "Availability",
           "mention_rate": 0.18
         }
       ]
@@ -463,11 +463,11 @@
           "mention_rate": 0.2
         },
         {
-          "name": "Phoenix Magazine Top Dentist profiles",
+          "name": "WebMD",
           "mention_rate": 0.1
         },
         {
-          "name": "WebMD",
+          "name": "Phoenix Magazine Top Dentist profiles",
           "mention_rate": 0.1
         }
       ]
@@ -487,14 +487,6 @@
           "mention_rate": 0.6
         },
         {
-          "name": "Life Smiles Dental Care",
-          "mention_rate": 0.4
-        },
-        {
-          "name": "Arizona Biltmore Dentistry",
-          "mention_rate": 0.4
-        },
-        {
           "name": "The Biting Edge Family Dentistry",
           "mention_rate": 0.4
         },
@@ -503,11 +495,19 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Phoenician Dentistry",
-          "mention_rate": 0.3
+          "name": "Life Smiles Dental Care",
+          "mention_rate": 0.4
+        },
+        {
+          "name": "Arizona Biltmore Dentistry",
+          "mention_rate": 0.4
         },
         {
           "name": "Downtown Phoenix Dental",
+          "mention_rate": 0.3
+        },
+        {
+          "name": "Phoenician Dentistry",
           "mention_rate": 0.3
         },
         {
@@ -527,15 +527,11 @@
       "slug": "dentist-in-seattle-wa",
       "top": [
         {
-          "name": "Best Dentistry",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Dr. Spencer Face",
           "mention_rate": 1.0
         },
         {
-          "name": "Dr. Chris Pickel",
+          "name": "Best Dentistry",
           "mention_rate": 1.0
         },
         {
@@ -543,23 +539,27 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Seattle Met Top Dentists 2026",
-          "mention_rate": 0.33
+          "name": "Dr. Chris Pickel",
+          "mention_rate": 1.0
         },
         {
-          "name": "North Seattle Dental",
-          "mention_rate": 0.17
+          "name": "Seattle Met Top Dentists 2026",
+          "mention_rate": 0.33
         },
         {
           "name": "Top Dentists 2026",
           "mention_rate": 0.17
         },
         {
-          "name": "Insurance acceptance",
+          "name": "North Seattle Dental",
           "mention_rate": 0.17
         },
         {
           "name": "Location and convenience",
+          "mention_rate": 0.17
+        },
+        {
+          "name": "Insurance acceptance",
           "mention_rate": 0.17
         },
         {
@@ -591,19 +591,19 @@
           "mention_rate": 0.43
         },
         {
-          "name": "Sage Family Dental",
-          "mention_rate": 0.43
-        },
-        {
           "name": "ICHS Dental Care",
           "mention_rate": 0.43
         },
         {
-          "name": "Seattle, WA 98115",
-          "mention_rate": 0.14
+          "name": "Sage Family Dental",
+          "mention_rate": 0.43
         },
         {
           "name": "Roosevelt Dental",
+          "mention_rate": 0.14
+        },
+        {
+          "name": "Seattle, WA 98115",
           "mention_rate": 0.14
         },
         {
@@ -611,7 +611,7 @@
           "mention_rate": 0.14
         },
         {
-          "name": "Low-cost or community dental care",
+          "name": "A highly rated Seattle practice",
           "mention_rate": 0.14
         }
       ]
@@ -623,11 +623,11 @@
       "slug": "dentist-in-sydney-australia",
       "top": [
         {
-          "name": "Quay Dental Clinic",
+          "name": "Pitt Street Dental Centre",
           "mention_rate": 1.0
         },
         {
-          "name": "Pitt Street Dental Centre",
+          "name": "Quay Dental Clinic",
           "mention_rate": 1.0
         },
         {
@@ -635,11 +635,11 @@
           "mention_rate": 0.67
         },
         {
-          "name": "Sydney CBD Dentistry",
+          "name": "Spa Dental Sydney CBD",
           "mention_rate": 0.5
         },
         {
-          "name": "Spa Dental Sydney CBD",
+          "name": "Sydney CBD Dentistry",
           "mention_rate": 0.5
         },
         {
@@ -655,11 +655,11 @@
           "mention_rate": 0.17
         },
         {
-          "name": "No Gaps Dental Sydney CBD Haymarket",
+          "name": "Darlinghurst Smiles",
           "mention_rate": 0.17
         },
         {
-          "name": "Darlinghurst Smiles",
+          "name": "No Gaps Dental Sydney CBD Haymarket",
           "mention_rate": 0.17
         }
       ]
@@ -699,11 +699,11 @@
           "mention_rate": 0.23
         },
         {
-          "name": "The Paddington Dental Surgery",
+          "name": "Emergency Dentist Sydney",
           "mention_rate": 0.15
         },
         {
-          "name": "Emergency Dentist Sydney",
+          "name": "The Paddington Dental Surgery",
           "mention_rate": 0.15
         },
         {
@@ -735,11 +735,11 @@
           "mention_rate": 0.55
         },
         {
-          "name": "Mystik Cleaning Service",
+          "name": "DF CLEANING LLC",
           "mention_rate": 0.25
         },
         {
-          "name": "DF CLEANING LLC",
+          "name": "Mystik Cleaning Service",
           "mention_rate": 0.25
         },
         {
@@ -795,11 +795,11 @@
           "mention_rate": 0.4
         },
         {
-          "name": "Mystik Cleaning Service",
+          "name": "DF CLEANING LLC",
           "mention_rate": 0.35
         },
         {
-          "name": "DF CLEANING LLC",
+          "name": "Mystik Cleaning Service",
           "mention_rate": 0.35
         },
         {
@@ -831,11 +831,11 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Brisbane House Cleaners",
+          "name": "The Naturally Clean Co",
           "mention_rate": 0.19
         },
         {
-          "name": "The Naturally Clean Co",
+          "name": "Brisbane House Cleaners",
           "mention_rate": 0.19
         },
         {
@@ -859,48 +859,48 @@
     {
       "category": "house cleaner",
       "city": "Brisbane, Australia?",
-      "runs": 15,
+      "runs": 16,
       "slug": "house-cleaner-in-brisbane-australia?",
       "top": [
         {
           "name": "Absolute Domestics",
-          "mention_rate": 0.8
+          "mention_rate": 0.75
         },
         {
           "name": "Brisbane House Cleaners",
-          "mention_rate": 0.53
+          "mention_rate": 0.5
         },
         {
           "name": "Airtasker",
-          "mention_rate": 0.53
+          "mention_rate": 0.5
         },
         {
           "name": "Kleaning",
-          "mention_rate": 0.47
+          "mention_rate": 0.44
         },
         {
           "name": "Trem Clean",
-          "mention_rate": 0.47
+          "mention_rate": 0.44
         },
         {
           "name": "Oneflare",
-          "mention_rate": 0.4
+          "mention_rate": 0.38
         },
         {
           "name": "Hipages",
-          "mention_rate": 0.33
+          "mention_rate": 0.31
         },
         {
           "name": "FYS Cleaning Services",
-          "mention_rate": 0.27
+          "mention_rate": 0.25
         },
         {
           "name": "Simply Maid",
-          "mention_rate": 0.27
+          "mention_rate": 0.25
         },
         {
           "name": "Easy Bliss",
-          "mention_rate": 0.13
+          "mention_rate": 0.12
         }
       ]
     },
@@ -1111,11 +1111,11 @@
           "mention_rate": 0.65
         },
         {
-          "name": "Airtasker",
+          "name": "Cleaning Professionals",
           "mention_rate": 0.5
         },
         {
-          "name": "Cleaning Professionals",
+          "name": "Airtasker",
           "mention_rate": 0.5
         },
         {
@@ -1147,48 +1147,48 @@
     {
       "category": "house cleaner",
       "city": "Melbourne, Australia?",
-      "runs": 19,
+      "runs": 20,
       "slug": "house-cleaner-in-melbourne-australia?",
       "top": [
         {
           "name": "Inner City Maids",
-          "mention_rate": 0.84
-        },
-        {
-          "name": "Cleaning Professionals",
-          "mention_rate": 0.74
+          "mention_rate": 0.8
         },
         {
           "name": "Maid to Clean",
-          "mention_rate": 0.68
+          "mention_rate": 0.7
+        },
+        {
+          "name": "Cleaning Professionals",
+          "mention_rate": 0.7
         },
         {
           "name": "Maid in Melbourne",
-          "mention_rate": 0.53
+          "mention_rate": 0.5
         },
         {
           "name": "Airtasker",
-          "mention_rate": 0.37
+          "mention_rate": 0.4
         },
         {
           "name": "Absolute Domestics",
-          "mention_rate": 0.37
+          "mention_rate": 0.35
         },
         {
           "name": "Bark",
-          "mention_rate": 0.32
-        },
-        {
-          "name": "Fantastic Cleaners",
-          "mention_rate": 0.32
-        },
-        {
-          "name": "Bizzi Beez",
-          "mention_rate": 0.26
+          "mention_rate": 0.35
         },
         {
           "name": "Word of Mouth",
-          "mention_rate": 0.26
+          "mention_rate": 0.3
+        },
+        {
+          "name": "Fantastic Cleaners",
+          "mention_rate": 0.3
+        },
+        {
+          "name": "Bizzi Beez",
+          "mention_rate": 0.25
         }
       ]
     },
@@ -1299,11 +1299,11 @@
           "mention_rate": 0.65
         },
         {
-          "name": "Seattle Green Cleaning Fairy",
+          "name": "Rain City Maids",
           "mention_rate": 0.6
         },
         {
-          "name": "Rain City Maids",
+          "name": "Seattle Green Cleaning Fairy",
           "mention_rate": 0.6
         },
         {
@@ -1387,96 +1387,96 @@
     {
       "category": "house cleaner",
       "city": "Sydney, Australia",
-      "runs": 18,
+      "runs": 19,
       "slug": "house-cleaner-in-sydney-australia",
       "top": [
         {
           "name": "Simply Maid",
-          "mention_rate": 0.94
-        },
-        {
-          "name": "Pristine Home",
           "mention_rate": 0.89
         },
         {
+          "name": "Pristine Home",
+          "mention_rate": 0.84
+        },
+        {
           "name": "Dash & Shine",
-          "mention_rate": 0.61
+          "mention_rate": 0.58
         },
         {
           "name": "Airtasker",
-          "mention_rate": 0.39
+          "mention_rate": 0.42
         },
         {
           "name": "B.W.T Cleaning Pty Ltd",
-          "mention_rate": 0.28
+          "mention_rate": 0.26
         },
         {
           "name": "Maid2Go",
-          "mention_rate": 0.22
+          "mention_rate": 0.21
         },
         {
           "name": "Miracle Maid",
-          "mention_rate": 0.17
+          "mention_rate": 0.16
         },
         {
-          "name": "Airtasker cleaners",
-          "mention_rate": 0.11
+          "name": "Service.com.au",
+          "mention_rate": 0.16
         },
         {
-          "name": "Word of Mouth",
-          "mention_rate": 0.11
+          "name": "Maid2Go Cleaning Sydney",
+          "mention_rate": 0.16
         },
         {
-          "name": "Maid2Go Cleaning",
-          "mention_rate": 0.11
+          "name": "Clean Australia Service",
+          "mention_rate": 0.16
         }
       ]
     },
     {
       "category": "house cleaner",
       "city": "Sydney, Australia?",
-      "runs": 17,
+      "runs": 18,
       "slug": "house-cleaner-in-sydney-australia?",
       "top": [
         {
-          "name": "Simply Maid",
-          "mention_rate": 0.94
+          "name": "Miracle Maid",
+          "mention_rate": 0.89
         },
         {
-          "name": "Miracle Maid",
-          "mention_rate": 0.94
+          "name": "Simply Maid",
+          "mention_rate": 0.89
         },
         {
           "name": "Pristine Home",
-          "mention_rate": 0.47
+          "mention_rate": 0.44
         },
         {
           "name": "Dash & Shine",
-          "mention_rate": 0.41
-        },
-        {
-          "name": "Maid2Go Cleaning Sydney",
-          "mention_rate": 0.29
+          "mention_rate": 0.39
         },
         {
           "name": "Airtasker",
-          "mention_rate": 0.29
+          "mention_rate": 0.33
         },
         {
-          "name": "Cleanright",
-          "mention_rate": 0.29
-        },
-        {
-          "name": "Cleaning Ease",
-          "mention_rate": 0.24
+          "name": "Maid2Go Cleaning Sydney",
+          "mention_rate": 0.28
         },
         {
           "name": "Bark",
-          "mention_rate": 0.24
+          "mention_rate": 0.28
+        },
+        {
+          "name": "Cleanright",
+          "mention_rate": 0.28
+        },
+        {
+          "name": "Cleaning Ease",
+          "mention_rate": 0.22
         },
         {
           "name": "Bebrite Cleaning Services",
-          "mention_rate": 0.18
+          "mention_rate": 0.17
         }
       ]
     },
@@ -1523,7 +1523,7 @@
           "mention_rate": 0.06
         },
         {
-          "name": "Houzz",
+          "name": "Angi",
           "mention_rate": 0.06
         }
       ]
@@ -1791,11 +1791,11 @@
           "mention_rate": 0.5
         },
         {
-          "name": "C&H Landscaping",
+          "name": "The Fisherman LLC",
           "mention_rate": 0.25
         },
         {
-          "name": "The Fisherman LLC",
+          "name": "C&H Landscaping",
           "mention_rate": 0.25
         },
         {
@@ -1891,11 +1891,11 @@
           "mention_rate": 0.32
         },
         {
-          "name": "Augusta Lawn Care",
+          "name": "Melbourne Decking and Landscaping",
           "mention_rate": 0.26
         },
         {
-          "name": "Melbourne Decking and Landscaping",
+          "name": "Augusta Lawn Care",
           "mention_rate": 0.26
         },
         {
@@ -2079,11 +2079,11 @@
           "mention_rate": 0.26
         },
         {
-          "name": "Seattle Times Best in PNW Nominee",
+          "name": "New Life Rockeries",
           "mention_rate": 0.05
         },
         {
-          "name": "New Life Rockeries",
+          "name": "Seattle Times Best in PNW Nominee",
           "mention_rate": 0.05
         },
         {
@@ -2095,7 +2095,7 @@
           "mention_rate": 0.05
         },
         {
-          "name": "Houzz-listed Seattle professionals",
+          "name": "Licensing, insurance, and estimate responsiveness",
           "mention_rate": 0.05
         },
         {
@@ -2147,7 +2147,7 @@
           "mention_rate": 0.11
         },
         {
-          "name": "Urban Oasis Design & Construction LLC",
+          "name": "Angi",
           "mention_rate": 0.11
         }
       ]
@@ -2251,124 +2251,184 @@
     {
       "category": "personal injury lawyer",
       "city": "Austin, TX",
-      "runs": 12,
+      "runs": 13,
       "slug": "personal-injury-lawyer-in-austin-tx",
       "top": [
-        {
-          "name": "FVF Law Firm",
-          "mention_rate": 0.92
-        },
         {
           "name": "Howry, Breen & Herman, LLP",
           "mention_rate": 0.92
         },
         {
+          "name": "FVF Law Firm",
+          "mention_rate": 0.85
+        },
+        {
           "name": "Thomas J. Henry Law",
-          "mention_rate": 0.67
+          "mention_rate": 0.69
         },
         {
           "name": "Cofer & Connelly, PLLC",
-          "mention_rate": 0.42
+          "mention_rate": 0.38
         },
         {
           "name": "Reyes Law",
-          "mention_rate": 0.33
+          "mention_rate": 0.31
         },
         {
           "name": "McMinn Personal Injury Lawyers",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "Herrman & Herrman, P.L.L.C.",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "Howry, Breen & Herman",
-          "mention_rate": 0.33
-        },
-        {
-          "name": "Lorenz & Lorenz Accident & Injury Lawyers",
-          "mention_rate": 0.25
+          "mention_rate": 0.31
         },
         {
           "name": "Avvo",
-          "mention_rate": 0.25
+          "mention_rate": 0.31
+        },
+        {
+          "name": "Herrman & Herrman, P.L.L.C.",
+          "mention_rate": 0.31
+        },
+        {
+          "name": "Howry, Breen & Herman",
+          "mention_rate": 0.31
+        },
+        {
+          "name": "Lorenz & Lorenz Accident & Injury Lawyers",
+          "mention_rate": 0.23
         }
       ]
     },
     {
       "category": "personal injury lawyer",
       "city": "Austin, TX?",
-      "runs": 11,
+      "runs": 12,
       "slug": "personal-injury-lawyer-in-austin-tx?",
       "top": [
         {
           "name": "FVF Law Firm",
-          "mention_rate": 0.91
+          "mention_rate": 0.83
         },
         {
           "name": "Thomas J. Henry Law",
-          "mention_rate": 0.64
+          "mention_rate": 0.67
         },
         {
           "name": "TK Injury Lawyers",
-          "mention_rate": 0.45
+          "mention_rate": 0.42
         },
         {
           "name": "Howry, Breen & Herman",
-          "mention_rate": 0.45
+          "mention_rate": 0.42
         },
         {
           "name": "Anderson Injury Lawyers",
-          "mention_rate": 0.36
+          "mention_rate": 0.33
         },
         {
           "name": "Sandoval & James",
-          "mention_rate": 0.36
+          "mention_rate": 0.33
         },
         {
           "name": "Herrman & Herrman",
-          "mention_rate": 0.36
+          "mention_rate": 0.33
         },
         {
           "name": "Lorenz & Lorenz",
-          "mention_rate": 0.27
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Howry, Breen & Herman, LLP",
+          "mention_rate": 0.25
         },
         {
           "name": "Cofer & Connelly",
-          "mention_rate": 0.27
-        },
-        {
-          "name": "Experience with your injury type",
-          "mention_rate": 0.18
+          "mention_rate": 0.25
         }
       ]
     },
     {
       "category": "personal injury lawyer",
       "city": "Chicago, IL",
-      "runs": 8,
+      "runs": 9,
       "slug": "personal-injury-lawyer-in-chicago-il",
       "top": [
         {
           "name": "Rosenfeld Injury Lawyers",
-          "mention_rate": 0.88
-        },
-        {
-          "name": "Smith LaCien LLP",
-          "mention_rate": 0.75
+          "mention_rate": 0.89
         },
         {
           "name": "Corboy & Demetrio",
-          "mention_rate": 0.75
+          "mention_rate": 0.78
+        },
+        {
+          "name": "Smith LaCien LLP",
+          "mention_rate": 0.67
         },
         {
           "name": "Salvi, Schostok & Pritchard",
-          "mention_rate": 0.62
+          "mention_rate": 0.56
         },
         {
           "name": "Salvi, Schostok & Pritchard P.C.",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Phillips Law Offices",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Clifford Law Offices",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Disparti Law Group",
+          "mention_rate": 0.22
+        },
+        {
+          "name": "Morgan & Morgan",
+          "mention_rate": 0.22
+        },
+        {
+          "name": "Best Law Firms",
+          "mention_rate": 0.22
+        }
+      ]
+    },
+    {
+      "category": "personal injury lawyer",
+      "city": "Chicago, IL?",
+      "runs": 8,
+      "slug": "personal-injury-lawyer-in-chicago-il?",
+      "top": [
+        {
+          "name": "Corboy & Demetrio",
+          "mention_rate": 0.88
+        },
+        {
+          "name": "Salvi, Schostok & Pritchard",
+          "mention_rate": 0.88
+        },
+        {
+          "name": "Rosenfeld Injury Lawyers",
+          "mention_rate": 0.62
+        },
+        {
+          "name": "Malman Law",
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Morgan & Morgan",
           "mention_rate": 0.38
+        },
+        {
+          "name": "Levin & Perconti",
+          "mention_rate": 0.38
+        },
+        {
+          "name": "Clifford Law Offices",
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Smith LaCien LLP",
+          "mention_rate": 0.25
         },
         {
           "name": "Disparti Law Group",
@@ -2377,162 +2437,102 @@
         {
           "name": "Phillips Law Offices",
           "mention_rate": 0.25
-        },
-        {
-          "name": "Morgan & Morgan",
-          "mention_rate": 0.25
-        },
-        {
-          "name": "Best Law Firms",
-          "mention_rate": 0.25
-        },
-        {
-          "name": "Case type",
-          "mention_rate": 0.25
-        }
-      ]
-    },
-    {
-      "category": "personal injury lawyer",
-      "city": "Chicago, IL?",
-      "runs": 7,
-      "slug": "personal-injury-lawyer-in-chicago-il?",
-      "top": [
-        {
-          "name": "Salvi, Schostok & Pritchard",
-          "mention_rate": 0.86
-        },
-        {
-          "name": "Corboy & Demetrio",
-          "mention_rate": 0.86
-        },
-        {
-          "name": "Malman Law",
-          "mention_rate": 0.57
-        },
-        {
-          "name": "Rosenfeld Injury Lawyers",
-          "mention_rate": 0.57
-        },
-        {
-          "name": "Morgan & Morgan",
-          "mention_rate": 0.43
-        },
-        {
-          "name": "Levin & Perconti",
-          "mention_rate": 0.43
-        },
-        {
-          "name": "Clifford Law Offices",
-          "mention_rate": 0.29
-        },
-        {
-          "name": "Smith LaCien LLP",
-          "mention_rate": 0.29
-        },
-        {
-          "name": "Disparti Law Group",
-          "mention_rate": 0.29
-        },
-        {
-          "name": "Willens & Baez Personal Injury Lawyers",
-          "mention_rate": 0.29
         }
       ]
     },
     {
       "category": "personal injury lawyer",
       "city": "Denver, CO",
-      "runs": 14,
+      "runs": 15,
       "slug": "personal-injury-lawyer-in-denver-co",
       "top": [
         {
           "name": "Ramos Law",
-          "mention_rate": 0.71
-        },
-        {
-          "name": "Jordan Law",
-          "mention_rate": 0.43
+          "mention_rate": 0.73
         },
         {
           "name": "Zaner Law",
-          "mention_rate": 0.43
+          "mention_rate": 0.47
+        },
+        {
+          "name": "Jordan Law",
+          "mention_rate": 0.4
         },
         {
           "name": "Bachus & Schanker",
-          "mention_rate": 0.36
+          "mention_rate": 0.33
         },
         {
           "name": "Harding & Associates",
-          "mention_rate": 0.36
+          "mention_rate": 0.33
         },
         {
           "name": "CGH Injury Lawyers",
-          "mention_rate": 0.36
+          "mention_rate": 0.33
         },
         {
           "name": "Denver Personal Injury Lawyers",
-          "mention_rate": 0.29
+          "mention_rate": 0.27
         },
         {
           "name": "Trial readiness",
-          "mention_rate": 0.29
+          "mention_rate": 0.27
         },
         {
-          "name": "Caseload per attorney",
-          "mention_rate": 0.21
+          "name": "Super Lawyers",
+          "mention_rate": 0.27
         },
         {
-          "name": "Avvo",
-          "mention_rate": 0.21
+          "name": "James Todd Tenge",
+          "mention_rate": 0.27
         }
       ]
     },
     {
       "category": "personal injury lawyer",
       "city": "Denver, CO?",
-      "runs": 13,
+      "runs": 14,
       "slug": "personal-injury-lawyer-in-denver-co?",
       "top": [
         {
           "name": "Jordan Law",
-          "mention_rate": 0.77
+          "mention_rate": 0.79
         },
         {
           "name": "CGH Injury Lawyers",
-          "mention_rate": 0.69
+          "mention_rate": 0.64
         },
         {
           "name": "Ramos Law",
-          "mention_rate": 0.54
+          "mention_rate": 0.5
         },
         {
           "name": "The Wilhite Law Firm",
-          "mention_rate": 0.46
+          "mention_rate": 0.43
         },
         {
           "name": "Franklin D. Azar & Associates",
-          "mention_rate": 0.46
-        },
-        {
-          "name": "Bachus & Schanker",
-          "mention_rate": 0.38
-        },
-        {
-          "name": "Jeremy Rosenthal",
-          "mention_rate": 0.38
+          "mention_rate": 0.43
         },
         {
           "name": "Burg Simpson",
-          "mention_rate": 0.38
+          "mention_rate": 0.43
+        },
+        {
+          "name": "Bachus & Schanker",
+          "mention_rate": 0.36
+        },
+        {
+          "name": "Jeremy Rosenthal",
+          "mention_rate": 0.36
         },
         {
           "name": "Morgan & Morgan",
-          "mention_rate": 0.38
+          "mention_rate": 0.36
         },
         {
           "name": "McQuaid Injury Law",
-          "mention_rate": 0.31
+          "mention_rate": 0.29
         }
       ]
     },
@@ -2551,7 +2551,7 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Shine Lawyers",
+          "name": "Brave Legal",
           "mention_rate": 0.75
         },
         {
@@ -2559,7 +2559,7 @@
           "mention_rate": 0.75
         },
         {
-          "name": "Brave Legal",
+          "name": "Shine Lawyers",
           "mention_rate": 0.75
         },
         {
@@ -2571,11 +2571,11 @@
           "mention_rate": 0.25
         },
         {
-          "name": "Fittipaldi Injury Lawyers",
+          "name": "Gordon Legal",
           "mention_rate": 0.25
         },
         {
-          "name": "Gordon Legal",
+          "name": "Fittipaldi Injury Lawyers",
           "mention_rate": 0.25
         },
         {
@@ -2587,11 +2587,11 @@
     {
       "category": "personal injury lawyer",
       "city": "Melbourne, Australia?",
-      "runs": 3,
+      "runs": 4,
       "slug": "personal-injury-lawyer-in-melbourne-australia?",
       "top": [
         {
-          "name": "Shine Lawyers",
+          "name": "Maurice Blackburn",
           "mention_rate": 1.0
         },
         {
@@ -2599,228 +2599,276 @@
           "mention_rate": 1.0
         },
         {
-          "name": "Maurice Blackburn",
-          "mention_rate": 1.0
+          "name": "Maxiom Injury Lawyers",
+          "mention_rate": 0.75
         },
         {
-          "name": "Maxiom Injury Lawyers",
-          "mention_rate": 0.67
+          "name": "Shine Lawyers",
+          "mention_rate": 0.75
         },
         {
           "name": "Arnold Thomas & Becker",
-          "mention_rate": 0.67
-        },
-        {
-          "name": "GMP Law",
-          "mention_rate": 0.33
+          "mention_rate": 0.5
         },
         {
           "name": "Slater & Gordon",
-          "mention_rate": 0.33
+          "mention_rate": 0.5
         },
         {
-          "name": "Best Lawyers",
-          "mention_rate": 0.33
+          "name": "GMP Law",
+          "mention_rate": 0.25
         },
         {
           "name": "Tier 1",
-          "mention_rate": 0.33
+          "mention_rate": 0.25
         },
         {
           "name": "Law Partners",
-          "mention_rate": 0.33
+          "mention_rate": 0.25
+        },
+        {
+          "name": "Your claim type",
+          "mention_rate": 0.25
         }
       ]
     },
     {
       "category": "personal injury lawyer",
       "city": "Phoenix, AZ",
-      "runs": 6,
+      "runs": 7,
       "slug": "personal-injury-lawyer-in-phoenix-az",
       "top": [
         {
-          "name": "Saguaro Injury Law",
-          "mention_rate": 1.0
+          "name": "Friedl Richardson",
+          "mention_rate": 0.86
         },
         {
-          "name": "Friedl Richardson",
-          "mention_rate": 0.83
+          "name": "Saguaro Injury Law",
+          "mention_rate": 0.86
         },
         {
           "name": "Morgan & Morgan",
-          "mention_rate": 0.83
-        },
-        {
-          "name": "Zanes Law",
-          "mention_rate": 0.67
+          "mention_rate": 0.71
         },
         {
           "name": "Gallagher & Kennedy",
-          "mention_rate": 0.67
+          "mention_rate": 0.71
         },
         {
-          "name": "Expertise",
-          "mention_rate": 0.33
+          "name": "Zanes Law",
+          "mention_rate": 0.57
         },
         {
           "name": "Kelly Law Team",
-          "mention_rate": 0.33
+          "mention_rate": 0.43
         },
         {
           "name": "Super Lawyers",
-          "mention_rate": 0.33
+          "mention_rate": 0.29
+        },
+        {
+          "name": "Expertise",
+          "mention_rate": 0.29
         },
         {
           "name": "Ramos Law",
-          "mention_rate": 0.33
+          "mention_rate": 0.29
         },
         {
-          "name": "Hirsch & Lyon Accident Law PLLC",
-          "mention_rate": 0.17
+          "name": "Wyatt Injury Law",
+          "mention_rate": 0.29
         }
       ]
     },
     {
       "category": "personal injury lawyer",
       "city": "Phoenix, AZ?",
-      "runs": 5,
+      "runs": 6,
       "slug": "personal-injury-lawyer-in-phoenix-az?",
       "top": [
         {
-          "name": "Saguaro Injury Law",
-          "mention_rate": 1.0
-        },
-        {
           "name": "Morgan & Morgan",
-          "mention_rate": 1.0
+          "mention_rate": 0.83
         },
         {
-          "name": "Ramos Law",
-          "mention_rate": 0.6
-        },
-        {
-          "name": "Lerner & Rowe",
-          "mention_rate": 0.6
+          "name": "Saguaro Injury Law",
+          "mention_rate": 0.83
         },
         {
           "name": "Gallagher & Kennedy",
-          "mention_rate": 0.6
+          "mention_rate": 0.67
         },
         {
           "name": "Phillips Law Group",
-          "mention_rate": 0.6
+          "mention_rate": 0.67
         },
         {
-          "name": "Lerner & Rowe Injury Attorneys",
-          "mention_rate": 0.4
+          "name": "Ramos Law",
+          "mention_rate": 0.5
+        },
+        {
+          "name": "Lerner & Rowe",
+          "mention_rate": 0.5
         },
         {
           "name": "Zinda Law Group",
-          "mention_rate": 0.4
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Lerner & Rowe Injury Attorneys",
+          "mention_rate": 0.33
         },
         {
           "name": "Runion Law",
-          "mention_rate": 0.2
+          "mention_rate": 0.17
         },
         {
           "name": "Zanes Law",
-          "mention_rate": 0.2
+          "mention_rate": 0.17
         }
       ]
     },
     {
       "category": "personal injury lawyer",
       "city": "Seattle, WA",
-      "runs": 10,
+      "runs": 11,
       "slug": "personal-injury-lawyer-in-seattle-wa",
       "top": [
         {
           "name": "Dubin Law Group",
-          "mention_rate": 0.9
+          "mention_rate": 0.82
         },
         {
           "name": "Colburn Law",
-          "mention_rate": 0.6
-        },
-        {
-          "name": "Boohoff Law",
-          "mention_rate": 0.6
-        },
-        {
-          "name": "Davis Law Group",
-          "mention_rate": 0.5
+          "mention_rate": 0.64
         },
         {
           "name": "Morgan & Morgan",
-          "mention_rate": 0.5
+          "mention_rate": 0.55
+        },
+        {
+          "name": "Boohoff Law",
+          "mention_rate": 0.55
         },
         {
           "name": "Stritmatter Kessler Koehler Moore",
-          "mention_rate": 0.4
+          "mention_rate": 0.45
+        },
+        {
+          "name": "Davis Law Group",
+          "mention_rate": 0.45
         },
         {
           "name": "Pendergast Law",
-          "mention_rate": 0.4
+          "mention_rate": 0.45
         },
         {
           "name": "Andrew Ackley, Karen Koehler, and Lisa Benedetti",
-          "mention_rate": 0.3
+          "mention_rate": 0.36
         },
         {
           "name": "Bishop Legal",
-          "mention_rate": 0.3
+          "mention_rate": 0.27
         },
         {
-          "name": "Recognition",
-          "mention_rate": 0.2
+          "name": "Stritmatter Law",
+          "mention_rate": 0.27
         }
       ]
     },
     {
       "category": "personal injury lawyer",
       "city": "Seattle, WA?",
-      "runs": 9,
+      "runs": 10,
       "slug": "personal-injury-lawyer-in-seattle-wa?",
       "top": [
         {
           "name": "Davis Law Group",
-          "mention_rate": 0.89
-        },
-        {
-          "name": "Dubin Law Group",
-          "mention_rate": 0.78
+          "mention_rate": 0.9
         },
         {
           "name": "Pendergast Law",
-          "mention_rate": 0.78
+          "mention_rate": 0.8
         },
         {
           "name": "Morgan & Morgan",
-          "mention_rate": 0.78
+          "mention_rate": 0.8
+        },
+        {
+          "name": "Dubin Law Group",
+          "mention_rate": 0.7
         },
         {
           "name": "Boohoff Law",
-          "mention_rate": 0.67
+          "mention_rate": 0.6
         },
         {
           "name": "Carpenter & Zuckerman",
-          "mention_rate": 0.44
-        },
-        {
-          "name": "Colburn Law",
-          "mention_rate": 0.22
-        },
-        {
-          "name": "Bishop Legal",
-          "mention_rate": 0.22
+          "mention_rate": 0.4
         },
         {
           "name": "Stritmatter Law",
-          "mention_rate": 0.22
+          "mention_rate": 0.3
         },
         {
-          "name": "Khan Injury Law",
-          "mention_rate": 0.11
+          "name": "Bishop Legal",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Colburn Law",
+          "mention_rate": 0.2
+        },
+        {
+          "name": "Le & Kittleson",
+          "mention_rate": 0.2
+        }
+      ]
+    },
+    {
+      "category": "personal injury lawyer",
+      "city": "Sydney, Australia",
+      "runs": 3,
+      "slug": "personal-injury-lawyer-in-sydney-australia",
+      "top": [
+        {
+          "name": "Maurice Blackburn",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "BPC Lawyers",
+          "mention_rate": 1.0
+        },
+        {
+          "name": "Law Partners",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Jameson Law",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Turner Freeman",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Garling & Co",
+          "mention_rate": 0.67
+        },
+        {
+          "name": "Boarding Legal",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Gilchrist Connell",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Sydney Tier 1",
+          "mention_rate": 0.33
+        },
+        {
+          "name": "Advantage Legal",
+          "mention_rate": 0.33
         }
       ]
     }

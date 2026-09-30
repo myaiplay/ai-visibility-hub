@@ -20,8 +20,8 @@ utm: index_page
 |---|---|---|
 | 1 | Maid to Clean | 95% |
 | 2 | Inner City Maids | 65% |
-| 3 | Airtasker | 50% |
-| 4 | Cleaning Professionals | 50% |
+| 3 | Cleaning Professionals | 50% |
+| 4 | Airtasker | 50% |
 | 5 | Maid in Melbourne | 35% |
 | 6 | Word of Mouth | 35% |
 | 7 | MyHome | 15% |

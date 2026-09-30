@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for personal injury lawyer in Phoenix, AZ?"
-description: "We ran 6 recorded AI search tests for personal injury lawyer in Phoenix, AZ. These businesses get named most often."
+description: "We ran 7 recorded AI search tests for personal injury lawyer in Phoenix, AZ. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Phoenix, AZ", "description": "Recorded AI search test results (6 runs) showing which businesses AI engines name for personal injury lawyer in Phoenix, AZ.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-phoenix-az/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Phoenix, AZ", "description": "Recorded AI search test results (7 runs) showing which businesses AI engines name for personal injury lawyer in Phoenix, AZ.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-phoenix-az/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a personal injury lawyer in Phoenix, AZ?
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Phoenix, AZ", "who should I hire for personal injury lawyer services near Phoenix, AZ?") across 6 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Phoenix, AZ", "who should I hire for personal injury lawyer services near Phoenix, AZ?") across 7 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Saguaro Injury Law | 100% |
-| 2 | Friedl Richardson | 83% |
-| 3 | Morgan & Morgan | 83% |
-| 4 | Zanes Law | 67% |
-| 5 | Gallagher & Kennedy | 67% |
-| 6 | Expertise | 33% |
-| 7 | Kelly Law Team | 33% |
-| 8 | Super Lawyers | 33% |
-| 9 | Ramos Law | 33% |
-| 10 | Hirsch & Lyon Accident Law PLLC | 17% |
+| 1 | Friedl Richardson | 86% |
+| 2 | Saguaro Injury Law | 86% |
+| 3 | Morgan & Morgan | 71% |
+| 4 | Gallagher & Kennedy | 71% |
+| 5 | Zanes Law | 57% |
+| 6 | Kelly Law Team | 43% |
+| 7 | Super Lawyers | 29% |
+| 8 | Expertise | 29% |
+| 9 | Ramos Law | 29% |
+| 10 | Wyatt Injury Law | 29% |
 
-*Based on 6 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 7 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 

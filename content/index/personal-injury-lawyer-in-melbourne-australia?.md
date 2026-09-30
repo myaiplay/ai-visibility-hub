@@ -1,35 +1,35 @@
 ---
 title: "Who does AI recommend for personal injury lawyer in Melbourne, Australia??"
-description: "We ran 3 recorded AI search tests for personal injury lawyer in Melbourne, Australia?. These businesses get named most often."
+description: "We ran 4 recorded AI search tests for personal injury lawyer in Melbourne, Australia?. These businesses get named most often."
 type: article
 date: 2026-08-16
 utm: index_page
 ---
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Melbourne, Australia?", "description": "Recorded AI search test results (3 runs) showing which businesses AI engines name for personal injury lawyer in Melbourne, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-melbourne-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "AI recommendation frequency: personal injury lawyer in Melbourne, Australia?", "description": "Recorded AI search test results (4 runs) showing which businesses AI engines name for personal injury lawyer in Melbourne, Australia?.", "url": "https://myaiplay.github.io/ai-visibility-hub/index/personal-injury-lawyer-in-melbourne-australia?/", "creator": {"@type": "Organization", "name": "AI Visibility Index"}, "temporalCoverage": "2026-08/..", "license": "https://creativecommons.org/licenses/by/4.0/"}
 </script>
 
 # Who does AI recommend when asked for a personal injury lawyer in Melbourne, Australia??
 
 <div class="answer">
-<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Melbourne, Australia?", "who should I hire for personal injury lawyer services near Melbourne, Australia??") across 3 recorded test runs. Below: which businesses were named, and how often.
+<strong>Method:</strong> we asked AI search engines real buyer questions ("best personal injury lawyer in Melbourne, Australia?", "who should I hire for personal injury lawyer services near Melbourne, Australia??") across 4 recorded test runs. Below: which businesses were named, and how often.
 </div>
 
 | Rank | Business | Named in % of answers |
 |---|---|---|
-| 1 | Shine Lawyers | 100% |
+| 1 | Maurice Blackburn | 100% |
 | 2 | Fittipaldi Injury Lawyers | 100% |
-| 3 | Maurice Blackburn | 100% |
-| 4 | Maxiom Injury Lawyers | 67% |
-| 5 | Arnold Thomas & Becker | 67% |
-| 6 | GMP Law | 33% |
-| 7 | Slater & Gordon | 33% |
-| 8 | Best Lawyers | 33% |
-| 9 | Tier 1 | 33% |
-| 10 | Law Partners | 33% |
+| 3 | Maxiom Injury Lawyers | 75% |
+| 4 | Shine Lawyers | 75% |
+| 5 | Arnold Thomas & Becker | 50% |
+| 6 | Slater & Gordon | 50% |
+| 7 | GMP Law | 25% |
+| 8 | Tier 1 | 25% |
+| 9 | Law Partners | 25% |
+| 10 | Your claim type | 25% |
 
-*Based on 3 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
+*Based on 4 recorded runs. AI answers vary between runs — treat as directional, not a ranking.*
 
 ## Is your business on this list?
 
